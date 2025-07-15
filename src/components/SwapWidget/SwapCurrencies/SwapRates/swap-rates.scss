@@ -1,0 +1,32 @@
+@import '@styles/_variables.scss';
+
+.swap-rates {
+  @include container;
+  padding: 0 0 10px;
+  gap: 10px;
+
+  &__contaner {
+    @include container;
+    gap: 10px;
+  }
+
+  &__title {
+    @include playfair(22px);
+    margin: 0 10px;
+  }
+
+  &__button.button {
+    align-self: center;
+    margin: 20px 0 10px;
+  }
+}
+
+@include custom-media-min($middle-desk-min) {
+  .swap-rates {
+    align-self: flex-start;
+    margin-top: 10px;
+    &__title {
+      margin: 0;
+    }
+  }
+}

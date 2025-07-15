@@ -1,0 +1,22 @@
+.popup-input {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  &__label {
+    line-height: normal;
+    font-size: 14px;
+    color: var(--color-text4);
+  }
+  &__fields {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: unset;
+    border: 1px solid var(--form-stroke);
+    border-radius: 10px;
+    padding: 10px;
+    color: var(--color-text);
+    text-overflow: ellipsis;
+    font-size: 14px;
+  }
+}

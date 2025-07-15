@@ -1,0 +1,387 @@
+{
+  "MENU_BAR": [
+    {
+      "TITLE": "RUDEX swap",
+      "LINK": "/",
+      "TARGET": "_self"
+    },
+    {
+      "TITLE": "DEX",
+      "LINK": "https://market.rudex.org/"
+    },
+    {
+      "TITLE": "Listing",
+      "LINK": "https://market.rudex.org/#/listing"
+    },
+    {
+      "TITLE": "DEXbot",
+      "LINK": "https://github.com/graphene-blockchain/DEXBot"
+    }
+  ],
+  "HEADER": "Exchange crypto",
+  "SWAP_BUTTON": "CRYPTO SWAP",
+  "SWAP_WIDGET": {
+    "TITLE": "Exchange crypto",
+    "SEND": "You send",
+    "RECIVE": "You recive",
+    "NO_RATE": "No rate",
+    "START_OFFERS_TITLE": "Exchange crypto",
+    "START_OFFERS_DESCRIPTION": "Select a currency and enter how much you want to exchange",
+    "CHANGE_OFFERS_TITLE": "No offers matching your search, try another request",
+    "CHANGE_OFFERS_DESCRIPTION": "Change the swap pair and proceed",
+    "CHANGE_OFFERS_DESCRIPTION_MIN": "Change the swap pair and proceed. The minimum amount to send for this pair is {amount}",
+    "SELECT_OFFER": "Select an offer",
+    "TIME": "min",
+    "ETA": "ETA",
+    "RATE": {
+      "TITLE": "Rate",
+      "FLOAT": "Floating ~",
+      "FIX": "Fix"
+    },
+    "EXCHANGE_BUTTON": "Exchange",
+    "BEST_RATE": "best rate",
+    "MORE_BUTTON": "See more"
+  },
+  "POPUP_EXCHANGE": {
+    "TITLE": "Enter details",
+    "SEND": "You send",
+    "RECIVE": "You recive",
+    "INPUT_ADRESS_LABEL": "Recipient wallet",
+    "INPUT_ADRESS_DESCRIPTION": "Enter address to receive {recive} (required)",
+    "INPUT_DESTINATION_LABEL": "Memo",
+    "INPUT_DESTINATION_DESCRIPTION": "Enter memo(optional)",
+    "INPUT_REFUND_LABEL": "Refund wallet",
+    "INPUT_REFUND_DESCRIPTION": "Address to refund {refund} (optional)",
+    "INPUT_REFUND_DESCRIPTION_REQ": "Address to refund {refund} (required)",
+    "INPUT_ADVANCED_SETTINGS": "Advanced settings",
+    "EXCHANGE_BUTTON": "Exchange",
+    "ERORR_MESSAGE": "Error occurred while making request:"
+  },
+  "STATUS_TRANSACTION": {
+    "TITLE": "Current Application Status",
+    "SUBTITLE_ONE": "Your deposit address is now ready. Please transfer the exact amount to the given address or scan the QR code",
+    "SUBTITLE_TWO": "Ensure you use the correct network and include the memo or destination tag if required for a smooth transaction process.",
+    "SUBTITLE_ATTENTION": "<b>Important</b>: Please <b>copy</b> and <b>save</b> your <b class='attention' >Exchange ID</b> shown below. It is required if you need to contact <a class='link-text' href='https://rudex.freshdesk.com/support/home'>customer support</a>.",
+    "HEADER": "Please transfer the requested amount",
+    "INFO": {
+      "ADRESS": "Address",
+      "MEMO": "Memo",
+      "TIME": "Time remaining to send funds",
+      "RESULT_WALLET": "You will get result to wallet",
+      "RESULT_AMOUNT": "The amount you will receive",
+      "EXCHANGE_ID": "Exchange ID",
+      "TIME_IS_OVER": "The deposit will be processed at a new rate."
+    },
+    "CONFIRMING_INFO": {
+      "TITLE_HEADER": "Awaiting blockchain confirmation...",
+      "TITLE_INFO": "Your deposit is on the way",
+      "TEXT_INFO": "The partner is waiting for confirmation of your deposit in the blockchain of the sending currency"
+    },
+    "EXCHANGING_INFO": {
+      "TITLE_HEADER": "Exchanging your funds...",
+      "TITLE_INFO": "Deposit confirmed",
+      "TEXT_INFO": "The partner has received your deposit and is now exchanging your funds"
+    },
+    "SENDING_INFO": {
+      "TITLE_HEADER": "Sending your funds...",
+      "TITLE_INFO": "Exchange completed",
+      "TEXT_INFO": "The partner has finished the exchange and is sending the funds to your address"
+    }
+  },
+  "STATUS_SUCCESS": {
+    "HEADER_TITLE": "Success!",
+    "SWAP_INFO": "Your {send} to {recive} swap has finished",
+    "AMOUNT_EXPECTED": "Amount expected",
+    "AMOUNT_RECEIVED": "Amount received",
+    "TIME_SPENT": "Time spent",
+    "TIME_MIN": "min",
+    "RATE_TRUNSPILOT": "Rate un on Trustpilot",
+    "NEW_ORDER": "Create a new order"
+  },
+  "HOW_IT_WORKS": {
+    "TITLE": "How a Crypto Swap Works?",
+    "ITEMS": [
+      {
+        "TITLE": "Choose a pair",
+        "SUBTITLE": "Select the cryptocurrency pair you'd like to exchange"
+      },
+      {
+        "TITLE": "Select offer",
+        "SUBTITLE": "Pick the most suitable offer for your pair"
+      },
+      {
+        "TITLE": "Enter wallet address",
+        "SUBTITLE": "Provide your wallet address to receive the coins"
+      },
+      {
+        "TITLE": "Send deposit",
+        "SUBTITLE": "Transfer your deposit to the specified address"
+      },
+      {
+        "TITLE": "Wait for completion",
+        "SUBTITLE": "Wait for the completion of your swap"
+      }
+    ]
+  },
+  "START_SWAP": {
+    "TITLE": "Start swap now!",
+    "SUBTITLE": "Take advantage of this profitable opportunity right now",
+    "BUTTON": "Exchange crypto"
+  },
+  "FEATURES": {
+    "TITLE": "Why RUDEX?",
+    "ITEMS": [
+      {
+        "TITLE": "Over 1600 Currencies Available",
+        "SUBTITLE": "With RUDEX swap, it’s nearly impossible not to find the cryptocurrency you’re looking for!",
+        "IMG": "coins"
+      },
+      {
+        "TITLE": "Top Rates",
+        "SUBTITLE": "We display offers from the most trusted and popular exchange providers. Choose the best deal for your crypto pair!",
+        "IMG": "ranking"
+      },
+      {
+        "TITLE": "Enhanced Security",
+        "SUBTITLE": "We thoroughly vet all exchangers to minimize the risk of fund freezing. Rest assured, your funds will reach you safely!",
+        "IMG": "padlock"
+      },
+      {
+        "TITLE": "Customer Support",
+        "SUBTITLE": "We're here to assist you at every step of your transaction. Don't hesitate to reach out to us!",
+        "IMG": "support"
+      },
+      {
+        "TITLE": "DEX",
+        "SUBTITLE": "Decentralized assets exchange on a single international market",
+        "IMG": "blockchain"
+      },
+      {
+        "TITLE": "Simple interface",
+        "SUBTITLE": "Thought out design for the ease of use",
+        "IMG": "description"
+      }
+    ]
+  },
+  "ABOUT_US": {
+    "TITLE": "About us",
+    "DESCRIPTION": "RUDEX is a point of entry to the decentralized market that provides a set of advanced trading tools, but at the same time remains accessible to less experienced users."
+  },
+  "PRODUCTS": {
+    "TITLE": "Product family",
+    "ITEMS": [
+      {
+        "TITLE": "DEX",
+        "SUBTITLE": "Decentralized market that provides a set of advanced trading tools",
+        "IMG": "dex",
+        "LINK": "https://market.rudex.org/"
+      },
+      {
+        "TITLE": "DEXbot",
+        "SUBTITLE": "Free, open source bot for trading on Graphene DEX",
+        "IMG": "dex-bot",
+        "LINK": "https://github.com/graphene-blockchain/DEXBot"
+      },
+      {
+        "TITLE": "Listing",
+        "SUBTITLE": "Organize an exchange of your tokenon our exchange",
+        "IMG": "listing",
+        "LINK": "https://market.rudex.org/#/listing"
+      }
+    ]
+  },
+  "FOOTER": {
+    "ITEMS": [
+      {
+        "TITLE": "RUDEX swap",
+        "LINK": "/",
+        "TARGET": "_self"
+      },
+      {
+        "TITLE": "DEX",
+        "LINK": "https://market.rudex.org/"
+      },
+      {
+        "TITLE": "Listing",
+        "LINK": "https://market.rudex.org/#/listing"
+      },
+      {
+        "TITLE": "DEXbot",
+        "LINK": "https://github.com/graphene-blockchain/DEXBot"
+      },
+      {
+        "TITLE": "Support",
+        "LINK": "https://rudex.freshdesk.com/support/home"
+      },
+      {
+        "TITLE": "Graphene Block Exlorer",
+        "LINK": "https://explorer.gph.ai/"
+      },
+      {
+        "TITLE": "Graphene Documentation",
+        "LINK": "https://docs.gph.ai/"
+      },
+      {
+        "TITLE": "Graphene Developer Documentation Portal",
+        "LINK": "https://developers.gph.ai/"
+      }
+    ],
+    "AGREEMENT": {
+      "TEXT": "User agreement",
+      "LINK": "https://rudex.freshdesk.com/support/solutions/articles/35000138245-gateway-service-agreement"
+    },
+    "COPY": "© Blockchained 2017-{year}. All Rights Reserved"
+  },
+  "CHECK_STATUS": {
+    "TITLE": "Check your transaction",
+    "LABEL": "Enter your transaction ID",
+    "BUTTON": "Check",
+    "INFO": {
+      "STATUS": "Status",
+      "CREATED_TIME": "Created",
+      "DEPOSIT": "Awaiting deposit",
+      "DEPOSITED": "You sent",
+      "RECIEVE": "You will recive",
+      "RECIEVED": "You recived",
+      "ADRESS_DEPOSIT": "Deposit wallet",
+      "ADRESS_RECEIVE": "Receive wallet"
+    },
+    "MORE": "More"
+  },
+  "STATUS": {
+    "WAITING": "Waiting",
+    "CONFIRMING": "Deposit received",
+    "EXCHANGING": "Exchanging",
+    "SENDING": "Sending",
+    "FINISHED": "Success",
+    "FAILED": "Something went wrong",
+    "REFUNDED": "Refunded",
+    "OVERDUE": "The time has ended"
+  },
+  "MORE_RATES_WIDGET_TITLE": "Exchange {deposit} to {receive} with the Lowest Fees",
+  "HOW_TO_SWAP": {
+    "TITLE": "How to swap {deposit} to {receive}?",
+    "SUBTITLE": {
+      "FIRST": "Exchange {deposit} {depositNetwork} to {receive} {receiveNetwork} effortlessly with our user-friendly interface, generous rates, and no sign up.",
+      "SECOND": "Follow these 7 steps for a seamless transaction:"
+    },
+    "ITEMS": [
+      {
+        "ITEM": "Choose the desired crypto pair. Make sure that the exchange page has the cryptocurrencies you need."
+      },
+      {
+        "ITEM": "Input the amount of {deposit} {depositNetwork}. Convert {deposit} {depositNetwork} to {receive} {receiveNetwork} to precise exchange amounts."
+      },
+      {
+        "ITEM": "Compare the rates. Review offered conversion rates by different platforms."
+      },
+      {
+        "ITEM": "Click on the exchange button. Start your {deposit} {depositNetwork} exchange."
+      },
+      { "ITEM": "Provide your {receive} {receiveNetwork} wallet address." },
+      {
+        "ITEM": "Transfer your {deposit} {depositNetwork} to the given address."
+      },
+      {
+        "ITEM": "Once the transaction is confirmed, you’ll get your XMR into your crypto wallet."
+      }
+    ],
+    "BUTTON": "Exchange crypto"
+  },
+  "QUESTIONS": {
+    "TITLE": "Frequently Asked Questions",
+    "ITEMS": [
+      {
+        "TITLE": "Instant crypto exchange aggregator",
+        "INFO": [
+          {
+            "TEXT": "RUDEX swap is a non-custodial instant crypto exchange aggregator that enables users to explore a global network of registered exchanges. It provides a comprehensive list of those that support specific trading or swap pairs."
+          },
+          {
+            "TEXT": "Our platform ensures seamless crypto trading, offering users greater flexibility and a wide range of choices. With over 18 registered crypto exchanges and more than 1000 supported cryptocurrencies, RUDEX swap empowers users to make informed purchasing decisions based on various factors, including price, ratings, transaction speed, and more."
+          },
+          {
+            "TEXT": "In short, RUDEX swap consolidates the best crypto trading opportunities into one place, helping you maximize your swaps and conversions."
+          }
+        ],
+        "TYPE": "array"
+      },
+      {
+        "TITLE": "How RUDEX Swap Works",
+        "INFO": [
+          {
+            "TEXT": "RUDEX swap continuously monitors and compares some of the best cryptocurrency exchange rates across all available pairs. We obtain these real-time rates directly from our partnered exchanges, presenting them to you so you can make your swaps through your preferred platform."
+          },
+          {
+            "TEXT": "Visiting each exchange individually to compare rates or creating user accounts can be time-consuming. Our instant crypto exchange service eliminates these hassles, providing you with optimal satisfaction and benefits."
+          },
+          {
+            "TEXT": "After selecting the digital currencies you wish to swap, you'll receive offers from various exchanges, complete with their rates. You can choose based on the parameters provided in the offers."
+          }
+        ],
+        "TYPE": "array"
+      },
+      {
+        "TITLE": "How We Compare Rates",
+        "INFO": {
+          "TEXT": "RUDEX swap utilizes a variety of parameters and filters to compare rates and help you secure the best deals. Here are the key factors to consider when selecting an exchange on our platform:",
+          "ARRAY_ONE": {
+            "TEXT": "<b>Types of Rates:</b> Transactions typically take just a few minutes to process, during which cryptocurrency prices can fluctuate significantly. We provide two types of rates to help you navigate these changes:",
+            "ARRAY": [
+              {
+                "TEXT": "<b>Fixed Rates:</b> With this option, you’ll receive your swapped tokens at approximately the rate displayed when you clicked the ‘exchange’ button, regardless of any price fluctuations."
+              },
+              {
+                "TEXT": "<b>Floating Rates:</b> This allows you to take advantage of price volatility. If the price moves in your favor during the waiting period, you’ll receive more coins than initially shown."
+              }
+            ],
+            "TEXT_CLOSE": "However, if prices drop, you may end up with fewer coins. If you prefer to avoid risk, we recommend opting for the fixed rate."
+          },
+          "ARRAY_TWO": [
+            {
+              "TEXT": "<b>ETA (Estimated Time of Arrival):</b> This indicates the approximate time it typically takes to complete a crypto exchange. If a fast transaction is your priority, choose an exchange with the lowest ETA."
+            },
+            {
+              "TEXT": "<b>Fees:</b> RUDEX swap does not impose transaction fees; however, we include the exchange and network fees in the rates you see. Generally, exchanges with lower fees offer better deals."
+            },
+            {
+              "TEXT": "<b>Best Rate Tag:</b> After compiling a list of exchanges supporting your swap pairs, we designate the one with the most favorable rate as the 'best rate.' If rates are your main concern, you may want to choose this exchange."
+            }
+          ]
+        },
+        "TYPE": "unic"
+      },
+      {
+        "TITLE": "How to Swap Cryptocurrency",
+        "INFO": {
+          "TEXT": "As an instant crypto exchange aggregator, RUDEX allows you to swap cryptocurrencies without the need to create an account. Once you’ve chosen the cryptocurrencies you want to exchange, you can start and finish the process in as little as 5 minutes. For example, if you want to swap Bitcoin (BTC) for Litecoin (LTC), simply follow these steps:",
+          "ARRAY": [
+            {
+              "TEXT": "Select the BTC to LTC pair and enter the total amount of BTC you wish to exchange."
+            },
+            {
+              "TEXT": "Compare the available rates to find the best BTC to LTC exchange deal, then click the exchange button on the right to proceed."
+            },
+            {
+              "TEXT": "Enter the wallet address where you would like to receive your LTC."
+            },
+            {
+              "TEXT": "Copy the generated Bitcoin address and send your BTC deposit."
+            },
+            {
+              "TEXT": "RUDEX swap will process the transaction and notify you once it is successfully completed."
+            }
+          ],
+          "ARRAY_CLASS": "number"
+        },
+        "TYPE": "list"
+      }
+    ]
+  },
+  "PAGE_NOT_FOUND": { "TITLE": "Page not found", "BUTTON": "Return home" },
+  "HELMET": {
+    "TITLE": "RUDEX swap - cryptocurrency exchange",
+    "DESCRIPTION": "RUDEX swap is an instant cryptocurrency exchange aggregator that allows you to easily swap over 1600 cryptocurrencies without registration. We offer competitive rates and reliable protection of your funds.",
+    "KEYWORDS": "RUDEX swap, cryptocurrency exchange, instant swap, cryptocurrencies, secure exchange"
+  }
+}

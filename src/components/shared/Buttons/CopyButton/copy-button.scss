@@ -1,0 +1,44 @@
+@import '@styles/_variables';
+
+.copy-button {
+  @include container;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  height: max-content;
+
+  &__button {
+    position: relative;
+    width: 14px;
+    height: 14px;
+    min-width: 14px;
+    min-height: 14px;
+    background-color: unset;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+
+    &:hover {
+      opacity: 0.8;
+      transition: 0.5s;
+    }
+
+    & > svg {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: inherit;
+      height: inherit;
+
+      & > g > path {
+        fill: var(--color-text);
+      }
+    }
+  }
+}
+
+@include tablet {
+  .copy-button {
+    width: max-content;
+  }
+}

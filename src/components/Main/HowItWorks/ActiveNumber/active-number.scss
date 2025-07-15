@@ -1,0 +1,119 @@
+@import '@styles/_variables';
+
+.active-number {
+  @include container;
+  align-items: center;
+  justify-content: space-between;
+  transition: 0.5s;
+  max-height: 200px;
+
+  &.last {
+    .active-number__element {
+      display: none;
+    }
+  }
+
+  &__circle {
+    position: relative;
+    box-sizing: border-box;
+    width: 48px;
+    height: 48px;
+    max-width: 48px;
+    min-height: 48px;
+    @include playfair(28px);
+
+    border-radius: 50%;
+    background: var(--color-blue-gradient);
+    border: 1px solid var(--main-blue);
+
+    &::after {
+      content: attr(data-number);
+      position: absolute;
+      color: var(--color-white);
+      height: max-content;
+      width: max-content;
+      left: 50%;
+      top: 50%;
+      transform: translateX(-50%) translateY(-65%);
+    }
+  }
+
+  &.wait {
+    opacity: 0.5;
+    transition: 0.5s;
+
+    & .active-number__circle {
+      background: transparent;
+      border: 1px solid var(--inative-dark);
+
+      &::after {
+        color: var(--inative-dark);
+      }
+    }
+
+    & .active-number__title,
+    .active-number__subtitle {
+      color: var(--inative-dark);
+    }
+  }
+
+  &__element {
+    display: none;
+    position: absolute;
+    top: 24px;
+    right: 0;
+    height: 2px;
+    background: var(--progress-stroke);
+    border-radius: 1px;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  &__progress {
+    height: 100%;
+    background: var(--color-blue-gradient);
+  }
+
+  &__title {
+    @include playfair(24px);
+    margin: 10px 0 5px;
+    color: var(--color-text);
+    text-align: center;
+  }
+
+  &__subtitle {
+    @include inter('light');
+    color: var(--color-text4);
+    text-align: center;
+  }
+}
+
+@include tablet {
+  .active-number {
+    &__element {
+      display: flex;
+      width: 60%;
+      transform: translateX(calc(50% + 15px));
+    }
+
+    &__circle {
+      width: 60px;
+      height: 60px;
+      max-width: 60px;
+      min-height: 60px;
+    }
+
+    &__title {
+      @include playfair(28px);
+      margin: 20px 0 5px;
+    }
+  }
+}
+
+@include desktop {
+  .active-number {
+    &__title {
+      @include playfair(28px);
+    }
+  }
+}

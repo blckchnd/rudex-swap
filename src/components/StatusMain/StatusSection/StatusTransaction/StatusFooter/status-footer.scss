@@ -1,0 +1,12 @@
+@import '@styles/_variables';
+
+.status-footer {
+  @include container;
+  gap: 20px;
+  padding: 30px 0 0;
+  border-top: 1px solid var(--popup-stroke);
+
+  &__container {
+    border: none;
+  }
+}

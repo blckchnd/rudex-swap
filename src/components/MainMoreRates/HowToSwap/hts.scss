@@ -1,0 +1,71 @@
+@import '@styles/_variables';
+
+.hts {
+  @include container;
+  align-items: center;
+  background-image: url(@images/cards/card2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  padding: 40px 20px;
+  transition: 0.5s;
+
+  &__wrapper {
+    @include container;
+    align-items: center;
+    max-width: $max-width;
+    gap: 40px;
+  }
+
+  &__title {
+    @include playfair(36px);
+    color: var(--color-white);
+    text-align: center;
+  }
+  &__subtitle {
+    @include inter('light');
+    color: var(--color-white);
+    text-align: center;
+  }
+
+  &__items {
+    @include container;
+    gap: 5px;
+    max-width: 700px;
+    color: var(--color-white);
+    margin: 0;
+  }
+
+  &__network {
+    @include inter('light');
+    font-size: 12px;
+    padding: 1px 4px;
+    border-radius: 5px;
+    background-color: var(--text-white-hover);
+  }
+}
+
+@include tablet {
+  .hts {
+    padding: 70px 50px;
+    background-size: 100%;
+    transition: 0.5s;
+
+    &__title {
+      @include playfair(40px);
+    }
+  }
+}
+
+@include desktop {
+  .hts {
+    padding: 100px 150px;
+
+    &__title {
+      @include playfair(64px);
+    }
+    &__subtitle {
+      font-size: 18px;
+    }
+  }
+}

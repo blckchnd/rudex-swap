@@ -1,0 +1,73 @@
+@import '@styles/_variables';
+
+.start-swap {
+  @include container;
+  align-items: center;
+  background-image: url(@images/cards/card2.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 200%;
+  padding: 40px 20px;
+  transition: 0.5s;
+
+  &__wrapper {
+    @include container;
+    align-items: center;
+    max-width: $max-width;
+    gap: 40px;
+  }
+
+  &__container {
+    @include container;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+    color: var(--color-white);
+  }
+
+  &__title {
+    @include playfair(36px);
+  }
+  &__subtitle {
+    @include inter('light');
+  }
+}
+
+@include tablet {
+  .start-swap {
+    padding: 70px 50px;
+
+    background-size: 100%;
+    transition: 0.5s;
+
+    &__wrapper {
+      @include container;
+      flex-direction: row;
+      justify-content: space-between;
+      gap: 120px;
+    }
+
+    &__container {
+      text-align: start;
+      align-items: flex-start;
+      justify-content: start;
+    }
+
+    &__title {
+      @include playfair(40px);
+    }
+  }
+}
+
+@include desktop {
+  .start-swap {
+    padding: 100px 150px;
+
+    &__title {
+      @include playfair(64px);
+    }
+    &__subtitle {
+      font-size: 18px;
+    }
+  }
+}

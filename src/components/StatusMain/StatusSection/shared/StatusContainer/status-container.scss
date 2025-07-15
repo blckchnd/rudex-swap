@@ -1,0 +1,18 @@
+@import '@styles/_variables';
+
+.status-container {
+  @include container;
+  flex-direction: row;
+  gap: 5px;
+  width: max-content;
+
+  &__network {
+    @include inter('light');
+    font-size: 12px;
+    padding: 0 4px;
+    border-radius: 5px;
+    color: var(--color-attention);
+    background-color: rgba(255, 111, 27, 0.2);
+    height: max-content;
+  }
+}

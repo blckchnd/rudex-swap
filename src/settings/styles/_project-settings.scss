@@ -1,0 +1,171 @@
+@import './_variables.scss';
+
+@font-face {
+  font-family: Playfair;
+  src:
+    url('../fonts/playfair/PlayfairDisplay-Bold.woff2') format('woff2'),
+    url('../fonts/playfair/PlayfairDisplay-Bold.otf') format('opentype'),
+    url('../fonts/playfair/PlayfairDisplay-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Inter-Light;
+  src:
+    url('../fonts/inter/Inter-Light.woff2') format('woff2'),
+    url('../fonts/inter/Inter-Light.otf') format('opentype'),
+    url('../fonts/inter/Inter-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Inter-Regular;
+  src:
+    url('../fonts/inter/Inter-Regular.woff2') format('woff2'),
+    url('../fonts/inter/Inter-Regular.otf') format('opentype'),
+    url('../fonts/inter/Inter-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Inter-Medium;
+  src:
+    url('../fonts/inter/Inter-Medium.woff2') format('woff2'),
+    url('../fonts/inter/Inter-Medium.otf') format('opentype'),
+    url('../fonts/inter/Inter-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Inter-SemiBold;
+  src:
+    url('../fonts/inter/Inter-SemiBold.woff2') format('woff2'),
+    url('../fonts/inter/Inter-SemiBold.otf') format('opentype'),
+    url('../fonts/inter/Inter-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Inter-Bold;
+  src:
+    url('../fonts/inter/Inter-Bold.woff2') format('woff2'),
+    url('../fonts/inter/Inter-Bold.otf') format('opentype'),
+    url('../fonts/inter/Inter-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+:root {
+  --color-white: #e3ebf9;
+  --color-black: #111010;
+  --color-background: #e3ebf9;
+  --color-text: #111010;
+  --main-blue: #1b76ff;
+  --widget-stroke: #0a144e;
+  --widget-background: #1b76ff;
+  --form-stroke: #0a144e;
+  --color-text4: #414154;
+  --offer-stroke: #7b93b7;
+  --inative-dark: #7a7e84;
+  --color-green: #00d173;
+  --color-attention: #ff6d1b;
+  --popup-stroke: #2f2f2f;
+  --dark-blue: #0f337e;
+  --color-theme: #7b93b7;
+  --color-select-menu: #e3ebf9;
+
+  --main-blue-hover: rgba(27, 118, 255, 0.1);
+  --form-stroke-hover: rgba(10, 20, 78, 0.3);
+  --offer-stroke2: rgba(123, 147, 183, 0.3);
+  --color-blur: rgba(6, 10, 30, 0.8);
+  --color-mainbar-back: rgba(7, 13, 48, 0.8);
+  --popup-background: rgba(0, 0, 0, 0.8);
+  --popup-loader: rgba(255, 255, 255, 0.5);
+  --progress-stroke: rgba(17, 16, 16, 0.3);
+  --text-white-hover: rgba(227, 235, 249, 0.3);
+
+  --widget-pin: #144efa;
+  --widget-pin-desk: #136ffb;
+
+  --color-blue-gradient: linear-gradient(90deg, #15a9fa 0%, #1c3ffd 100%);
+  --color-blue-gradient-stroke: linear-gradient(
+    90deg,
+    rgba(95, 153, 255, 1) 0%,
+    rgba(28, 63, 253, 0.4) 100%
+  );
+}
+
+:root[data-theme='dark'] {
+  --color-white: #e3ebf9;
+  --color-background: #111010;
+  --color-text: #e3ebf9;
+  --widget-stroke: #7d7d7d;
+  --widget-background: #2f2f2f;
+  --form-stroke: #474747;
+  --color-text4: #7a7e84;
+  --offer-stroke: #474747;
+  --inative-dark: #505256;
+  --color-theme: #e3ebf9;
+  --color-select-menu: #2f2f2f;
+
+  --main-blue-hover: rgba(27, 118, 255, 0.2);
+  --form-stroke-hover: rgba(125, 125, 125, 0.8);
+  --color-blur: rgba(0, 0, 0, 0.8);
+  --color-mainbar-back: rgba(1, 5, 12, 0.8);
+  --popup-loader: rgba(255, 255, 255, 0.3);
+  --progress-stroke: rgba(227, 235, 249, 0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  @include inter('reg');
+  line-height: 150%;
+  height: inherit;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  transition: 0.5s;
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 150%;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+p,
+b,
+span,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  &.attention {
+    color: var(--color-attention);
+  }
+}

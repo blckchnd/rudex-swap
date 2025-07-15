@@ -1,0 +1,154 @@
+@import '@styles/_variables';
+
+.popup-exchange {
+  @include container;
+
+  &__hidden {
+    opacity: 0;
+  }
+
+  &__wrapper {
+    @include container;
+
+    position: relative;
+    max-width: $max-width;
+    height: max-content;
+    min-height: 300px;
+    padding: 20px 20px;
+
+    background-color: var(--color-background);
+    border-radius: 30px;
+    border: 1px solid var(--widget-stroke);
+    gap: 10px;
+  }
+
+  &__currency {
+    @include container;
+    gap: 10px;
+    padding: 10px;
+    background-image: url(@images/status/status_mobile.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  &__inputs {
+    @include container;
+
+    margin-top: 10px;
+    gap: 10px;
+  }
+
+  &__button.button {
+    width: 100%;
+    height: min-content;
+    margin: 10px 0px;
+  }
+
+  &__refund {
+    position: relative;
+    font-size: 14px;
+
+    background-color: unset;
+    border: none;
+    color: var(--color-text4);
+    width: min-content;
+    align-self: center;
+    text-wrap: nowrap;
+    cursor: pointer;
+    transition: 0.5s;
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      right: -15px;
+      transform: translateY(-30%);
+
+      width: 0;
+      height: 0;
+      border-right: 6px solid transparent;
+      border-top: 6px solid var(--color-text4);
+      border-left: 6px solid transparent;
+      transition: 300ms linear all;
+    }
+
+    &:hover {
+      opacity: 0.9;
+      transition: 0.5s;
+    }
+  }
+
+  &__refund-partner {
+    @include container;
+    gap: 10px;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid var(--form-stroke);
+  }
+
+  &__advanced {
+    height: 0;
+    opacity: 0;
+    transition: 0.5s;
+    pointer-events: none;
+    margin-bottom: 0;
+  }
+
+  &__footer.popup-footer {
+    gap: 0;
+    padding: 0;
+    border: none;
+    margin: 0;
+
+    &.active {
+      gap: 10px;
+
+      & > .popup-exchange__advanced {
+        height: max-content;
+        opacity: 1;
+        transition: 0.5s;
+        pointer-events: all;
+      }
+
+      & > .popup-exchange__refund {
+        opacity: 0.3;
+        &::after {
+          transform: rotate(180deg) translateY(30%);
+        }
+      }
+    }
+  }
+  &__error {
+    @include container;
+    gap: 8px;
+    padding: 20px 10px;
+    margin: 0 0 10px;
+    border-top: 1px solid var(--popup-stroke);
+    border-bottom: 1px solid var(--popup-stroke);
+
+    &-message.popup-description-text {
+      color: var(--color-attention);
+      white-space: wrap;
+      text-overflow: unset;
+    }
+  }
+}
+
+@include tablet {
+  .popup-exchange {
+    &__footer.popup-footer {
+      flex-direction: column;
+      margin: 0;
+      width: 100%;
+    }
+  }
+}
+
+@include desktop {
+  .popup-exchange {
+    &__advanced {
+      width: 100%;
+    }
+  }
+}

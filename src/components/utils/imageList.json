@@ -1,0 +1,8018 @@
+[
+  {
+    "name": "1000SATS",
+    "src": "/assets/images/icons/coins-icons/1000sats.png"
+  },
+  {
+    "name": "1EARTH",
+    "src": "/assets/images/icons/coins-icons/1earth.png"
+  },
+  {
+    "name": "1INCH",
+    "src": "/assets/images/icons/coins-icons/1inch.png"
+  },
+  {
+    "name": "1INCHBEP20",
+    "src": "/assets/images/icons/coins-icons/1inchbep20.png"
+  },
+  {
+    "name": "1WORLD",
+    "src": "/assets/images/icons/coins-icons/1world.png"
+  },
+  {
+    "name": "AAVE",
+    "src": "/assets/images/icons/coins-icons/aave.svg"
+  },
+  {
+    "name": "AAVEBEP2",
+    "src": "/assets/images/icons/coins-icons/aavebep2.png"
+  },
+  {
+    "name": "AAVEBEP20",
+    "src": "/assets/images/icons/coins-icons/aavebep20.png"
+  },
+  {
+    "name": "AB",
+    "src": "/assets/images/icons/coins-icons/ab.png"
+  },
+  {
+    "name": "ABBC",
+    "src": "/assets/images/icons/coins-icons/abbc.png"
+  },
+  {
+    "name": "ABBCBEP20",
+    "src": "/assets/images/icons/coins-icons/abbcbep20.png"
+  },
+  {
+    "name": "ABT",
+    "src": "/assets/images/icons/coins-icons/abt.png"
+  },
+  {
+    "name": "ABYSS",
+    "src": "/assets/images/icons/coins-icons/abyss.png"
+  },
+  {
+    "name": "ACA",
+    "src": "/assets/images/icons/coins-icons/aca.png"
+  },
+  {
+    "name": "ACH",
+    "src": "/assets/images/icons/coins-icons/ach.png"
+  },
+  {
+    "name": "ACHAIN",
+    "src": "/assets/images/icons/coins-icons/achain.png"
+  },
+  {
+    "name": "ACHBEP20",
+    "src": "/assets/images/icons/coins-icons/achbep20.png"
+  },
+  {
+    "name": "ACM",
+    "src": "/assets/images/icons/coins-icons/acm.png"
+  },
+  {
+    "name": "ACS",
+    "src": "/assets/images/icons/coins-icons/acs.png"
+  },
+  {
+    "name": "ACT",
+    "src": "/assets/images/icons/coins-icons/act.svg"
+  },
+  {
+    "name": "ACTSOL",
+    "src": "/assets/images/icons/coins-icons/actsol.png"
+  },
+  {
+    "name": "ACUTE-ANGLE-CLOUD",
+    "src": "/assets/images/icons/coins-icons/acute-angle-cloud.png"
+  },
+  {
+    "name": "ACX",
+    "src": "/assets/images/icons/coins-icons/acx.svg"
+  },
+  {
+    "name": "ADA",
+    "src": "/assets/images/icons/coins-icons/ada.svg"
+  },
+  {
+    "name": "ADABEP2",
+    "src": "/assets/images/icons/coins-icons/adabep2.png"
+  },
+  {
+    "name": "ADABEP20",
+    "src": "/assets/images/icons/coins-icons/adabep20.png"
+  },
+  {
+    "name": "ADBANK",
+    "src": "/assets/images/icons/coins-icons/adbank.png"
+  },
+  {
+    "name": "ADITUS",
+    "src": "/assets/images/icons/coins-icons/aditus.png"
+  },
+  {
+    "name": "ADP",
+    "src": "/assets/images/icons/coins-icons/adp.png"
+  },
+  {
+    "name": "ADS",
+    "src": "/assets/images/icons/coins-icons/ads.png"
+  },
+  {
+    "name": "ADSHARES",
+    "src": "/assets/images/icons/coins-icons/adshares.png"
+  },
+  {
+    "name": "ADX",
+    "src": "/assets/images/icons/coins-icons/adx.svg"
+  },
+  {
+    "name": "ADXBEP20",
+    "src": "/assets/images/icons/coins-icons/adxbep20.png"
+  },
+  {
+    "name": "AE",
+    "src": "/assets/images/icons/coins-icons/ae.svg"
+  },
+  {
+    "name": "AERGO",
+    "src": "/assets/images/icons/coins-icons/aergo.svg"
+  },
+  {
+    "name": "AERO",
+    "src": "/assets/images/icons/coins-icons/aero.png"
+  },
+  {
+    "name": "AERON",
+    "src": "/assets/images/icons/coins-icons/aeron.png"
+  },
+  {
+    "name": "AEURERC20",
+    "src": "/assets/images/icons/coins-icons/aeurerc20.png"
+  },
+  {
+    "name": "AEVO",
+    "src": "/assets/images/icons/coins-icons/aevo.png"
+  },
+  {
+    "name": "AGI",
+    "src": "/assets/images/icons/coins-icons/agi.svg"
+  },
+  {
+    "name": "AGLA",
+    "src": "/assets/images/icons/coins-icons/agla.png"
+  },
+  {
+    "name": "AGLD",
+    "src": "/assets/images/icons/coins-icons/agld.png"
+  },
+  {
+    "name": "AI",
+    "src": "/assets/images/icons/coins-icons/ai.png"
+  },
+  {
+    "name": "AI16Z",
+    "src": "/assets/images/icons/coins-icons/ai16z.png"
+  },
+  {
+    "name": "AIDCOIN",
+    "src": "/assets/images/icons/coins-icons/aidcoin.png"
+  },
+  {
+    "name": "AIDOGE",
+    "src": "/assets/images/icons/coins-icons/aidoge.png"
+  },
+  {
+    "name": "AIDOS-KUNEEN",
+    "src": "/assets/images/icons/coins-icons/aidos-kuneen.png"
+  },
+  {
+    "name": "AIGANG",
+    "src": "/assets/images/icons/coins-icons/aigang.png"
+  },
+  {
+    "name": "AION",
+    "src": "/assets/images/icons/coins-icons/aion.svg"
+  },
+  {
+    "name": "AIOZ",
+    "src": "/assets/images/icons/coins-icons/aioz.png"
+  },
+  {
+    "name": "AIOZERC20",
+    "src": "/assets/images/icons/coins-icons/aiozerc20.png"
+  },
+  {
+    "name": "AIPAD",
+    "src": "/assets/images/icons/coins-icons/aipad.png"
+  },
+  {
+    "name": "AIXBT",
+    "src": "/assets/images/icons/coins-icons/aixbt.png"
+  },
+  {
+    "name": "AKITA",
+    "src": "/assets/images/icons/coins-icons/akita.png"
+  },
+  {
+    "name": "AKRO",
+    "src": "/assets/images/icons/coins-icons/akro.png"
+  },
+  {
+    "name": "AKT",
+    "src": "/assets/images/icons/coins-icons/akt.svg"
+  },
+  {
+    "name": "AKUMA",
+    "src": "/assets/images/icons/coins-icons/akuma.png"
+  },
+  {
+    "name": "ALBT",
+    "src": "/assets/images/icons/coins-icons/albt.png"
+  },
+  {
+    "name": "ALCH",
+    "src": "/assets/images/icons/coins-icons/alch.png"
+  },
+  {
+    "name": "ALCX",
+    "src": "/assets/images/icons/coins-icons/alcx.png"
+  },
+  {
+    "name": "ALEPH",
+    "src": "/assets/images/icons/coins-icons/aleph.png"
+  },
+  {
+    "name": "ALEPHERC20",
+    "src": "/assets/images/icons/coins-icons/alepherc20.png"
+  },
+  {
+    "name": "ALGO",
+    "src": "/assets/images/icons/coins-icons/algo.svg"
+  },
+  {
+    "name": "ALI",
+    "src": "/assets/images/icons/coins-icons/ali.png"
+  },
+  {
+    "name": "ALICE",
+    "src": "/assets/images/icons/coins-icons/alice.png"
+  },
+  {
+    "name": "ALICEBEP20",
+    "src": "/assets/images/icons/coins-icons/alicebep20.png"
+  },
+  {
+    "name": "ALN",
+    "src": "/assets/images/icons/coins-icons/aln.png"
+  },
+  {
+    "name": "ALPACA",
+    "src": "/assets/images/icons/coins-icons/alpaca.png"
+  },
+  {
+    "name": "ALPH",
+    "src": "/assets/images/icons/coins-icons/alph.png"
+  },
+  {
+    "name": "ALPHA",
+    "src": "/assets/images/icons/coins-icons/alpha.png"
+  },
+  {
+    "name": "ALPHABEP20",
+    "src": "/assets/images/icons/coins-icons/alphabep20.png"
+  },
+  {
+    "name": "ALPINE",
+    "src": "/assets/images/icons/coins-icons/alpine.png"
+  },
+  {
+    "name": "ALT",
+    "src": "/assets/images/icons/coins-icons/alt.png"
+  },
+  {
+    "name": "AMB",
+    "src": "/assets/images/icons/coins-icons/amb.svg"
+  },
+  {
+    "name": "AME",
+    "src": "/assets/images/icons/coins-icons/ame.png"
+  },
+  {
+    "name": "AMO",
+    "src": "/assets/images/icons/coins-icons/amo.png"
+  },
+  {
+    "name": "AMP",
+    "src": "/assets/images/icons/coins-icons/amp.png"
+  },
+  {
+    "name": "AMPL",
+    "src": "/assets/images/icons/coins-icons/ampl.png"
+  },
+  {
+    "name": "ANALOS",
+    "src": "/assets/images/icons/coins-icons/analos.png"
+  },
+  {
+    "name": "ANC",
+    "src": "/assets/images/icons/coins-icons/anc.png"
+  },
+  {
+    "name": "ANIMEARB",
+    "src": "/assets/images/icons/coins-icons/animearb.png"
+  },
+  {
+    "name": "ANIMEERC20",
+    "src": "/assets/images/icons/coins-icons/animeerc20.png"
+  },
+  {
+    "name": "ANKR",
+    "src": "/assets/images/icons/coins-icons/ankr.png"
+  },
+  {
+    "name": "ANKRBEP20",
+    "src": "/assets/images/icons/coins-icons/ankrbep20.png"
+  },
+  {
+    "name": "ANKRERC20",
+    "src": "/assets/images/icons/coins-icons/ankrerc20.png"
+  },
+  {
+    "name": "ANT",
+    "src": "/assets/images/icons/coins-icons/ant.svg"
+  },
+  {
+    "name": "ANY",
+    "src": "/assets/images/icons/coins-icons/any.png"
+  },
+  {
+    "name": "AOG",
+    "src": "/assets/images/icons/coins-icons/aog.png"
+  },
+  {
+    "name": "APE",
+    "src": "/assets/images/icons/coins-icons/ape.png"
+  },
+  {
+    "name": "APEBEP20",
+    "src": "/assets/images/icons/coins-icons/apebep20.svg"
+  },
+  {
+    "name": "API3",
+    "src": "/assets/images/icons/coins-icons/api3.png"
+  },
+  {
+    "name": "APL",
+    "src": "/assets/images/icons/coins-icons/apl.png"
+  },
+  {
+    "name": "APN",
+    "src": "/assets/images/icons/coins-icons/apn.png"
+  },
+  {
+    "name": "APPCOINS",
+    "src": "/assets/images/icons/coins-icons/appcoins.png"
+  },
+  {
+    "name": "APT",
+    "src": "/assets/images/icons/coins-icons/apt.png"
+  },
+  {
+    "name": "AQT",
+    "src": "/assets/images/icons/coins-icons/aqt.png"
+  },
+  {
+    "name": "AQUAGOAT",
+    "src": "/assets/images/icons/coins-icons/aquagoat.png"
+  },
+  {
+    "name": "AR",
+    "src": "/assets/images/icons/coins-icons/ar.png"
+  },
+  {
+    "name": "ARB",
+    "src": "/assets/images/icons/coins-icons/arb.png"
+  },
+  {
+    "name": "ARBERC20",
+    "src": "/assets/images/icons/coins-icons/arberc20.png"
+  },
+  {
+    "name": "ARBITRAGECT",
+    "src": "/assets/images/icons/coins-icons/arbitragect.png"
+  },
+  {
+    "name": "ARBITRUM",
+    "src": "/assets/images/icons/coins-icons/arbitrum.svg"
+  },
+  {
+    "name": "ARC",
+    "src": "/assets/images/icons/coins-icons/arc.png"
+  },
+  {
+    "name": "ARDR",
+    "src": "/assets/images/icons/coins-icons/ardr.svg"
+  },
+  {
+    "name": "ARGCHZ",
+    "src": "/assets/images/icons/coins-icons/argchz.png"
+  },
+  {
+    "name": "ARK",
+    "src": "/assets/images/icons/coins-icons/ark.svg"
+  },
+  {
+    "name": "ARKER",
+    "src": "/assets/images/icons/coins-icons/arker.png"
+  },
+  {
+    "name": "ARKM",
+    "src": "/assets/images/icons/coins-icons/arkm.png"
+  },
+  {
+    "name": "ARPA",
+    "src": "/assets/images/icons/coins-icons/arpa.png"
+  },
+  {
+    "name": "ARPABEP20",
+    "src": "/assets/images/icons/coins-icons/arpabep20.png"
+  },
+  {
+    "name": "ARRR",
+    "src": "/assets/images/icons/coins-icons/arrr.png"
+  },
+  {
+    "name": "ARTY",
+    "src": "/assets/images/icons/coins-icons/arty.png"
+  },
+  {
+    "name": "ARV",
+    "src": "/assets/images/icons/coins-icons/arv.png"
+  },
+  {
+    "name": "ASIA",
+    "src": "/assets/images/icons/coins-icons/asia.png"
+  },
+  {
+    "name": "ASR",
+    "src": "/assets/images/icons/coins-icons/asr.png"
+  },
+  {
+    "name": "AST",
+    "src": "/assets/images/icons/coins-icons/ast.svg"
+  },
+  {
+    "name": "ASTR",
+    "src": "/assets/images/icons/coins-icons/astr.png"
+  },
+  {
+    "name": "ASTRAFER",
+    "src": "/assets/images/icons/coins-icons/astrafer.png"
+  },
+  {
+    "name": "ATA",
+    "src": "/assets/images/icons/coins-icons/ata.png"
+  },
+  {
+    "name": "ATABEP20",
+    "src": "/assets/images/icons/coins-icons/atabep20.png"
+  },
+  {
+    "name": "ATH",
+    "src": "/assets/images/icons/coins-icons/ath.png"
+  },
+  {
+    "name": "ATK",
+    "src": "/assets/images/icons/coins-icons/atk.png"
+  },
+  {
+    "name": "ATL",
+    "src": "/assets/images/icons/coins-icons/atl.png"
+  },
+  {
+    "name": "ATLAS",
+    "src": "/assets/images/icons/coins-icons/atlas.png"
+  },
+  {
+    "name": "ATM",
+    "src": "/assets/images/icons/coins-icons/atm.png"
+  },
+  {
+    "name": "ATMBEP20",
+    "src": "/assets/images/icons/coins-icons/atmbep20.png"
+  },
+  {
+    "name": "ATMCHZ",
+    "src": "/assets/images/icons/coins-icons/atmchz.png"
+  },
+  {
+    "name": "ATOM",
+    "src": "/assets/images/icons/coins-icons/atom.svg"
+  },
+  {
+    "name": "ATOMBEP2",
+    "src": "/assets/images/icons/coins-icons/atombep2.png"
+  },
+  {
+    "name": "ATOMBEP20",
+    "src": "/assets/images/icons/coins-icons/atombep20.png"
+  },
+  {
+    "name": "ATP",
+    "src": "/assets/images/icons/coins-icons/atp.png"
+  },
+  {
+    "name": "AUCTION",
+    "src": "/assets/images/icons/coins-icons/auction.png"
+  },
+  {
+    "name": "AUCTIONBEP20",
+    "src": "/assets/images/icons/coins-icons/auctionbep20.png"
+  },
+  {
+    "name": "AUD",
+    "src": "/assets/images/icons/coins-icons/aud.svg"
+  },
+  {
+    "name": "AUDIO",
+    "src": "/assets/images/icons/coins-icons/audio.svg"
+  },
+  {
+    "name": "AURORA",
+    "src": "/assets/images/icons/coins-icons/aurora.png"
+  },
+  {
+    "name": "AURY",
+    "src": "/assets/images/icons/coins-icons/aury.png"
+  },
+  {
+    "name": "AUTO",
+    "src": "/assets/images/icons/coins-icons/auto.png"
+  },
+  {
+    "name": "AUTONIO",
+    "src": "/assets/images/icons/coins-icons/autonio.png"
+  },
+  {
+    "name": "AVA",
+    "src": "/assets/images/icons/coins-icons/ava.svg"
+  },
+  {
+    "name": "AVABEP20",
+    "src": "/assets/images/icons/coins-icons/avabep20.png"
+  },
+  {
+    "name": "AVAERC20",
+    "src": "/assets/images/icons/coins-icons/avaerc20.png"
+  },
+  {
+    "name": "AVAX",
+    "src": "/assets/images/icons/coins-icons/avax.svg"
+  },
+  {
+    "name": "AVAXBEP20",
+    "src": "/assets/images/icons/coins-icons/avaxbep20.png"
+  },
+  {
+    "name": "AVAXC",
+    "src": "/assets/images/icons/coins-icons/avaxc.svg"
+  },
+  {
+    "name": "AVL",
+    "src": "/assets/images/icons/coins-icons/avl.png"
+  },
+  {
+    "name": "AVN",
+    "src": "/assets/images/icons/coins-icons/avn.png"
+  },
+  {
+    "name": "AWC",
+    "src": "/assets/images/icons/coins-icons/awc.svg"
+  },
+  {
+    "name": "AWCBEP20",
+    "src": "/assets/images/icons/coins-icons/awcbep20.png"
+  },
+  {
+    "name": "AXL",
+    "src": "/assets/images/icons/coins-icons/axl.png"
+  },
+  {
+    "name": "AXN",
+    "src": "/assets/images/icons/coins-icons/axn.svg"
+  },
+  {
+    "name": "AXS",
+    "src": "/assets/images/icons/coins-icons/axs.svg"
+  },
+  {
+    "name": "AXSBEP20",
+    "src": "/assets/images/icons/coins-icons/axsbep20.png"
+  },
+  {
+    "name": "AXSRON",
+    "src": "/assets/images/icons/coins-icons/axsron.png"
+  },
+  {
+    "name": "AZERO",
+    "src": "/assets/images/icons/coins-icons/azero.png"
+  },
+  {
+    "name": "B20",
+    "src": "/assets/images/icons/coins-icons/b20.png"
+  },
+  {
+    "name": "BABY",
+    "src": "/assets/images/icons/coins-icons/baby.png"
+  },
+  {
+    "name": "BABYDOGE",
+    "src": "/assets/images/icons/coins-icons/babydoge.svg"
+  },
+  {
+    "name": "BADAI",
+    "src": "/assets/images/icons/coins-icons/badai.png"
+  },
+  {
+    "name": "BADGER",
+    "src": "/assets/images/icons/coins-icons/badger.png"
+  },
+  {
+    "name": "BAJU",
+    "src": "/assets/images/icons/coins-icons/baju.png"
+  },
+  {
+    "name": "BAKE",
+    "src": "/assets/images/icons/coins-icons/bake.png"
+  },
+  {
+    "name": "BAL",
+    "src": "/assets/images/icons/coins-icons/bal.svg"
+  },
+  {
+    "name": "BALBEP20",
+    "src": "/assets/images/icons/coins-icons/balbep20.png"
+  },
+  {
+    "name": "BAM",
+    "src": "/assets/images/icons/coins-icons/bam.png"
+  },
+  {
+    "name": "BAMERC20",
+    "src": "/assets/images/icons/coins-icons/bamerc20.png"
+  },
+  {
+    "name": "BANANA",
+    "src": "/assets/images/icons/coins-icons/banana.png"
+  },
+  {
+    "name": "BANANAS31",
+    "src": "/assets/images/icons/coins-icons/bananas31.png"
+  },
+  {
+    "name": "BANCA",
+    "src": "/assets/images/icons/coins-icons/banca.png"
+  },
+  {
+    "name": "BAND",
+    "src": "/assets/images/icons/coins-icons/band.svg"
+  },
+  {
+    "name": "BANDBEP2",
+    "src": "/assets/images/icons/coins-icons/bandbep2.png"
+  },
+  {
+    "name": "BANDBEP20",
+    "src": "/assets/images/icons/coins-icons/bandbep20.png"
+  },
+  {
+    "name": "BANDERC20",
+    "src": "/assets/images/icons/coins-icons/banderc20.svg"
+  },
+  {
+    "name": "BANKEX",
+    "src": "/assets/images/icons/coins-icons/bankex.png"
+  },
+  {
+    "name": "BAR",
+    "src": "/assets/images/icons/coins-icons/bar.png"
+  },
+  {
+    "name": "BASE",
+    "src": "/assets/images/icons/coins-icons/base.png"
+  },
+  {
+    "name": "BASE",
+    "src": "/assets/images/icons/coins-icons/base.svg"
+  },
+  {
+    "name": "BAT",
+    "src": "/assets/images/icons/coins-icons/bat.svg"
+  },
+  {
+    "name": "BATBEP2",
+    "src": "/assets/images/icons/coins-icons/batbep2.png"
+  },
+  {
+    "name": "BATBEP20",
+    "src": "/assets/images/icons/coins-icons/batbep20.png"
+  },
+  {
+    "name": "BAX",
+    "src": "/assets/images/icons/coins-icons/bax.png"
+  },
+  {
+    "name": "BBC",
+    "src": "/assets/images/icons/coins-icons/bbc.png"
+  },
+  {
+    "name": "BBS",
+    "src": "/assets/images/icons/coins-icons/bbs.png"
+  },
+  {
+    "name": "BBTC",
+    "src": "/assets/images/icons/coins-icons/bbtc.png"
+  },
+  {
+    "name": "BCD",
+    "src": "/assets/images/icons/coins-icons/bcd.svg"
+  },
+  {
+    "name": "BCH",
+    "src": "/assets/images/icons/coins-icons/bch.svg"
+  },
+  {
+    "name": "BCHBEP2",
+    "src": "/assets/images/icons/coins-icons/bchbep2.svg"
+  },
+  {
+    "name": "BCHBEP20",
+    "src": "/assets/images/icons/coins-icons/bchbep20.png"
+  },
+  {
+    "name": "BCHERC20",
+    "src": "/assets/images/icons/coins-icons/bcherc20.png"
+  },
+  {
+    "name": "BDP",
+    "src": "/assets/images/icons/coins-icons/bdp.png"
+  },
+  {
+    "name": "BDX",
+    "src": "/assets/images/icons/coins-icons/bdx.png"
+  },
+  {
+    "name": "BEAM",
+    "src": "/assets/images/icons/coins-icons/beam.svg"
+  },
+  {
+    "name": "BEAN",
+    "src": "/assets/images/icons/coins-icons/bean.png"
+  },
+  {
+    "name": "BEAR",
+    "src": "/assets/images/icons/coins-icons/bear.png"
+  },
+  {
+    "name": "BED",
+    "src": "/assets/images/icons/coins-icons/bed.png"
+  },
+  {
+    "name": "BEL",
+    "src": "/assets/images/icons/coins-icons/bel.png"
+  },
+  {
+    "name": "BELBEP20",
+    "src": "/assets/images/icons/coins-icons/belbep20.png"
+  },
+  {
+    "name": "BELT",
+    "src": "/assets/images/icons/coins-icons/belt.png"
+  },
+  {
+    "name": "BEN",
+    "src": "/assets/images/icons/coins-icons/ben.png"
+  },
+  {
+    "name": "BEND",
+    "src": "/assets/images/icons/coins-icons/bend.png"
+  },
+  {
+    "name": "BEPRO",
+    "src": "/assets/images/icons/coins-icons/bepro.png"
+  },
+  {
+    "name": "BERA",
+    "src": "/assets/images/icons/coins-icons/bera.png"
+  },
+  {
+    "name": "BETA",
+    "src": "/assets/images/icons/coins-icons/beta.png"
+  },
+  {
+    "name": "BETABEP20",
+    "src": "/assets/images/icons/coins-icons/betabep20.png"
+  },
+  {
+    "name": "BETH",
+    "src": "/assets/images/icons/coins-icons/beth.png"
+  },
+  {
+    "name": "BETHBEP20",
+    "src": "/assets/images/icons/coins-icons/bethbep20.png"
+  },
+  {
+    "name": "BEZOGE",
+    "src": "/assets/images/icons/coins-icons/bezoge.png"
+  },
+  {
+    "name": "BFC",
+    "src": "/assets/images/icons/coins-icons/bfc.svg"
+  },
+  {
+    "name": "BFG",
+    "src": "/assets/images/icons/coins-icons/bfg.png"
+  },
+  {
+    "name": "BFT",
+    "src": "/assets/images/icons/coins-icons/bft.png"
+  },
+  {
+    "name": "BGBP",
+    "src": "/assets/images/icons/coins-icons/bgbp.png"
+  },
+  {
+    "name": "BHC",
+    "src": "/assets/images/icons/coins-icons/bhc.png"
+  },
+  {
+    "name": "BICO",
+    "src": "/assets/images/icons/coins-icons/bico.png"
+  },
+  {
+    "name": "BID",
+    "src": "/assets/images/icons/coins-icons/bid.png"
+  },
+  {
+    "name": "BIDR",
+    "src": "/assets/images/icons/coins-icons/bidr.png"
+  },
+  {
+    "name": "BIFI",
+    "src": "/assets/images/icons/coins-icons/bifi.png"
+  },
+  {
+    "name": "BIFIERC20",
+    "src": "/assets/images/icons/coins-icons/bifierc20.png"
+  },
+  {
+    "name": "BIGBOM",
+    "src": "/assets/images/icons/coins-icons/bigbom.png"
+  },
+  {
+    "name": "BIGTIME",
+    "src": "/assets/images/icons/coins-icons/bigtime.png"
+  },
+  {
+    "name": "BIMP",
+    "src": "/assets/images/icons/coins-icons/bimp.png"
+  },
+  {
+    "name": "BIN",
+    "src": "/assets/images/icons/coins-icons/bin.png"
+  },
+  {
+    "name": "BIRD",
+    "src": "/assets/images/icons/coins-icons/bird.png"
+  },
+  {
+    "name": "BIT",
+    "src": "/assets/images/icons/coins-icons/bit.png"
+  },
+  {
+    "name": "BITASEAN",
+    "src": "/assets/images/icons/coins-icons/bitasean.png"
+  },
+  {
+    "name": "BITCAPITALVENDOR",
+    "src": "/assets/images/icons/coins-icons/bitcapitalvendor.png"
+  },
+  {
+    "name": "BITDEGREE",
+    "src": "/assets/images/icons/coins-icons/bitdegree.png"
+  },
+  {
+    "name": "BIX",
+    "src": "/assets/images/icons/coins-icons/bix.png"
+  },
+  {
+    "name": "BKBT",
+    "src": "/assets/images/icons/coins-icons/bkbt.png"
+  },
+  {
+    "name": "BLAST",
+    "src": "/assets/images/icons/coins-icons/blast.png"
+  },
+  {
+    "name": "BLID",
+    "src": "/assets/images/icons/coins-icons/blid.png"
+  },
+  {
+    "name": "BLITZPREDICT",
+    "src": "/assets/images/icons/coins-icons/blitzpredict.png"
+  },
+  {
+    "name": "BLOCKS",
+    "src": "/assets/images/icons/coins-icons/blocks.png"
+  },
+  {
+    "name": "BLOCKTIX",
+    "src": "/assets/images/icons/coins-icons/blocktix.png"
+  },
+  {
+    "name": "BLOK",
+    "src": "/assets/images/icons/coins-icons/blok.png"
+  },
+  {
+    "name": "BLOKBEP20",
+    "src": "/assets/images/icons/coins-icons/blokbep20.png"
+  },
+  {
+    "name": "BLOX",
+    "src": "/assets/images/icons/coins-icons/blox.png"
+  },
+  {
+    "name": "BLUR",
+    "src": "/assets/images/icons/coins-icons/blur.png"
+  },
+  {
+    "name": "BLZ",
+    "src": "/assets/images/icons/coins-icons/blz.svg"
+  },
+  {
+    "name": "BLZBEP20",
+    "src": "/assets/images/icons/coins-icons/blzbep20.png"
+  },
+  {
+    "name": "BMON",
+    "src": "/assets/images/icons/coins-icons/bmon.png"
+  },
+  {
+    "name": "BNB",
+    "src": "/assets/images/icons/coins-icons/bnb.svg"
+  },
+  {
+    "name": "BNBBEP2",
+    "src": "/assets/images/icons/coins-icons/bnbbep2.png"
+  },
+  {
+    "name": "BNBBEP20",
+    "src": "/assets/images/icons/coins-icons/bnbbep20.png"
+  },
+  {
+    "name": "BNBERC20",
+    "src": "/assets/images/icons/coins-icons/bnberc20.svg"
+  },
+  {
+    "name": "BNC",
+    "src": "/assets/images/icons/coins-icons/bnc.png"
+  },
+  {
+    "name": "BNT",
+    "src": "/assets/images/icons/coins-icons/bnt.svg"
+  },
+  {
+    "name": "BNTBEP20",
+    "src": "/assets/images/icons/coins-icons/bntbep20.png"
+  },
+  {
+    "name": "BNX",
+    "src": "/assets/images/icons/coins-icons/bnx.png"
+  },
+  {
+    "name": "BOB",
+    "src": "/assets/images/icons/coins-icons/bob.png"
+  },
+  {
+    "name": "BOBA",
+    "src": "/assets/images/icons/coins-icons/boba.png"
+  },
+  {
+    "name": "BOLT",
+    "src": "/assets/images/icons/coins-icons/bolt.png"
+  },
+  {
+    "name": "BOMB",
+    "src": "/assets/images/icons/coins-icons/bomb.png"
+  },
+  {
+    "name": "BOND",
+    "src": "/assets/images/icons/coins-icons/bond.png"
+  },
+  {
+    "name": "BONE",
+    "src": "/assets/images/icons/coins-icons/bone.png"
+  },
+  {
+    "name": "BONK",
+    "src": "/assets/images/icons/coins-icons/bonk.png"
+  },
+  {
+    "name": "BOO",
+    "src": "/assets/images/icons/coins-icons/boo.png"
+  },
+  {
+    "name": "BORING",
+    "src": "/assets/images/icons/coins-icons/boring.png"
+  },
+  {
+    "name": "BOSON",
+    "src": "/assets/images/icons/coins-icons/boson.png"
+  },
+  {
+    "name": "BOX",
+    "src": "/assets/images/icons/coins-icons/box.png"
+  },
+  {
+    "name": "BQX",
+    "src": "/assets/images/icons/coins-icons/bqx.svg"
+  },
+  {
+    "name": "BRAVE",
+    "src": "/assets/images/icons/coins-icons/brave.png"
+  },
+  {
+    "name": "BRD",
+    "src": "/assets/images/icons/coins-icons/brd.svg"
+  },
+  {
+    "name": "BRETTBASE",
+    "src": "/assets/images/icons/coins-icons/brettbase.png"
+  },
+  {
+    "name": "BRG",
+    "src": "/assets/images/icons/coins-icons/brg.png"
+  },
+  {
+    "name": "BRGBEP20",
+    "src": "/assets/images/icons/coins-icons/brgbep20.png"
+  },
+  {
+    "name": "BRISE",
+    "src": "/assets/images/icons/coins-icons/brise.png"
+  },
+  {
+    "name": "BRISEMAINNET",
+    "src": "/assets/images/icons/coins-icons/brisemainnet.png"
+  },
+  {
+    "name": "BROCCOLI",
+    "src": "/assets/images/icons/coins-icons/broccoli.png"
+  },
+  {
+    "name": "BRY",
+    "src": "/assets/images/icons/coins-icons/bry.png"
+  },
+  {
+    "name": "BSCX",
+    "src": "/assets/images/icons/coins-icons/bscx.png"
+  },
+  {
+    "name": "BSL",
+    "src": "/assets/images/icons/coins-icons/bsl.png"
+  },
+  {
+    "name": "BSV",
+    "src": "/assets/images/icons/coins-icons/bsv.svg"
+  },
+  {
+    "name": "BSW",
+    "src": "/assets/images/icons/coins-icons/bsw.png"
+  },
+  {
+    "name": "BTC",
+    "src": "/assets/images/icons/coins-icons/btc.svg"
+  },
+  {
+    "name": "BTCB",
+    "src": "/assets/images/icons/coins-icons/btcb.png"
+  },
+  {
+    "name": "BTCBEP2",
+    "src": "/assets/images/icons/coins-icons/btcbep2.png"
+  },
+  {
+    "name": "BTCERC20",
+    "src": "/assets/images/icons/coins-icons/btcerc20.png"
+  },
+  {
+    "name": "BTCST",
+    "src": "/assets/images/icons/coins-icons/btcst.png"
+  },
+  {
+    "name": "BTFA",
+    "src": "/assets/images/icons/coins-icons/btfa.png"
+  },
+  {
+    "name": "BTG",
+    "src": "/assets/images/icons/coins-icons/btg.svg"
+  },
+  {
+    "name": "BTRST",
+    "src": "/assets/images/icons/coins-icons/btrst.png"
+  },
+  {
+    "name": "BTS",
+    "src": "/assets/images/icons/coins-icons/bts.png"
+  },
+  {
+    "name": "BTT",
+    "src": "/assets/images/icons/coins-icons/btt.svg"
+  },
+  {
+    "name": "BTTBEP20",
+    "src": "/assets/images/icons/coins-icons/bttbep20.png"
+  },
+  {
+    "name": "BTTC",
+    "src": "/assets/images/icons/coins-icons/bttc.png"
+  },
+  {
+    "name": "BTTCBEP20",
+    "src": "/assets/images/icons/coins-icons/bttcbep20.png"
+  },
+  {
+    "name": "BTTCERC20",
+    "src": "/assets/images/icons/coins-icons/bttcerc20.png"
+  },
+  {
+    "name": "BTU",
+    "src": "/assets/images/icons/coins-icons/btu.png"
+  },
+  {
+    "name": "BULL",
+    "src": "/assets/images/icons/coins-icons/bull.png"
+  },
+  {
+    "name": "BUNNY",
+    "src": "/assets/images/icons/coins-icons/bunny.png"
+  },
+  {
+    "name": "BURGER",
+    "src": "/assets/images/icons/coins-icons/burger.png"
+  },
+  {
+    "name": "BURP",
+    "src": "/assets/images/icons/coins-icons/burp.png"
+  },
+  {
+    "name": "BUSD",
+    "src": "/assets/images/icons/coins-icons/busd.svg"
+  },
+  {
+    "name": "BUSDBEP20",
+    "src": "/assets/images/icons/coins-icons/busdbep20.png"
+  },
+  {
+    "name": "BUSDTRC20",
+    "src": "/assets/images/icons/coins-icons/busdtrc20.svg"
+  },
+  {
+    "name": "BUT",
+    "src": "/assets/images/icons/coins-icons/but.png"
+  },
+  {
+    "name": "BUX",
+    "src": "/assets/images/icons/coins-icons/bux.png"
+  },
+  {
+    "name": "BWO",
+    "src": "/assets/images/icons/coins-icons/bwo.png"
+  },
+  {
+    "name": "BWX",
+    "src": "/assets/images/icons/coins-icons/bwx.png"
+  },
+  {
+    "name": "BYTOM",
+    "src": "/assets/images/icons/coins-icons/bytom.png"
+  },
+  {
+    "name": "BZRX",
+    "src": "/assets/images/icons/coins-icons/bzrx.png"
+  },
+  {
+    "name": "C98",
+    "src": "/assets/images/icons/coins-icons/c98.png"
+  },
+  {
+    "name": "C98ERC20",
+    "src": "/assets/images/icons/coins-icons/c98erc20.png"
+  },
+  {
+    "name": "CAD",
+    "src": "/assets/images/icons/coins-icons/cad.svg"
+  },
+  {
+    "name": "CAKE",
+    "src": "/assets/images/icons/coins-icons/cake.svg"
+  },
+  {
+    "name": "CAKEBEP2",
+    "src": "/assets/images/icons/coins-icons/cakebep2.png"
+  },
+  {
+    "name": "CANTO",
+    "src": "/assets/images/icons/coins-icons/canto.png"
+  },
+  {
+    "name": "CANYACOIN",
+    "src": "/assets/images/icons/coins-icons/canyacoin.png"
+  },
+  {
+    "name": "CAPO",
+    "src": "/assets/images/icons/coins-icons/capo.png"
+  },
+  {
+    "name": "CAPPASITY",
+    "src": "/assets/images/icons/coins-icons/cappasity.png"
+  },
+  {
+    "name": "CAPS",
+    "src": "/assets/images/icons/coins-icons/caps.png"
+  },
+  {
+    "name": "CARE",
+    "src": "/assets/images/icons/coins-icons/care.png"
+  },
+  {
+    "name": "CARVERTICAL",
+    "src": "/assets/images/icons/coins-icons/carvertical.png"
+  },
+  {
+    "name": "CASHAA",
+    "src": "/assets/images/icons/coins-icons/cashaa.png"
+  },
+  {
+    "name": "CATDOG",
+    "src": "/assets/images/icons/coins-icons/catdog.png"
+  },
+  {
+    "name": "CATE",
+    "src": "/assets/images/icons/coins-icons/cate.png"
+  },
+  {
+    "name": "CATGIRL",
+    "src": "/assets/images/icons/coins-icons/catgirl.png"
+  },
+  {
+    "name": "CATITON",
+    "src": "/assets/images/icons/coins-icons/catiton.png"
+  },
+  {
+    "name": "CCAKE",
+    "src": "/assets/images/icons/coins-icons/ccake.png"
+  },
+  {
+    "name": "CCAKEBEP20",
+    "src": "/assets/images/icons/coins-icons/ccakebep20.png"
+  },
+  {
+    "name": "CCD",
+    "src": "/assets/images/icons/coins-icons/ccd.png"
+  },
+  {
+    "name": "CEEK",
+    "src": "/assets/images/icons/coins-icons/ceek.png"
+  },
+  {
+    "name": "CEEKERC20",
+    "src": "/assets/images/icons/coins-icons/ceekerc20.png"
+  },
+  {
+    "name": "CEL",
+    "src": "/assets/images/icons/coins-icons/cel.svg"
+  },
+  {
+    "name": "CELL",
+    "src": "/assets/images/icons/coins-icons/cell.png"
+  },
+  {
+    "name": "CELO",
+    "src": "/assets/images/icons/coins-icons/celo.png"
+  },
+  {
+    "name": "CELR",
+    "src": "/assets/images/icons/coins-icons/celr.svg"
+  },
+  {
+    "name": "CELRBEP20",
+    "src": "/assets/images/icons/coins-icons/celrbep20.png"
+  },
+  {
+    "name": "CELT",
+    "src": "/assets/images/icons/coins-icons/celt.png"
+  },
+  {
+    "name": "CERE",
+    "src": "/assets/images/icons/coins-icons/cere.png"
+  },
+  {
+    "name": "CFG",
+    "src": "/assets/images/icons/coins-icons/cfg.png"
+  },
+  {
+    "name": "CFGERC20",
+    "src": "/assets/images/icons/coins-icons/cfgerc20.png"
+  },
+  {
+    "name": "CFI",
+    "src": "/assets/images/icons/coins-icons/cfi.png"
+  },
+  {
+    "name": "CFX",
+    "src": "/assets/images/icons/coins-icons/cfx.png"
+  },
+  {
+    "name": "CFXBEP20",
+    "src": "/assets/images/icons/coins-icons/cfxbep20.png"
+  },
+  {
+    "name": "CGG",
+    "src": "/assets/images/icons/coins-icons/cgg.png"
+  },
+  {
+    "name": "CGPT",
+    "src": "/assets/images/icons/coins-icons/cgpt.png"
+  },
+  {
+    "name": "CGPTBEP20",
+    "src": "/assets/images/icons/coins-icons/cgptbep20.png"
+  },
+  {
+    "name": "CHANGE",
+    "src": "/assets/images/icons/coins-icons/change.png"
+  },
+  {
+    "name": "CHAT",
+    "src": "/assets/images/icons/coins-icons/chat.png"
+  },
+  {
+    "name": "CHEEMS",
+    "src": "/assets/images/icons/coins-icons/cheems.png"
+  },
+  {
+    "name": "CHESS",
+    "src": "/assets/images/icons/coins-icons/chess.png"
+  },
+  {
+    "name": "CHF",
+    "src": "/assets/images/icons/coins-icons/chf.svg"
+  },
+  {
+    "name": "CHI",
+    "src": "/assets/images/icons/coins-icons/chi.png"
+  },
+  {
+    "name": "CHMB",
+    "src": "/assets/images/icons/coins-icons/chmb.png"
+  },
+  {
+    "name": "CHO",
+    "src": "/assets/images/icons/coins-icons/cho.png"
+  },
+  {
+    "name": "CHP",
+    "src": "/assets/images/icons/coins-icons/chp.png"
+  },
+  {
+    "name": "CHR",
+    "src": "/assets/images/icons/coins-icons/chr.png"
+  },
+  {
+    "name": "CHRBEP20",
+    "src": "/assets/images/icons/coins-icons/chrbep20.png"
+  },
+  {
+    "name": "CHRONOBANK",
+    "src": "/assets/images/icons/coins-icons/chronobank.png"
+  },
+  {
+    "name": "CHSB",
+    "src": "/assets/images/icons/coins-icons/chsb.svg"
+  },
+  {
+    "name": "CHZ",
+    "src": "/assets/images/icons/coins-icons/chz.svg"
+  },
+  {
+    "name": "CHZBEP2",
+    "src": "/assets/images/icons/coins-icons/chzbep2.svg"
+  },
+  {
+    "name": "CHZMAINNET",
+    "src": "/assets/images/icons/coins-icons/chzmainnet.png"
+  },
+  {
+    "name": "CITY",
+    "src": "/assets/images/icons/coins-icons/city.png"
+  },
+  {
+    "name": "CKB",
+    "src": "/assets/images/icons/coins-icons/ckb.png"
+  },
+  {
+    "name": "CLANKER",
+    "src": "/assets/images/icons/coins-icons/clanker.png"
+  },
+  {
+    "name": "CLEAR",
+    "src": "/assets/images/icons/coins-icons/clear.png"
+  },
+  {
+    "name": "CLH",
+    "src": "/assets/images/icons/coins-icons/clh.png"
+  },
+  {
+    "name": "CLO",
+    "src": "/assets/images/icons/coins-icons/clo.svg"
+  },
+  {
+    "name": "CLORE",
+    "src": "/assets/images/icons/coins-icons/clore.png"
+  },
+  {
+    "name": "CLV",
+    "src": "/assets/images/icons/coins-icons/clv.png"
+  },
+  {
+    "name": "CLVBEP20",
+    "src": "/assets/images/icons/coins-icons/clvbep20.png"
+  },
+  {
+    "name": "CMT",
+    "src": "/assets/images/icons/coins-icons/cmt.png"
+  },
+  {
+    "name": "CND",
+    "src": "/assets/images/icons/coins-icons/cnd.svg"
+  },
+  {
+    "name": "CNNS",
+    "src": "/assets/images/icons/coins-icons/cnns.png"
+  },
+  {
+    "name": "CNS",
+    "src": "/assets/images/icons/coins-icons/cns.png"
+  },
+  {
+    "name": "COBINHOOD",
+    "src": "/assets/images/icons/coins-icons/cobinhood.png"
+  },
+  {
+    "name": "COCKTAIL",
+    "src": "/assets/images/icons/coins-icons/cocktail.png"
+  },
+  {
+    "name": "COCOS",
+    "src": "/assets/images/icons/coins-icons/cocos.png"
+  },
+  {
+    "name": "COINFI",
+    "src": "/assets/images/icons/coins-icons/coinfi.png"
+  },
+  {
+    "name": "COMBO",
+    "src": "/assets/images/icons/coins-icons/combo.png"
+  },
+  {
+    "name": "COMP",
+    "src": "/assets/images/icons/coins-icons/comp.svg"
+  },
+  {
+    "name": "COMPBEP2",
+    "src": "/assets/images/icons/coins-icons/compbep2.png"
+  },
+  {
+    "name": "COMPBEP20",
+    "src": "/assets/images/icons/coins-icons/compbep20.png"
+  },
+  {
+    "name": "COOK",
+    "src": "/assets/images/icons/coins-icons/cook.png"
+  },
+  {
+    "name": "COPI",
+    "src": "/assets/images/icons/coins-icons/copi.png"
+  },
+  {
+    "name": "CORE",
+    "src": "/assets/images/icons/coins-icons/core.png"
+  },
+  {
+    "name": "COREUM",
+    "src": "/assets/images/icons/coins-icons/coreum.png"
+  },
+  {
+    "name": "CORX",
+    "src": "/assets/images/icons/coins-icons/corx.png"
+  },
+  {
+    "name": "COS",
+    "src": "/assets/images/icons/coins-icons/cos.png"
+  },
+  {
+    "name": "COSBEP20",
+    "src": "/assets/images/icons/coins-icons/cosbep20.png"
+  },
+  {
+    "name": "COSERC20",
+    "src": "/assets/images/icons/coins-icons/coserc20.png"
+  },
+  {
+    "name": "COTI",
+    "src": "/assets/images/icons/coins-icons/coti.svg"
+  },
+  {
+    "name": "COTIBEP2",
+    "src": "/assets/images/icons/coins-icons/cotibep2.png"
+  },
+  {
+    "name": "COTIBEP20",
+    "src": "/assets/images/icons/coins-icons/cotibep20.png"
+  },
+  {
+    "name": "COTIERC20",
+    "src": "/assets/images/icons/coins-icons/cotierc20.png"
+  },
+  {
+    "name": "COVESTING",
+    "src": "/assets/images/icons/coins-icons/covesting.png"
+  },
+  {
+    "name": "COW",
+    "src": "/assets/images/icons/coins-icons/cow.svg"
+  },
+  {
+    "name": "CPOOL",
+    "src": "/assets/images/icons/coins-icons/cpool.png"
+  },
+  {
+    "name": "CQT",
+    "src": "/assets/images/icons/coins-icons/cqt.png"
+  },
+  {
+    "name": "CRE",
+    "src": "/assets/images/icons/coins-icons/cre.png"
+  },
+  {
+    "name": "CREAM",
+    "src": "/assets/images/icons/coins-icons/cream.png"
+  },
+  {
+    "name": "CREAMBEP20",
+    "src": "/assets/images/icons/coins-icons/creambep20.png"
+  },
+  {
+    "name": "CRI",
+    "src": "/assets/images/icons/coins-icons/cri.png"
+  },
+  {
+    "name": "CRO",
+    "src": "/assets/images/icons/coins-icons/cro.svg"
+  },
+  {
+    "name": "CROERC20",
+    "src": "/assets/images/icons/coins-icons/croerc20.png"
+  },
+  {
+    "name": "CRTS",
+    "src": "/assets/images/icons/coins-icons/crts.png"
+  },
+  {
+    "name": "CRV",
+    "src": "/assets/images/icons/coins-icons/crv.png"
+  },
+  {
+    "name": "CRVARB",
+    "src": "/assets/images/icons/coins-icons/crvarb.png"
+  },
+  {
+    "name": "CRVMATIC",
+    "src": "/assets/images/icons/coins-icons/crvmatic.png"
+  },
+  {
+    "name": "CRYPTERIUM",
+    "src": "/assets/images/icons/coins-icons/crypterium.png"
+  },
+  {
+    "name": "CRYSTAL-CLEAR",
+    "src": "/assets/images/icons/coins-icons/crystal-clear.png"
+  },
+  {
+    "name": "CS",
+    "src": "/assets/images/icons/coins-icons/cs.png"
+  },
+  {
+    "name": "CSIXBEP20",
+    "src": "/assets/images/icons/coins-icons/csixbep20.png"
+  },
+  {
+    "name": "CSPR",
+    "src": "/assets/images/icons/coins-icons/cspr.png"
+  },
+  {
+    "name": "CTC",
+    "src": "/assets/images/icons/coins-icons/ctc.png"
+  },
+  {
+    "name": "CTCERC20",
+    "src": "/assets/images/icons/coins-icons/ctcerc20.png"
+  },
+  {
+    "name": "CTK",
+    "src": "/assets/images/icons/coins-icons/ctk.png"
+  },
+  {
+    "name": "CTKBEP20",
+    "src": "/assets/images/icons/coins-icons/ctkbep20.png"
+  },
+  {
+    "name": "CTSI",
+    "src": "/assets/images/icons/coins-icons/ctsi.png"
+  },
+  {
+    "name": "CTSIBEP20",
+    "src": "/assets/images/icons/coins-icons/ctsibep20.png"
+  },
+  {
+    "name": "CTX",
+    "src": "/assets/images/icons/coins-icons/ctx.png"
+  },
+  {
+    "name": "CTXC",
+    "src": "/assets/images/icons/coins-icons/ctxc.png"
+  },
+  {
+    "name": "CUBE",
+    "src": "/assets/images/icons/coins-icons/cube.png"
+  },
+  {
+    "name": "CUDOS",
+    "src": "/assets/images/icons/coins-icons/cudos.png"
+  },
+  {
+    "name": "CULT",
+    "src": "/assets/images/icons/coins-icons/cult.png"
+  },
+  {
+    "name": "CUMMIES",
+    "src": "/assets/images/icons/coins-icons/cummies.png"
+  },
+  {
+    "name": "CUMMIESBEP20",
+    "src": "/assets/images/icons/coins-icons/cummiesbep20.png"
+  },
+  {
+    "name": "CUSD",
+    "src": "/assets/images/icons/coins-icons/cusd.png"
+  },
+  {
+    "name": "CVC",
+    "src": "/assets/images/icons/coins-icons/cvc.svg"
+  },
+  {
+    "name": "CVP",
+    "src": "/assets/images/icons/coins-icons/cvp.png"
+  },
+  {
+    "name": "CVX",
+    "src": "/assets/images/icons/coins-icons/cvx.png"
+  },
+  {
+    "name": "CWAR",
+    "src": "/assets/images/icons/coins-icons/cwar.png"
+  },
+  {
+    "name": "CWS",
+    "src": "/assets/images/icons/coins-icons/cws.png"
+  },
+  {
+    "name": "CX1",
+    "src": "/assets/images/icons/coins-icons/cx1.png"
+  },
+  {
+    "name": "CYBER",
+    "src": "/assets/images/icons/coins-icons/cyber.png"
+  },
+  {
+    "name": "CYC",
+    "src": "/assets/images/icons/coins-icons/cyc.png"
+  },
+  {
+    "name": "CZK",
+    "src": "/assets/images/icons/coins-icons/czk.svg"
+  },
+  {
+    "name": "D2T",
+    "src": "/assets/images/icons/coins-icons/d2t.png"
+  },
+  {
+    "name": "DAC",
+    "src": "/assets/images/icons/coins-icons/dac.png"
+  },
+  {
+    "name": "DADDYSOL",
+    "src": "/assets/images/icons/coins-icons/daddysol.png"
+  },
+  {
+    "name": "DAG",
+    "src": "/assets/images/icons/coins-icons/dag.png"
+  },
+  {
+    "name": "DAI",
+    "src": "/assets/images/icons/coins-icons/dai.svg"
+  },
+  {
+    "name": "DAIARB",
+    "src": "/assets/images/icons/coins-icons/daiarb.svg"
+  },
+  {
+    "name": "DAIBEP20",
+    "src": "/assets/images/icons/coins-icons/daibep20.png"
+  },
+  {
+    "name": "DAIMATIC",
+    "src": "/assets/images/icons/coins-icons/daimatic.png"
+  },
+  {
+    "name": "DAO",
+    "src": "/assets/images/icons/coins-icons/dao.svg"
+  },
+  {
+    "name": "DAR",
+    "src": "/assets/images/icons/coins-icons/dar.png"
+  },
+  {
+    "name": "DARBEP20",
+    "src": "/assets/images/icons/coins-icons/darbep20.png"
+  },
+  {
+    "name": "DARERC20",
+    "src": "/assets/images/icons/coins-icons/darerc20.png"
+  },
+  {
+    "name": "DASH",
+    "src": "/assets/images/icons/coins-icons/dash.svg"
+  },
+  {
+    "name": "DATA",
+    "src": "/assets/images/icons/coins-icons/data.png"
+  },
+  {
+    "name": "DATABEP20",
+    "src": "/assets/images/icons/coins-icons/databep20.png"
+  },
+  {
+    "name": "DATARIUS-CREDIT",
+    "src": "/assets/images/icons/coins-icons/datarius-credit.png"
+  },
+  {
+    "name": "DATUM",
+    "src": "/assets/images/icons/coins-icons/datum.png"
+  },
+  {
+    "name": "DBC",
+    "src": "/assets/images/icons/coins-icons/dbc.png"
+  },
+  {
+    "name": "DBR",
+    "src": "/assets/images/icons/coins-icons/dbr.png"
+  },
+  {
+    "name": "DC",
+    "src": "/assets/images/icons/coins-icons/dc.png"
+  },
+  {
+    "name": "DCR",
+    "src": "/assets/images/icons/coins-icons/dcr.svg"
+  },
+  {
+    "name": "DDX",
+    "src": "/assets/images/icons/coins-icons/ddx.png"
+  },
+  {
+    "name": "DEAI",
+    "src": "/assets/images/icons/coins-icons/deai.png"
+  },
+  {
+    "name": "DEC",
+    "src": "/assets/images/icons/coins-icons/dec.svg"
+  },
+  {
+    "name": "DECHAT",
+    "src": "/assets/images/icons/coins-icons/dechat.png"
+  },
+  {
+    "name": "DEEPONION",
+    "src": "/assets/images/icons/coins-icons/deeponion.png"
+  },
+  {
+    "name": "DEFAULT-COIN",
+    "src": "/assets/images/icons/coins-icons/default-coin.svg"
+  },
+  {
+    "name": "DEFC",
+    "src": "/assets/images/icons/coins-icons/defc.png"
+  },
+  {
+    "name": "DEFIT",
+    "src": "/assets/images/icons/coins-icons/defit.png"
+  },
+  {
+    "name": "DEGO",
+    "src": "/assets/images/icons/coins-icons/dego.png"
+  },
+  {
+    "name": "DEGOBEP20",
+    "src": "/assets/images/icons/coins-icons/degobep20.png"
+  },
+  {
+    "name": "DELPHY",
+    "src": "/assets/images/icons/coins-icons/delphy.png"
+  },
+  {
+    "name": "DENT",
+    "src": "/assets/images/icons/coins-icons/dent.png"
+  },
+  {
+    "name": "DENTACOIN",
+    "src": "/assets/images/icons/coins-icons/dentacoin.png"
+  },
+  {
+    "name": "DEP",
+    "src": "/assets/images/icons/coins-icons/dep.png"
+  },
+  {
+    "name": "DEPAY",
+    "src": "/assets/images/icons/coins-icons/depay.png"
+  },
+  {
+    "name": "DEPBEP20",
+    "src": "/assets/images/icons/coins-icons/depbep20.png"
+  },
+  {
+    "name": "DERC",
+    "src": "/assets/images/icons/coins-icons/derc.png"
+  },
+  {
+    "name": "DERCBEP20",
+    "src": "/assets/images/icons/coins-icons/dercbep20.png"
+  },
+  {
+    "name": "DERO",
+    "src": "/assets/images/icons/coins-icons/dero.png"
+  },
+  {
+    "name": "DEV",
+    "src": "/assets/images/icons/coins-icons/dev.png"
+  },
+  {
+    "name": "DEXE",
+    "src": "/assets/images/icons/coins-icons/dexe.png"
+  },
+  {
+    "name": "DEXEBEP20",
+    "src": "/assets/images/icons/coins-icons/dexebep20.png"
+  },
+  {
+    "name": "DF",
+    "src": "/assets/images/icons/coins-icons/df.png"
+  },
+  {
+    "name": "DFA",
+    "src": "/assets/images/icons/coins-icons/dfa.png"
+  },
+  {
+    "name": "DFBSC",
+    "src": "/assets/images/icons/coins-icons/dfbsc.png"
+  },
+  {
+    "name": "DFI",
+    "src": "/assets/images/icons/coins-icons/dfi.png"
+  },
+  {
+    "name": "DFSG",
+    "src": "/assets/images/icons/coins-icons/dfsg.png"
+  },
+  {
+    "name": "DFXMATIC",
+    "src": "/assets/images/icons/coins-icons/dfxmatic.png"
+  },
+  {
+    "name": "DFYN",
+    "src": "/assets/images/icons/coins-icons/dfyn.png"
+  },
+  {
+    "name": "DG",
+    "src": "/assets/images/icons/coins-icons/dg.png"
+  },
+  {
+    "name": "DGB",
+    "src": "/assets/images/icons/coins-icons/dgb.svg"
+  },
+  {
+    "name": "DGMOON",
+    "src": "/assets/images/icons/coins-icons/dgmoon.png"
+  },
+  {
+    "name": "DGTX",
+    "src": "/assets/images/icons/coins-icons/dgtx.png"
+  },
+  {
+    "name": "DIA",
+    "src": "/assets/images/icons/coins-icons/dia.svg"
+  },
+  {
+    "name": "DIABEP20",
+    "src": "/assets/images/icons/coins-icons/diabep20.png"
+  },
+  {
+    "name": "DIAM",
+    "src": "/assets/images/icons/coins-icons/diam.png"
+  },
+  {
+    "name": "DIGITALNOTE",
+    "src": "/assets/images/icons/coins-icons/digitalnote.png"
+  },
+  {
+    "name": "DIGIXDAO",
+    "src": "/assets/images/icons/coins-icons/digixdao.png"
+  },
+  {
+    "name": "DINO",
+    "src": "/assets/images/icons/coins-icons/dino.png"
+  },
+  {
+    "name": "DIVI",
+    "src": "/assets/images/icons/coins-icons/divi.png"
+  },
+  {
+    "name": "DIVIERC20",
+    "src": "/assets/images/icons/coins-icons/divierc20.png"
+  },
+  {
+    "name": "DKA",
+    "src": "/assets/images/icons/coins-icons/dka.png"
+  },
+  {
+    "name": "DKK",
+    "src": "/assets/images/icons/coins-icons/dkk.svg"
+  },
+  {
+    "name": "DLT",
+    "src": "/assets/images/icons/coins-icons/dlt.svg"
+  },
+  {
+    "name": "DMG",
+    "src": "/assets/images/icons/coins-icons/dmg.svg"
+  },
+  {
+    "name": "DND",
+    "src": "/assets/images/icons/coins-icons/dnd.png"
+  },
+  {
+    "name": "DNDBEP20",
+    "src": "/assets/images/icons/coins-icons/dndbep20.png"
+  },
+  {
+    "name": "DNT",
+    "src": "/assets/images/icons/coins-icons/dnt.svg"
+  },
+  {
+    "name": "DOBO",
+    "src": "/assets/images/icons/coins-icons/dobo.png"
+  },
+  {
+    "name": "DOCK",
+    "src": "/assets/images/icons/coins-icons/dock.svg"
+  },
+  {
+    "name": "DODO",
+    "src": "/assets/images/icons/coins-icons/dodo.png"
+  },
+  {
+    "name": "DODOBEP20",
+    "src": "/assets/images/icons/coins-icons/dodobep20.png"
+  },
+  {
+    "name": "DODOERC20",
+    "src": "/assets/images/icons/coins-icons/dodoerc20.png"
+  },
+  {
+    "name": "DOGE",
+    "src": "/assets/images/icons/coins-icons/doge.svg"
+  },
+  {
+    "name": "DOGEBEP2",
+    "src": "/assets/images/icons/coins-icons/dogebep2.png"
+  },
+  {
+    "name": "DOGEBEP20",
+    "src": "/assets/images/icons/coins-icons/dogebep20.png"
+  },
+  {
+    "name": "DOGECOIN",
+    "src": "/assets/images/icons/coins-icons/dogecoin.png"
+  },
+  {
+    "name": "DOGGY",
+    "src": "/assets/images/icons/coins-icons/doggy.png"
+  },
+  {
+    "name": "DOGS",
+    "src": "/assets/images/icons/coins-icons/dogs.png"
+  },
+  {
+    "name": "DOME",
+    "src": "/assets/images/icons/coins-icons/dome.png"
+  },
+  {
+    "name": "DORA",
+    "src": "/assets/images/icons/coins-icons/dora.png"
+  },
+  {
+    "name": "DORKL",
+    "src": "/assets/images/icons/coins-icons/dorkl.png"
+  },
+  {
+    "name": "DOSE",
+    "src": "/assets/images/icons/coins-icons/dose.png"
+  },
+  {
+    "name": "DOT",
+    "src": "/assets/images/icons/coins-icons/dot.svg"
+  },
+  {
+    "name": "DOTBEP2",
+    "src": "/assets/images/icons/coins-icons/dotbep2.png"
+  },
+  {
+    "name": "DOTBEP20",
+    "src": "/assets/images/icons/coins-icons/dotbep20.png"
+  },
+  {
+    "name": "DOTERC20",
+    "src": "/assets/images/icons/coins-icons/doterc20.png"
+  },
+  {
+    "name": "DOVU",
+    "src": "/assets/images/icons/coins-icons/dovu.png"
+  },
+  {
+    "name": "DPET",
+    "src": "/assets/images/icons/coins-icons/dpet.png"
+  },
+  {
+    "name": "DPI",
+    "src": "/assets/images/icons/coins-icons/dpi.svg"
+  },
+  {
+    "name": "DPR",
+    "src": "/assets/images/icons/coins-icons/dpr.png"
+  },
+  {
+    "name": "DPRERC20",
+    "src": "/assets/images/icons/coins-icons/dprerc20.png"
+  },
+  {
+    "name": "DPX",
+    "src": "/assets/images/icons/coins-icons/dpx.png"
+  },
+  {
+    "name": "DREAMS",
+    "src": "/assets/images/icons/coins-icons/dreams.png"
+  },
+  {
+    "name": "DREP",
+    "src": "/assets/images/icons/coins-icons/drep.png"
+  },
+  {
+    "name": "DREPBEP20",
+    "src": "/assets/images/icons/coins-icons/drepbep20.png"
+  },
+  {
+    "name": "DRGN",
+    "src": "/assets/images/icons/coins-icons/drgn.png"
+  },
+  {
+    "name": "DSYNC",
+    "src": "/assets/images/icons/coins-icons/dsync.svg"
+  },
+  {
+    "name": "DUSK",
+    "src": "/assets/images/icons/coins-icons/dusk.svg"
+  },
+  {
+    "name": "DUSKBEP20",
+    "src": "/assets/images/icons/coins-icons/duskbep20.png"
+  },
+  {
+    "name": "DUSKERC20",
+    "src": "/assets/images/icons/coins-icons/duskerc20.png"
+  },
+  {
+    "name": "DVPN",
+    "src": "/assets/images/icons/coins-icons/dvpn.png"
+  },
+  {
+    "name": "DXCHAIN-TOKEN",
+    "src": "/assets/images/icons/coins-icons/dxchain-token.png"
+  },
+  {
+    "name": "DYDX",
+    "src": "/assets/images/icons/coins-icons/dydx.png"
+  },
+  {
+    "name": "DYM",
+    "src": "/assets/images/icons/coins-icons/dym.png"
+  },
+  {
+    "name": "DYNAMIC-TRADING-RIGHTS",
+    "src": "/assets/images/icons/coins-icons/dynamic-trading-rights.png"
+  },
+  {
+    "name": "DYP",
+    "src": "/assets/images/icons/coins-icons/dyp.png"
+  },
+  {
+    "name": "ECH",
+    "src": "/assets/images/icons/coins-icons/ech.png"
+  },
+  {
+    "name": "EDGELESS",
+    "src": "/assets/images/icons/coins-icons/edgeless.png"
+  },
+  {
+    "name": "EDU",
+    "src": "/assets/images/icons/coins-icons/edu.png"
+  },
+  {
+    "name": "EFI",
+    "src": "/assets/images/icons/coins-icons/efi.png"
+  },
+  {
+    "name": "EGG",
+    "src": "/assets/images/icons/coins-icons/egg.png"
+  },
+  {
+    "name": "EGLD",
+    "src": "/assets/images/icons/coins-icons/egld.svg"
+  },
+  {
+    "name": "EGLDBEP20",
+    "src": "/assets/images/icons/coins-icons/egldbep20.png"
+  },
+  {
+    "name": "EGOH",
+    "src": "/assets/images/icons/coins-icons/egoh.png"
+  },
+  {
+    "name": "EGT",
+    "src": "/assets/images/icons/coins-icons/egt.png"
+  },
+  {
+    "name": "EIDOO",
+    "src": "/assets/images/icons/coins-icons/eidoo.png"
+  },
+  {
+    "name": "EIGEN",
+    "src": "/assets/images/icons/coins-icons/eigen.png"
+  },
+  {
+    "name": "EKO",
+    "src": "/assets/images/icons/coins-icons/eko.png"
+  },
+  {
+    "name": "EKT",
+    "src": "/assets/images/icons/coins-icons/ekt.png"
+  },
+  {
+    "name": "ELA",
+    "src": "/assets/images/icons/coins-icons/ela.png"
+  },
+  {
+    "name": "ELAERC20",
+    "src": "/assets/images/icons/coins-icons/elaerc20.png"
+  },
+  {
+    "name": "ELECTRIFYASIA",
+    "src": "/assets/images/icons/coins-icons/electrifyasia.png"
+  },
+  {
+    "name": "ELF",
+    "src": "/assets/images/icons/coins-icons/elf.svg"
+  },
+  {
+    "name": "ELFBEP2",
+    "src": "/assets/images/icons/coins-icons/elfbep2.png"
+  },
+  {
+    "name": "ELFBEP20",
+    "src": "/assets/images/icons/coins-icons/elfbep20.png"
+  },
+  {
+    "name": "ELFERC20",
+    "src": "/assets/images/icons/coins-icons/elferc20.png"
+  },
+  {
+    "name": "ELK",
+    "src": "/assets/images/icons/coins-icons/elk.png"
+  },
+  {
+    "name": "ELON",
+    "src": "/assets/images/icons/coins-icons/elon.png"
+  },
+  {
+    "name": "ELONGATE",
+    "src": "/assets/images/icons/coins-icons/elongate.png"
+  },
+  {
+    "name": "ELS",
+    "src": "/assets/images/icons/coins-icons/els.png"
+  },
+  {
+    "name": "ELV",
+    "src": "/assets/images/icons/coins-icons/elv.png"
+  },
+  {
+    "name": "ELX",
+    "src": "/assets/images/icons/coins-icons/elx.png"
+  },
+  {
+    "name": "EM",
+    "src": "/assets/images/icons/coins-icons/em.png"
+  },
+  {
+    "name": "EMPIRE",
+    "src": "/assets/images/icons/coins-icons/empire.png"
+  },
+  {
+    "name": "ENA",
+    "src": "/assets/images/icons/coins-icons/ena.png"
+  },
+  {
+    "name": "ENERGI",
+    "src": "/assets/images/icons/coins-icons/energi.png"
+  },
+  {
+    "name": "ENG",
+    "src": "/assets/images/icons/coins-icons/eng.png"
+  },
+  {
+    "name": "ENJ",
+    "src": "/assets/images/icons/coins-icons/enj.svg"
+  },
+  {
+    "name": "ENQ",
+    "src": "/assets/images/icons/coins-icons/enq.png"
+  },
+  {
+    "name": "ENS",
+    "src": "/assets/images/icons/coins-icons/ens.png"
+  },
+  {
+    "name": "EOS",
+    "src": "/assets/images/icons/coins-icons/eos.svg"
+  },
+  {
+    "name": "EOSBEP2",
+    "src": "/assets/images/icons/coins-icons/eosbep2.png"
+  },
+  {
+    "name": "EOSBEP20",
+    "src": "/assets/images/icons/coins-icons/eosbep20.png"
+  },
+  {
+    "name": "EPIC",
+    "src": "/assets/images/icons/coins-icons/epic.png"
+  },
+  {
+    "name": "EPICERC20",
+    "src": "/assets/images/icons/coins-icons/epicerc20.png"
+  },
+  {
+    "name": "EPS",
+    "src": "/assets/images/icons/coins-icons/eps.png"
+  },
+  {
+    "name": "EPX",
+    "src": "/assets/images/icons/coins-icons/epx.png"
+  },
+  {
+    "name": "EQ",
+    "src": "/assets/images/icons/coins-icons/eq.png"
+  },
+  {
+    "name": "EQMT",
+    "src": "/assets/images/icons/coins-icons/eqmt.png"
+  },
+  {
+    "name": "EQUAD",
+    "src": "/assets/images/icons/coins-icons/equad.png"
+  },
+  {
+    "name": "EQX",
+    "src": "/assets/images/icons/coins-icons/eqx.png"
+  },
+  {
+    "name": "EQZ",
+    "src": "/assets/images/icons/coins-icons/eqz.png"
+  },
+  {
+    "name": "ERG",
+    "src": "/assets/images/icons/coins-icons/erg.png"
+  },
+  {
+    "name": "ERN",
+    "src": "/assets/images/icons/coins-icons/ern.png"
+  },
+  {
+    "name": "ERSDL",
+    "src": "/assets/images/icons/coins-icons/ersdl.png"
+  },
+  {
+    "name": "ERTHA",
+    "src": "/assets/images/icons/coins-icons/ertha.png"
+  },
+  {
+    "name": "ETC",
+    "src": "/assets/images/icons/coins-icons/etc.svg"
+  },
+  {
+    "name": "ETCBEP2",
+    "src": "/assets/images/icons/coins-icons/etcbep2.png"
+  },
+  {
+    "name": "ETCBEP20",
+    "src": "/assets/images/icons/coins-icons/etcbep20.png"
+  },
+  {
+    "name": "ETH",
+    "src": "/assets/images/icons/coins-icons/eth.svg"
+  },
+  {
+    "name": "ETHARBITRUM",
+    "src": "/assets/images/icons/coins-icons/etharbitrum.png"
+  },
+  {
+    "name": "ETHBASE",
+    "src": "/assets/images/icons/coins-icons/ethbase.png"
+  },
+  {
+    "name": "ETHBEP2",
+    "src": "/assets/images/icons/coins-icons/ethbep2.png"
+  },
+  {
+    "name": "ETHBEP20",
+    "src": "/assets/images/icons/coins-icons/ethbep20.png"
+  },
+  {
+    "name": "ETHEREUM-BLUE",
+    "src": "/assets/images/icons/coins-icons/ethereum-blue.png"
+  },
+  {
+    "name": "ETHERPARTY",
+    "src": "/assets/images/icons/coins-icons/etherparty.png"
+  },
+  {
+    "name": "ETHFI",
+    "src": "/assets/images/icons/coins-icons/ethfi.png"
+  },
+  {
+    "name": "ETHLEND",
+    "src": "/assets/images/icons/coins-icons/ethlend.png"
+  },
+  {
+    "name": "ETHLNA",
+    "src": "/assets/images/icons/coins-icons/ethlna.png"
+  },
+  {
+    "name": "ETHOPTIMISM",
+    "src": "/assets/images/icons/coins-icons/ethoptimism.png"
+  },
+  {
+    "name": "ETHSTRK",
+    "src": "/assets/images/icons/coins-icons/ethstrk.png"
+  },
+  {
+    "name": "ETHW",
+    "src": "/assets/images/icons/coins-icons/ethw.svg"
+  },
+  {
+    "name": "ETHZC",
+    "src": "/assets/images/icons/coins-icons/ethzc.png"
+  },
+  {
+    "name": "ETN",
+    "src": "/assets/images/icons/coins-icons/etn.png"
+  },
+  {
+    "name": "EUR",
+    "src": "/assets/images/icons/coins-icons/eur.svg"
+  },
+  {
+    "name": "EURC",
+    "src": "/assets/images/icons/coins-icons/eurc.svg"
+  },
+  {
+    "name": "EUROC",
+    "src": "/assets/images/icons/coins-icons/euroc.png"
+  },
+  {
+    "name": "EURS",
+    "src": "/assets/images/icons/coins-icons/eurs.png"
+  },
+  {
+    "name": "EURT",
+    "src": "/assets/images/icons/coins-icons/eurt.png"
+  },
+  {
+    "name": "EUT",
+    "src": "/assets/images/icons/coins-icons/eut.png"
+  },
+  {
+    "name": "EVED",
+    "src": "/assets/images/icons/coins-icons/eved.svg"
+  },
+  {
+    "name": "EVER",
+    "src": "/assets/images/icons/coins-icons/ever.png"
+  },
+  {
+    "name": "EVX",
+    "src": "/assets/images/icons/coins-icons/evx.svg"
+  },
+  {
+    "name": "EWT",
+    "src": "/assets/images/icons/coins-icons/ewt.png"
+  },
+  {
+    "name": "EXPANSE",
+    "src": "/assets/images/icons/coins-icons/expanse.png"
+  },
+  {
+    "name": "EXRD",
+    "src": "/assets/images/icons/coins-icons/exrd.png"
+  },
+  {
+    "name": "EZ",
+    "src": "/assets/images/icons/coins-icons/ez.png"
+  },
+  {
+    "name": "FACETER",
+    "src": "/assets/images/icons/coins-icons/faceter.png"
+  },
+  {
+    "name": "FACTOM",
+    "src": "/assets/images/icons/coins-icons/factom.png"
+  },
+  {
+    "name": "FAIRGAME",
+    "src": "/assets/images/icons/coins-icons/fairgame.png"
+  },
+  {
+    "name": "FALCONS",
+    "src": "/assets/images/icons/coins-icons/falcons.png"
+  },
+  {
+    "name": "FAR",
+    "src": "/assets/images/icons/coins-icons/far.png"
+  },
+  {
+    "name": "FARM",
+    "src": "/assets/images/icons/coins-icons/farm.svg"
+  },
+  {
+    "name": "FARMBEP20",
+    "src": "/assets/images/icons/coins-icons/farmbep20.png"
+  },
+  {
+    "name": "FARTCOIN",
+    "src": "/assets/images/icons/coins-icons/fartcoin.svg"
+  },
+  {
+    "name": "FCON",
+    "src": "/assets/images/icons/coins-icons/fcon.png"
+  },
+  {
+    "name": "FCONSOL",
+    "src": "/assets/images/icons/coins-icons/fconsol.png"
+  },
+  {
+    "name": "FDUSDBEP20",
+    "src": "/assets/images/icons/coins-icons/fdusdbep20.png"
+  },
+  {
+    "name": "FDUSDERC20",
+    "src": "/assets/images/icons/coins-icons/fdusderc20.png"
+  },
+  {
+    "name": "FEG",
+    "src": "/assets/images/icons/coins-icons/feg.png"
+  },
+  {
+    "name": "FEGBEP20",
+    "src": "/assets/images/icons/coins-icons/fegbep20.png"
+  },
+  {
+    "name": "FEGERC20",
+    "src": "/assets/images/icons/coins-icons/fegerc20.png"
+  },
+  {
+    "name": "FEI",
+    "src": "/assets/images/icons/coins-icons/fei.png"
+  },
+  {
+    "name": "FET",
+    "src": "/assets/images/icons/coins-icons/fet.svg"
+  },
+  {
+    "name": "FETBEP20",
+    "src": "/assets/images/icons/coins-icons/fetbep20.png"
+  },
+  {
+    "name": "FETERC20",
+    "src": "/assets/images/icons/coins-icons/feterc20.png"
+  },
+  {
+    "name": "FIDA",
+    "src": "/assets/images/icons/coins-icons/fida.png"
+  },
+  {
+    "name": "FIL",
+    "src": "/assets/images/icons/coins-icons/fil.svg"
+  },
+  {
+    "name": "FILBEP2",
+    "src": "/assets/images/icons/coins-icons/filbep2.png"
+  },
+  {
+    "name": "FILBEP20",
+    "src": "/assets/images/icons/coins-icons/filbep20.png"
+  },
+  {
+    "name": "FILERC20",
+    "src": "/assets/images/icons/coins-icons/filerc20.png"
+  },
+  {
+    "name": "FINE",
+    "src": "/assets/images/icons/coins-icons/fine.png"
+  },
+  {
+    "name": "FIO",
+    "src": "/assets/images/icons/coins-icons/fio.svg"
+  },
+  {
+    "name": "FIRE",
+    "src": "/assets/images/icons/coins-icons/fire.png"
+  },
+  {
+    "name": "FIRO",
+    "src": "/assets/images/icons/coins-icons/firo.svg"
+  },
+  {
+    "name": "FIROBEP20",
+    "src": "/assets/images/icons/coins-icons/firobep20.png"
+  },
+  {
+    "name": "FIS",
+    "src": "/assets/images/icons/coins-icons/fis.png"
+  },
+  {
+    "name": "FISBEP20",
+    "src": "/assets/images/icons/coins-icons/fisbep20.png"
+  },
+  {
+    "name": "FITFI",
+    "src": "/assets/images/icons/coins-icons/fitfi.png"
+  },
+  {
+    "name": "FJB",
+    "src": "/assets/images/icons/coins-icons/fjb.png"
+  },
+  {
+    "name": "FKX",
+    "src": "/assets/images/icons/coins-icons/fkx.png"
+  },
+  {
+    "name": "FLAME",
+    "src": "/assets/images/icons/coins-icons/flame.png"
+  },
+  {
+    "name": "FLIXX",
+    "src": "/assets/images/icons/coins-icons/flixx.png"
+  },
+  {
+    "name": "FLM",
+    "src": "/assets/images/icons/coins-icons/flm.png"
+  },
+  {
+    "name": "FLO",
+    "src": "/assets/images/icons/coins-icons/flo.png"
+  },
+  {
+    "name": "FLOCK",
+    "src": "/assets/images/icons/coins-icons/flock.png"
+  },
+  {
+    "name": "FLOKI",
+    "src": "/assets/images/icons/coins-icons/floki.png"
+  },
+  {
+    "name": "FLOKIBEP20",
+    "src": "/assets/images/icons/coins-icons/flokibep20.png"
+  },
+  {
+    "name": "FLOW",
+    "src": "/assets/images/icons/coins-icons/flow.png"
+  },
+  {
+    "name": "FLOWBEP20",
+    "src": "/assets/images/icons/coins-icons/flowbep20.png"
+  },
+  {
+    "name": "FLR",
+    "src": "/assets/images/icons/coins-icons/flr.png"
+  },
+  {
+    "name": "FLUF",
+    "src": "/assets/images/icons/coins-icons/fluf.png"
+  },
+  {
+    "name": "FLUX",
+    "src": "/assets/images/icons/coins-icons/flux.png"
+  },
+  {
+    "name": "FLUXBEP20",
+    "src": "/assets/images/icons/coins-icons/fluxbep20.png"
+  },
+  {
+    "name": "FLUXERC20",
+    "src": "/assets/images/icons/coins-icons/fluxerc20.png"
+  },
+  {
+    "name": "FLYPME",
+    "src": "/assets/images/icons/coins-icons/flypme.png"
+  },
+  {
+    "name": "FOOM",
+    "src": "/assets/images/icons/coins-icons/foom.png"
+  },
+  {
+    "name": "FOR",
+    "src": "/assets/images/icons/coins-icons/for.png"
+  },
+  {
+    "name": "FORERC20",
+    "src": "/assets/images/icons/coins-icons/forerc20.png"
+  },
+  {
+    "name": "FORM",
+    "src": "/assets/images/icons/coins-icons/form.png"
+  },
+  {
+    "name": "FORT",
+    "src": "/assets/images/icons/coins-icons/fort.png"
+  },
+  {
+    "name": "FORTH",
+    "src": "/assets/images/icons/coins-icons/forth.png"
+  },
+  {
+    "name": "FORTUNA",
+    "src": "/assets/images/icons/coins-icons/fortuna.png"
+  },
+  {
+    "name": "FOUR",
+    "src": "/assets/images/icons/coins-icons/four.png"
+  },
+  {
+    "name": "FOX",
+    "src": "/assets/images/icons/coins-icons/fox.png"
+  },
+  {
+    "name": "FRAX",
+    "src": "/assets/images/icons/coins-icons/frax.png"
+  },
+  {
+    "name": "FREE",
+    "src": "/assets/images/icons/coins-icons/free.png"
+  },
+  {
+    "name": "FRM",
+    "src": "/assets/images/icons/coins-icons/frm.png"
+  },
+  {
+    "name": "FRMERC20",
+    "src": "/assets/images/icons/coins-icons/frmerc20.png"
+  },
+  {
+    "name": "FRONT",
+    "src": "/assets/images/icons/coins-icons/front.svg"
+  },
+  {
+    "name": "FRZSS",
+    "src": "/assets/images/icons/coins-icons/frzss.png"
+  },
+  {
+    "name": "FRZSSCOIN",
+    "src": "/assets/images/icons/coins-icons/frzsscoin.png"
+  },
+  {
+    "name": "FSN",
+    "src": "/assets/images/icons/coins-icons/fsn.png"
+  },
+  {
+    "name": "FTG",
+    "src": "/assets/images/icons/coins-icons/ftg.png"
+  },
+  {
+    "name": "FTI",
+    "src": "/assets/images/icons/coins-icons/fti.png"
+  },
+  {
+    "name": "FTM",
+    "src": "/assets/images/icons/coins-icons/ftm.svg"
+  },
+  {
+    "name": "FTT",
+    "src": "/assets/images/icons/coins-icons/ftt.svg"
+  },
+  {
+    "name": "FUD",
+    "src": "/assets/images/icons/coins-icons/fud.png"
+  },
+  {
+    "name": "FUN",
+    "src": "/assets/images/icons/coins-icons/fun.svg"
+  },
+  {
+    "name": "FUSE",
+    "src": "/assets/images/icons/coins-icons/fuse.svg"
+  },
+  {
+    "name": "FUSEBEP20",
+    "src": "/assets/images/icons/coins-icons/fusebep20.png"
+  },
+  {
+    "name": "FWC",
+    "src": "/assets/images/icons/coins-icons/fwc.png"
+  },
+  {
+    "name": "FX",
+    "src": "/assets/images/icons/coins-icons/fx.png"
+  },
+  {
+    "name": "FXS",
+    "src": "/assets/images/icons/coins-icons/fxs.png"
+  },
+  {
+    "name": "FXSBEP20",
+    "src": "/assets/images/icons/coins-icons/fxsbep20.png"
+  },
+  {
+    "name": "FYN",
+    "src": "/assets/images/icons/coins-icons/fyn.png"
+  },
+  {
+    "name": "G7",
+    "src": "/assets/images/icons/coins-icons/g7.png"
+  },
+  {
+    "name": "GAFA",
+    "src": "/assets/images/icons/coins-icons/gafa.png"
+  },
+  {
+    "name": "GAFI",
+    "src": "/assets/images/icons/coins-icons/gafi.png"
+  },
+  {
+    "name": "GAL",
+    "src": "/assets/images/icons/coins-icons/gal.png"
+  },
+  {
+    "name": "GALA",
+    "src": "/assets/images/icons/coins-icons/gala.png"
+  },
+  {
+    "name": "GALABEP20",
+    "src": "/assets/images/icons/coins-icons/galabep20.png"
+  },
+  {
+    "name": "GAME",
+    "src": "/assets/images/icons/coins-icons/game.png"
+  },
+  {
+    "name": "GARI",
+    "src": "/assets/images/icons/coins-icons/gari.png"
+  },
+  {
+    "name": "GAS",
+    "src": "/assets/images/icons/coins-icons/gas.svg"
+  },
+  {
+    "name": "GASN3",
+    "src": "/assets/images/icons/coins-icons/gasn3.png"
+  },
+  {
+    "name": "GBEX",
+    "src": "/assets/images/icons/coins-icons/gbex.png"
+  },
+  {
+    "name": "GBP",
+    "src": "/assets/images/icons/coins-icons/gbp.svg"
+  },
+  {
+    "name": "GEEQ",
+    "src": "/assets/images/icons/coins-icons/geeq.png"
+  },
+  {
+    "name": "GEEQERC20",
+    "src": "/assets/images/icons/coins-icons/geeqerc20.png"
+  },
+  {
+    "name": "GEL",
+    "src": "/assets/images/icons/coins-icons/gel.png"
+  },
+  {
+    "name": "GEM",
+    "src": "/assets/images/icons/coins-icons/gem.png"
+  },
+  {
+    "name": "GEMS",
+    "src": "/assets/images/icons/coins-icons/gems.svg"
+  },
+  {
+    "name": "GENESIS-VISION",
+    "src": "/assets/images/icons/coins-icons/genesis-vision.png"
+  },
+  {
+    "name": "GETH",
+    "src": "/assets/images/icons/coins-icons/geth.svg"
+  },
+  {
+    "name": "GFT",
+    "src": "/assets/images/icons/coins-icons/gft.png"
+  },
+  {
+    "name": "GGTKN",
+    "src": "/assets/images/icons/coins-icons/ggtkn.png"
+  },
+  {
+    "name": "GHC",
+    "src": "/assets/images/icons/coins-icons/ghc.png"
+  },
+  {
+    "name": "GHIBLI",
+    "src": "/assets/images/icons/coins-icons/ghibli.png"
+  },
+  {
+    "name": "GHST",
+    "src": "/assets/images/icons/coins-icons/ghst.png"
+  },
+  {
+    "name": "GHSTMATIC",
+    "src": "/assets/images/icons/coins-icons/ghstmatic.png"
+  },
+  {
+    "name": "GIFTO",
+    "src": "/assets/images/icons/coins-icons/gifto.png"
+  },
+  {
+    "name": "GIGA",
+    "src": "/assets/images/icons/coins-icons/giga.png"
+  },
+  {
+    "name": "GLCH",
+    "src": "/assets/images/icons/coins-icons/glch.png"
+  },
+  {
+    "name": "GLM",
+    "src": "/assets/images/icons/coins-icons/glm.png"
+  },
+  {
+    "name": "GLMR",
+    "src": "/assets/images/icons/coins-icons/glmr.png"
+  },
+  {
+    "name": "GLMRBEP20",
+    "src": "/assets/images/icons/coins-icons/glmrbep20.png"
+  },
+  {
+    "name": "GLQ",
+    "src": "/assets/images/icons/coins-icons/glq.png"
+  },
+  {
+    "name": "GMB",
+    "src": "/assets/images/icons/coins-icons/gmb.png"
+  },
+  {
+    "name": "GMEE",
+    "src": "/assets/images/icons/coins-icons/gmee.png"
+  },
+  {
+    "name": "GMEEERC20",
+    "src": "/assets/images/icons/coins-icons/gmeeerc20.png"
+  },
+  {
+    "name": "GMI",
+    "src": "/assets/images/icons/coins-icons/gmi.png"
+  },
+  {
+    "name": "GMR",
+    "src": "/assets/images/icons/coins-icons/gmr.png"
+  },
+  {
+    "name": "GMT",
+    "src": "/assets/images/icons/coins-icons/gmt.png"
+  },
+  {
+    "name": "GMTBEP20",
+    "src": "/assets/images/icons/coins-icons/gmtbep20.png"
+  },
+  {
+    "name": "GMTERC20",
+    "src": "/assets/images/icons/coins-icons/gmterc20.png"
+  },
+  {
+    "name": "GMTMATIC",
+    "src": "/assets/images/icons/coins-icons/gmtmatic.png"
+  },
+  {
+    "name": "GMTSOL",
+    "src": "/assets/images/icons/coins-icons/gmtsol.png"
+  },
+  {
+    "name": "GMX",
+    "src": "/assets/images/icons/coins-icons/gmx.png"
+  },
+  {
+    "name": "GMXARBITRUM",
+    "src": "/assets/images/icons/coins-icons/gmxarbitrum.png"
+  },
+  {
+    "name": "GMXAVAXC",
+    "src": "/assets/images/icons/coins-icons/gmxavaxc.png"
+  },
+  {
+    "name": "GNO",
+    "src": "/assets/images/icons/coins-icons/gno.png"
+  },
+  {
+    "name": "GNS",
+    "src": "/assets/images/icons/coins-icons/gns.png"
+  },
+  {
+    "name": "GNSARB",
+    "src": "/assets/images/icons/coins-icons/gnsarb.png"
+  },
+  {
+    "name": "GNT",
+    "src": "/assets/images/icons/coins-icons/gnt.png"
+  },
+  {
+    "name": "GNX",
+    "src": "/assets/images/icons/coins-icons/gnx.png"
+  },
+  {
+    "name": "GNY",
+    "src": "/assets/images/icons/coins-icons/gny.svg"
+  },
+  {
+    "name": "GO",
+    "src": "/assets/images/icons/coins-icons/go.svg"
+  },
+  {
+    "name": "GOAT",
+    "src": "/assets/images/icons/coins-icons/goat.svg"
+  },
+  {
+    "name": "GOBYTE",
+    "src": "/assets/images/icons/coins-icons/gobyte.png"
+  },
+  {
+    "name": "GODS",
+    "src": "/assets/images/icons/coins-icons/gods.png"
+  },
+  {
+    "name": "GOVI",
+    "src": "/assets/images/icons/coins-icons/govi.png"
+  },
+  {
+    "name": "GPS",
+    "src": "/assets/images/icons/coins-icons/gps.png"
+  },
+  {
+    "name": "GPT",
+    "src": "/assets/images/icons/coins-icons/gpt.png"
+  },
+  {
+    "name": "GRASS",
+    "src": "/assets/images/icons/coins-icons/grass.svg"
+  },
+  {
+    "name": "GRC",
+    "src": "/assets/images/icons/coins-icons/grc.png"
+  },
+  {
+    "name": "GRID",
+    "src": "/assets/images/icons/coins-icons/grid.png"
+  },
+  {
+    "name": "GRIFFAIN",
+    "src": "/assets/images/icons/coins-icons/griffain.png"
+  },
+  {
+    "name": "GRIMACE",
+    "src": "/assets/images/icons/coins-icons/grimace.png"
+  },
+  {
+    "name": "GRIN",
+    "src": "/assets/images/icons/coins-icons/grin.png"
+  },
+  {
+    "name": "GRLC",
+    "src": "/assets/images/icons/coins-icons/grlc.png"
+  },
+  {
+    "name": "GRS",
+    "src": "/assets/images/icons/coins-icons/grs.svg"
+  },
+  {
+    "name": "GRT",
+    "src": "/assets/images/icons/coins-icons/grt.png"
+  },
+  {
+    "name": "GRTARB",
+    "src": "/assets/images/icons/coins-icons/grtarb.png"
+  },
+  {
+    "name": "GRTMATIC",
+    "src": "/assets/images/icons/coins-icons/grtmatic.png"
+  },
+  {
+    "name": "GSC",
+    "src": "/assets/images/icons/coins-icons/gsc.png"
+  },
+  {
+    "name": "GSPI",
+    "src": "/assets/images/icons/coins-icons/gspi.png"
+  },
+  {
+    "name": "GST",
+    "src": "/assets/images/icons/coins-icons/gst.png"
+  },
+  {
+    "name": "GSTSOL",
+    "src": "/assets/images/icons/coins-icons/gstsol.png"
+  },
+  {
+    "name": "GT",
+    "src": "/assets/images/icons/coins-icons/gt.svg"
+  },
+  {
+    "name": "GTC",
+    "src": "/assets/images/icons/coins-icons/gtc.png"
+  },
+  {
+    "name": "GUARD",
+    "src": "/assets/images/icons/coins-icons/guard.png"
+  },
+  {
+    "name": "GULDEN",
+    "src": "/assets/images/icons/coins-icons/gulden.png"
+  },
+  {
+    "name": "GUSD",
+    "src": "/assets/images/icons/coins-icons/gusd.svg"
+  },
+  {
+    "name": "GXCHAIN",
+    "src": "/assets/images/icons/coins-icons/gxchain.png"
+  },
+  {
+    "name": "GYEN",
+    "src": "/assets/images/icons/coins-icons/gyen.png"
+  },
+  {
+    "name": "H2O",
+    "src": "/assets/images/icons/coins-icons/h2o.png"
+  },
+  {
+    "name": "HAI",
+    "src": "/assets/images/icons/coins-icons/hai.png"
+  },
+  {
+    "name": "HAKA",
+    "src": "/assets/images/icons/coins-icons/haka.png"
+  },
+  {
+    "name": "HAKKA",
+    "src": "/assets/images/icons/coins-icons/hakka.png"
+  },
+  {
+    "name": "HAM",
+    "src": "/assets/images/icons/coins-icons/ham.png"
+  },
+  {
+    "name": "HAO",
+    "src": "/assets/images/icons/coins-icons/hao.png"
+  },
+  {
+    "name": "HAOBEP20",
+    "src": "/assets/images/icons/coins-icons/haobep20.png"
+  },
+  {
+    "name": "HAPI",
+    "src": "/assets/images/icons/coins-icons/hapi.png"
+  },
+  {
+    "name": "HARD",
+    "src": "/assets/images/icons/coins-icons/hard.png"
+  },
+  {
+    "name": "HARDKAVA",
+    "src": "/assets/images/icons/coins-icons/hardkava.png"
+  },
+  {
+    "name": "HBAR",
+    "src": "/assets/images/icons/coins-icons/hbar.svg"
+  },
+  {
+    "name": "HBB",
+    "src": "/assets/images/icons/coins-icons/hbb.png"
+  },
+  {
+    "name": "HBD",
+    "src": "/assets/images/icons/coins-icons/hbd.png"
+  },
+  {
+    "name": "HBTC",
+    "src": "/assets/images/icons/coins-icons/hbtc.png"
+  },
+  {
+    "name": "HC",
+    "src": "/assets/images/icons/coins-icons/hc.svg"
+  },
+  {
+    "name": "HEDGE",
+    "src": "/assets/images/icons/coins-icons/hedge.png"
+  },
+  {
+    "name": "HEGIC",
+    "src": "/assets/images/icons/coins-icons/hegic.png"
+  },
+  {
+    "name": "HELLOGOLD",
+    "src": "/assets/images/icons/coins-icons/hellogold.png"
+  },
+  {
+    "name": "HEPA",
+    "src": "/assets/images/icons/coins-icons/hepa.png"
+  },
+  {
+    "name": "HERO",
+    "src": "/assets/images/icons/coins-icons/hero.png"
+  },
+  {
+    "name": "HEX",
+    "src": "/assets/images/icons/coins-icons/hex.svg"
+  },
+  {
+    "name": "HEZ",
+    "src": "/assets/images/icons/coins-icons/hez.svg"
+  },
+  {
+    "name": "HFT",
+    "src": "/assets/images/icons/coins-icons/hft.png"
+  },
+  {
+    "name": "HFTBEP20",
+    "src": "/assets/images/icons/coins-icons/hftbep20.png"
+  },
+  {
+    "name": "HGPT",
+    "src": "/assets/images/icons/coins-icons/hgpt.png"
+  },
+  {
+    "name": "HIAZUKI",
+    "src": "/assets/images/icons/coins-icons/hiazuki.png"
+  },
+  {
+    "name": "HIFI",
+    "src": "/assets/images/icons/coins-icons/hifi.png"
+  },
+  {
+    "name": "HIGH-PERFORMANCE-BLOCKCHAIN",
+    "src": "/assets/images/icons/coins-icons/high-performance-blockchain.png"
+  },
+  {
+    "name": "HIGH",
+    "src": "/assets/images/icons/coins-icons/high.png"
+  },
+  {
+    "name": "HIGHERC20",
+    "src": "/assets/images/icons/coins-icons/higherc20.png"
+  },
+  {
+    "name": "HISAND33",
+    "src": "/assets/images/icons/coins-icons/hisand33.png"
+  },
+  {
+    "name": "HIT",
+    "src": "/assets/images/icons/coins-icons/hit.png"
+  },
+  {
+    "name": "HIVE",
+    "src": "/assets/images/icons/coins-icons/hive.png"
+  },
+  {
+    "name": "HMC",
+    "src": "/assets/images/icons/coins-icons/hmc.png"
+  },
+  {
+    "name": "HMND",
+    "src": "/assets/images/icons/coins-icons/hmnd.png"
+  },
+  {
+    "name": "HMSTR",
+    "src": "/assets/images/icons/coins-icons/hmstr.png"
+  },
+  {
+    "name": "HNS",
+    "src": "/assets/images/icons/coins-icons/hns.png"
+  },
+  {
+    "name": "HNST",
+    "src": "/assets/images/icons/coins-icons/hnst.png"
+  },
+  {
+    "name": "HNT",
+    "src": "/assets/images/icons/coins-icons/hnt.png"
+  },
+  {
+    "name": "HODL",
+    "src": "/assets/images/icons/coins-icons/hodl.png"
+  },
+  {
+    "name": "HOGE",
+    "src": "/assets/images/icons/coins-icons/hoge.svg"
+  },
+  {
+    "name": "HOKK",
+    "src": "/assets/images/icons/coins-icons/hokk.png"
+  },
+  {
+    "name": "HONEY",
+    "src": "/assets/images/icons/coins-icons/honey.png"
+  },
+  {
+    "name": "HOO",
+    "src": "/assets/images/icons/coins-icons/hoo.png"
+  },
+  {
+    "name": "HOOK",
+    "src": "/assets/images/icons/coins-icons/hook.png"
+  },
+  {
+    "name": "HOPR",
+    "src": "/assets/images/icons/coins-icons/hopr.png"
+  },
+  {
+    "name": "HOT",
+    "src": "/assets/images/icons/coins-icons/hot.svg"
+  },
+  {
+    "name": "HOTCROSS",
+    "src": "/assets/images/icons/coins-icons/hotcross.png"
+  },
+  {
+    "name": "HOTCROSSERC20",
+    "src": "/assets/images/icons/coins-icons/hotcrosserc20.png"
+  },
+  {
+    "name": "HOTERC20",
+    "src": "/assets/images/icons/coins-icons/hoterc20.png"
+  },
+  {
+    "name": "HPT",
+    "src": "/assets/images/icons/coins-icons/hpt.png"
+  },
+  {
+    "name": "HSF",
+    "src": "/assets/images/icons/coins-icons/hsf.png"
+  },
+  {
+    "name": "HSFBEP20",
+    "src": "/assets/images/icons/coins-icons/hsfbep20.png"
+  },
+  {
+    "name": "HT",
+    "src": "/assets/images/icons/coins-icons/ht.svg"
+  },
+  {
+    "name": "HTR",
+    "src": "/assets/images/icons/coins-icons/htr.png"
+  },
+  {
+    "name": "HUF",
+    "src": "/assets/images/icons/coins-icons/huf.svg"
+  },
+  {
+    "name": "HUMANIQ",
+    "src": "/assets/images/icons/coins-icons/humaniq.png"
+  },
+  {
+    "name": "HUNT",
+    "src": "/assets/images/icons/coins-icons/hunt.png"
+  },
+  {
+    "name": "HUSD",
+    "src": "/assets/images/icons/coins-icons/husd.svg"
+  },
+  {
+    "name": "HXRO",
+    "src": "/assets/images/icons/coins-icons/hxro.png"
+  },
+  {
+    "name": "HYDRA",
+    "src": "/assets/images/icons/coins-icons/hydra.png"
+  },
+  {
+    "name": "HYPE",
+    "src": "/assets/images/icons/coins-icons/hype.png"
+  },
+  {
+    "name": "HYVE",
+    "src": "/assets/images/icons/coins-icons/hyve.png"
+  },
+  {
+    "name": "HYVEERC20",
+    "src": "/assets/images/icons/coins-icons/hyveerc20.png"
+  },
+  {
+    "name": "ICE-ROCK-MINING",
+    "src": "/assets/images/icons/coins-icons/ice-rock-mining.png"
+  },
+  {
+    "name": "ICE",
+    "src": "/assets/images/icons/coins-icons/ice.png"
+  },
+  {
+    "name": "ICHI",
+    "src": "/assets/images/icons/coins-icons/ichi.png"
+  },
+  {
+    "name": "ICP",
+    "src": "/assets/images/icons/coins-icons/icp.svg"
+  },
+  {
+    "name": "ICX",
+    "src": "/assets/images/icons/coins-icons/icx.svg"
+  },
+  {
+    "name": "ID",
+    "src": "/assets/images/icons/coins-icons/id.png"
+  },
+  {
+    "name": "IDBSC",
+    "src": "/assets/images/icons/coins-icons/idbsc.png"
+  },
+  {
+    "name": "IDEX",
+    "src": "/assets/images/icons/coins-icons/idex.png"
+  },
+  {
+    "name": "IDRT",
+    "src": "/assets/images/icons/coins-icons/idrt.png"
+  },
+  {
+    "name": "IDT",
+    "src": "/assets/images/icons/coins-icons/idt.png"
+  },
+  {
+    "name": "IGNIS",
+    "src": "/assets/images/icons/coins-icons/ignis.png"
+  },
+  {
+    "name": "IGU",
+    "src": "/assets/images/icons/coins-icons/igu.png"
+  },
+  {
+    "name": "IHC",
+    "src": "/assets/images/icons/coins-icons/ihc.png"
+  },
+  {
+    "name": "IIC",
+    "src": "/assets/images/icons/coins-icons/iic.png"
+  },
+  {
+    "name": "ILS",
+    "src": "/assets/images/icons/coins-icons/ils.svg"
+  },
+  {
+    "name": "ILV",
+    "src": "/assets/images/icons/coins-icons/ilv.png"
+  },
+  {
+    "name": "ILVBEP20",
+    "src": "/assets/images/icons/coins-icons/ilvbep20.png"
+  },
+  {
+    "name": "IMX",
+    "src": "/assets/images/icons/coins-icons/imx.png"
+  },
+  {
+    "name": "INDAHASH",
+    "src": "/assets/images/icons/coins-icons/indahash.png"
+  },
+  {
+    "name": "ING",
+    "src": "/assets/images/icons/coins-icons/ing.png"
+  },
+  {
+    "name": "INJ",
+    "src": "/assets/images/icons/coins-icons/inj.png"
+  },
+  {
+    "name": "INJBEP20",
+    "src": "/assets/images/icons/coins-icons/injbep20.png"
+  },
+  {
+    "name": "INJERC20",
+    "src": "/assets/images/icons/coins-icons/injerc20.png"
+  },
+  {
+    "name": "INSUR",
+    "src": "/assets/images/icons/coins-icons/insur.png"
+  },
+  {
+    "name": "INTERNXT",
+    "src": "/assets/images/icons/coins-icons/internxt.png"
+  },
+  {
+    "name": "IO",
+    "src": "/assets/images/icons/coins-icons/io.png"
+  },
+  {
+    "name": "IOST",
+    "src": "/assets/images/icons/coins-icons/iost.svg"
+  },
+  {
+    "name": "IOSTERC20",
+    "src": "/assets/images/icons/coins-icons/iosterc20.png"
+  },
+  {
+    "name": "IOT-CHAIN",
+    "src": "/assets/images/icons/coins-icons/iot-chain.png"
+  },
+  {
+    "name": "IOTA",
+    "src": "/assets/images/icons/coins-icons/iota.svg"
+  },
+  {
+    "name": "IOTABEP20",
+    "src": "/assets/images/icons/coins-icons/iotabep20.png"
+  },
+  {
+    "name": "IOTX",
+    "src": "/assets/images/icons/coins-icons/iotx.png"
+  },
+  {
+    "name": "IOTXBEP2",
+    "src": "/assets/images/icons/coins-icons/iotxbep2.png"
+  },
+  {
+    "name": "IOTXBEP20",
+    "src": "/assets/images/icons/coins-icons/iotxbep20.png"
+  },
+  {
+    "name": "IOTXERC20",
+    "src": "/assets/images/icons/coins-icons/iotxerc20.png"
+  },
+  {
+    "name": "IQ",
+    "src": "/assets/images/icons/coins-icons/iq.png"
+  },
+  {
+    "name": "IQEOS",
+    "src": "/assets/images/icons/coins-icons/iqeos.png"
+  },
+  {
+    "name": "IRIS",
+    "src": "/assets/images/icons/coins-icons/iris.png"
+  },
+  {
+    "name": "IRON",
+    "src": "/assets/images/icons/coins-icons/iron.png"
+  },
+  {
+    "name": "ISP",
+    "src": "/assets/images/icons/coins-icons/isp.png"
+  },
+  {
+    "name": "ITAM",
+    "src": "/assets/images/icons/coins-icons/itam.png"
+  },
+  {
+    "name": "IXS",
+    "src": "/assets/images/icons/coins-icons/ixs.png"
+  },
+  {
+    "name": "JAM",
+    "src": "/assets/images/icons/coins-icons/jam.png"
+  },
+  {
+    "name": "JASMY",
+    "src": "/assets/images/icons/coins-icons/jasmy.png"
+  },
+  {
+    "name": "JASMYBEP20",
+    "src": "/assets/images/icons/coins-icons/jasmybep20.png"
+  },
+  {
+    "name": "JETTON",
+    "src": "/assets/images/icons/coins-icons/jetton.png"
+  },
+  {
+    "name": "JOE",
+    "src": "/assets/images/icons/coins-icons/joe.png"
+  },
+  {
+    "name": "JPY",
+    "src": "/assets/images/icons/coins-icons/jpy.svg"
+  },
+  {
+    "name": "JST",
+    "src": "/assets/images/icons/coins-icons/jst.svg"
+  },
+  {
+    "name": "JSTBEP20",
+    "src": "/assets/images/icons/coins-icons/jstbep20.png"
+  },
+  {
+    "name": "JTO",
+    "src": "/assets/images/icons/coins-icons/jto.png"
+  },
+  {
+    "name": "JULD",
+    "src": "/assets/images/icons/coins-icons/juld.png"
+  },
+  {
+    "name": "JUP",
+    "src": "/assets/images/icons/coins-icons/jup.png"
+  },
+  {
+    "name": "JUV",
+    "src": "/assets/images/icons/coins-icons/juv.png"
+  },
+  {
+    "name": "KAI",
+    "src": "/assets/images/icons/coins-icons/kai.png"
+  },
+  {
+    "name": "KAIA",
+    "src": "/assets/images/icons/coins-icons/kaia.png"
+  },
+  {
+    "name": "KAITO",
+    "src": "/assets/images/icons/coins-icons/kaito.png"
+  },
+  {
+    "name": "KAN",
+    "src": "/assets/images/icons/coins-icons/kan.png"
+  },
+  {
+    "name": "KAR",
+    "src": "/assets/images/icons/coins-icons/kar.png"
+  },
+  {
+    "name": "KAS",
+    "src": "/assets/images/icons/coins-icons/kas.png"
+  },
+  {
+    "name": "KAVA",
+    "src": "/assets/images/icons/coins-icons/kava.png"
+  },
+  {
+    "name": "KAVABEP2",
+    "src": "/assets/images/icons/coins-icons/kavabep2.png"
+  },
+  {
+    "name": "KBD",
+    "src": "/assets/images/icons/coins-icons/kbd.png"
+  },
+  {
+    "name": "KCASH",
+    "src": "/assets/images/icons/coins-icons/kcash.png"
+  },
+  {
+    "name": "KCS",
+    "src": "/assets/images/icons/coins-icons/kcs.png"
+  },
+  {
+    "name": "KDA",
+    "src": "/assets/images/icons/coins-icons/kda.png"
+  },
+  {
+    "name": "KDOE",
+    "src": "/assets/images/icons/coins-icons/kdoe.png"
+  },
+  {
+    "name": "KEANU",
+    "src": "/assets/images/icons/coins-icons/keanu.png"
+  },
+  {
+    "name": "KEEP",
+    "src": "/assets/images/icons/coins-icons/keep.png"
+  },
+  {
+    "name": "KEKIUS",
+    "src": "/assets/images/icons/coins-icons/kekius.png"
+  },
+  {
+    "name": "KENNEL",
+    "src": "/assets/images/icons/coins-icons/kennel.png"
+  },
+  {
+    "name": "KEY",
+    "src": "/assets/images/icons/coins-icons/key.png"
+  },
+  {
+    "name": "KEYFI",
+    "src": "/assets/images/icons/coins-icons/keyfi.png"
+  },
+  {
+    "name": "KGO",
+    "src": "/assets/images/icons/coins-icons/kgo.png"
+  },
+  {
+    "name": "KIBA",
+    "src": "/assets/images/icons/coins-icons/kiba.png"
+  },
+  {
+    "name": "KIBABEP20",
+    "src": "/assets/images/icons/coins-icons/kibabep20.png"
+  },
+  {
+    "name": "KIN",
+    "src": "/assets/images/icons/coins-icons/kin.png"
+  },
+  {
+    "name": "KINSOL",
+    "src": "/assets/images/icons/coins-icons/kinsol.png"
+  },
+  {
+    "name": "KISHU",
+    "src": "/assets/images/icons/coins-icons/kishu.png"
+  },
+  {
+    "name": "KLAY",
+    "src": "/assets/images/icons/coins-icons/klay.png"
+  },
+  {
+    "name": "KLEE",
+    "src": "/assets/images/icons/coins-icons/klee.png"
+  },
+  {
+    "name": "KLIMA",
+    "src": "/assets/images/icons/coins-icons/klima.png"
+  },
+  {
+    "name": "KLV",
+    "src": "/assets/images/icons/coins-icons/klv.svg"
+  },
+  {
+    "name": "KMA",
+    "src": "/assets/images/icons/coins-icons/kma.png"
+  },
+  {
+    "name": "KMD",
+    "src": "/assets/images/icons/coins-icons/kmd.svg"
+  },
+  {
+    "name": "KMDBEP20",
+    "src": "/assets/images/icons/coins-icons/kmdbep20.png"
+  },
+  {
+    "name": "KMNO",
+    "src": "/assets/images/icons/coins-icons/kmno.png"
+  },
+  {
+    "name": "KNC",
+    "src": "/assets/images/icons/coins-icons/knc.svg"
+  },
+  {
+    "name": "KNCBEP20",
+    "src": "/assets/images/icons/coins-icons/kncbep20.png"
+  },
+  {
+    "name": "KNCMATIC",
+    "src": "/assets/images/icons/coins-icons/kncmatic.png"
+  },
+  {
+    "name": "KOK",
+    "src": "/assets/images/icons/coins-icons/kok.png"
+  },
+  {
+    "name": "KOM",
+    "src": "/assets/images/icons/coins-icons/kom.png"
+  },
+  {
+    "name": "KOMA",
+    "src": "/assets/images/icons/coins-icons/koma.png"
+  },
+  {
+    "name": "KONO",
+    "src": "/assets/images/icons/coins-icons/kono.png"
+  },
+  {
+    "name": "KOROMARU",
+    "src": "/assets/images/icons/coins-icons/koromaru.png"
+  },
+  {
+    "name": "KP3R",
+    "src": "/assets/images/icons/coins-icons/kp3r.png"
+  },
+  {
+    "name": "KRL",
+    "src": "/assets/images/icons/coins-icons/krl.png"
+  },
+  {
+    "name": "KRW",
+    "src": "/assets/images/icons/coins-icons/krw.svg"
+  },
+  {
+    "name": "KSM",
+    "src": "/assets/images/icons/coins-icons/ksm.svg"
+  },
+  {
+    "name": "KYL",
+    "src": "/assets/images/icons/coins-icons/kyl.png"
+  },
+  {
+    "name": "LACE",
+    "src": "/assets/images/icons/coins-icons/lace.png"
+  },
+  {
+    "name": "LADYS",
+    "src": "/assets/images/icons/coins-icons/ladys.png"
+  },
+  {
+    "name": "LAND",
+    "src": "/assets/images/icons/coins-icons/land.png"
+  },
+  {
+    "name": "LATOKEN",
+    "src": "/assets/images/icons/coins-icons/latoken.png"
+  },
+  {
+    "name": "LAYER",
+    "src": "/assets/images/icons/coins-icons/layer.png"
+  },
+  {
+    "name": "LAYERERC20",
+    "src": "/assets/images/icons/coins-icons/layererc20.png"
+  },
+  {
+    "name": "LAZIO",
+    "src": "/assets/images/icons/coins-icons/lazio.png"
+  },
+  {
+    "name": "LBA",
+    "src": "/assets/images/icons/coins-icons/lba.png"
+  },
+  {
+    "name": "LBLOCK",
+    "src": "/assets/images/icons/coins-icons/lblock.png"
+  },
+  {
+    "name": "LBP",
+    "src": "/assets/images/icons/coins-icons/lbp.png"
+  },
+  {
+    "name": "LBTC",
+    "src": "/assets/images/icons/coins-icons/lbtc.png"
+  },
+  {
+    "name": "LCX",
+    "src": "/assets/images/icons/coins-icons/lcx.png"
+  },
+  {
+    "name": "LDO",
+    "src": "/assets/images/icons/coins-icons/ldo.png"
+  },
+  {
+    "name": "LDOARB",
+    "src": "/assets/images/icons/coins-icons/ldoarb.png"
+  },
+  {
+    "name": "LEAD",
+    "src": "/assets/images/icons/coins-icons/lead.svg"
+  },
+  {
+    "name": "LEASH",
+    "src": "/assets/images/icons/coins-icons/leash.png"
+  },
+  {
+    "name": "LEO",
+    "src": "/assets/images/icons/coins-icons/leo.png"
+  },
+  {
+    "name": "LESTER",
+    "src": "/assets/images/icons/coins-icons/lester.svg"
+  },
+  {
+    "name": "LET",
+    "src": "/assets/images/icons/coins-icons/let.png"
+  },
+  {
+    "name": "LEVER",
+    "src": "/assets/images/icons/coins-icons/lever.png"
+  },
+  {
+    "name": "LGCY",
+    "src": "/assets/images/icons/coins-icons/lgcy.svg"
+  },
+  {
+    "name": "LGO",
+    "src": "/assets/images/icons/coins-icons/lgo.png"
+  },
+  {
+    "name": "LGX",
+    "src": "/assets/images/icons/coins-icons/lgx.png"
+  },
+  {
+    "name": "LIFE",
+    "src": "/assets/images/icons/coins-icons/life.png"
+  },
+  {
+    "name": "LIKE",
+    "src": "/assets/images/icons/coins-icons/like.png"
+  },
+  {
+    "name": "LIKESOL",
+    "src": "/assets/images/icons/coins-icons/likesol.png"
+  },
+  {
+    "name": "LIME",
+    "src": "/assets/images/icons/coins-icons/lime.png"
+  },
+  {
+    "name": "LIMEBEP20",
+    "src": "/assets/images/icons/coins-icons/limebep20.png"
+  },
+  {
+    "name": "LIMEMATIC",
+    "src": "/assets/images/icons/coins-icons/limematic.png"
+  },
+  {
+    "name": "LINA",
+    "src": "/assets/images/icons/coins-icons/lina.png"
+  },
+  {
+    "name": "LINAERC20",
+    "src": "/assets/images/icons/coins-icons/linaerc20.png"
+  },
+  {
+    "name": "LINGO",
+    "src": "/assets/images/icons/coins-icons/lingo.png"
+  },
+  {
+    "name": "LINK",
+    "src": "/assets/images/icons/coins-icons/link.svg"
+  },
+  {
+    "name": "LINKARB",
+    "src": "/assets/images/icons/coins-icons/linkarb.png"
+  },
+  {
+    "name": "LINKBEP2",
+    "src": "/assets/images/icons/coins-icons/linkbep2.png"
+  },
+  {
+    "name": "LINKBEP20",
+    "src": "/assets/images/icons/coins-icons/linkbep20.png"
+  },
+  {
+    "name": "LIT",
+    "src": "/assets/images/icons/coins-icons/lit.png"
+  },
+  {
+    "name": "LIVE-STARS",
+    "src": "/assets/images/icons/coins-icons/live-stars.png"
+  },
+  {
+    "name": "LLM",
+    "src": "/assets/images/icons/coins-icons/llm.png"
+  },
+  {
+    "name": "LMCSWAP",
+    "src": "/assets/images/icons/coins-icons/lmcswap.png"
+  },
+  {
+    "name": "LMR",
+    "src": "/assets/images/icons/coins-icons/lmr.png"
+  },
+  {
+    "name": "LMWR",
+    "src": "/assets/images/icons/coins-icons/lmwr.png"
+  },
+  {
+    "name": "LOCKCHAIN",
+    "src": "/assets/images/icons/coins-icons/lockchain.png"
+  },
+  {
+    "name": "LOCUS",
+    "src": "/assets/images/icons/coins-icons/locus.png"
+  },
+  {
+    "name": "LOF",
+    "src": "/assets/images/icons/coins-icons/lof.png"
+  },
+  {
+    "name": "LOKA",
+    "src": "/assets/images/icons/coins-icons/loka.png"
+  },
+  {
+    "name": "LON",
+    "src": "/assets/images/icons/coins-icons/lon.png"
+  },
+  {
+    "name": "LOOKS",
+    "src": "/assets/images/icons/coins-icons/looks.png"
+  },
+  {
+    "name": "LOOM",
+    "src": "/assets/images/icons/coins-icons/loom.svg"
+  },
+  {
+    "name": "LOOMBEP20",
+    "src": "/assets/images/icons/coins-icons/loombep20.png"
+  },
+  {
+    "name": "LOOMERC20",
+    "src": "/assets/images/icons/coins-icons/loomerc20.png"
+  },
+  {
+    "name": "LPOOL",
+    "src": "/assets/images/icons/coins-icons/lpool.png"
+  },
+  {
+    "name": "LPT",
+    "src": "/assets/images/icons/coins-icons/lpt.png"
+  },
+  {
+    "name": "LQTY",
+    "src": "/assets/images/icons/coins-icons/lqty.png"
+  },
+  {
+    "name": "LQTYERC20",
+    "src": "/assets/images/icons/coins-icons/lqtyerc20.png"
+  },
+  {
+    "name": "LRC",
+    "src": "/assets/images/icons/coins-icons/lrc.svg"
+  },
+  {
+    "name": "LRCBEP20",
+    "src": "/assets/images/icons/coins-icons/lrcbep20.png"
+  },
+  {
+    "name": "LSK",
+    "src": "/assets/images/icons/coins-icons/lsk.svg"
+  },
+  {
+    "name": "LSKERC20",
+    "src": "/assets/images/icons/coins-icons/lskerc20.png"
+  },
+  {
+    "name": "LSS",
+    "src": "/assets/images/icons/coins-icons/lss.png"
+  },
+  {
+    "name": "LTC",
+    "src": "/assets/images/icons/coins-icons/ltc.svg"
+  },
+  {
+    "name": "LTCBEP2",
+    "src": "/assets/images/icons/coins-icons/ltcbep2.png"
+  },
+  {
+    "name": "LTCBEP20",
+    "src": "/assets/images/icons/coins-icons/ltcbep20.png"
+  },
+  {
+    "name": "LTO",
+    "src": "/assets/images/icons/coins-icons/lto.png"
+  },
+  {
+    "name": "LTOBEP2",
+    "src": "/assets/images/icons/coins-icons/ltobep2.png"
+  },
+  {
+    "name": "LTOBEP20",
+    "src": "/assets/images/icons/coins-icons/ltobep20.png"
+  },
+  {
+    "name": "LTOERC20",
+    "src": "/assets/images/icons/coins-icons/ltoerc20.png"
+  },
+  {
+    "name": "LTX",
+    "src": "/assets/images/icons/coins-icons/ltx.png"
+  },
+  {
+    "name": "LUFFY",
+    "src": "/assets/images/icons/coins-icons/luffy.png"
+  },
+  {
+    "name": "LUFFYV3",
+    "src": "/assets/images/icons/coins-icons/luffyv3.png"
+  },
+  {
+    "name": "LUN",
+    "src": "/assets/images/icons/coins-icons/lun.png"
+  },
+  {
+    "name": "LUNA",
+    "src": "/assets/images/icons/coins-icons/luna.svg"
+  },
+  {
+    "name": "LUNC",
+    "src": "/assets/images/icons/coins-icons/lunc.svg"
+  },
+  {
+    "name": "LUSD",
+    "src": "/assets/images/icons/coins-icons/lusd.png"
+  },
+  {
+    "name": "LXT",
+    "src": "/assets/images/icons/coins-icons/lxt.svg"
+  },
+  {
+    "name": "LYM",
+    "src": "/assets/images/icons/coins-icons/lym.png"
+  },
+  {
+    "name": "LYXE",
+    "src": "/assets/images/icons/coins-icons/lyxe.png"
+  },
+  {
+    "name": "M1VERSE",
+    "src": "/assets/images/icons/coins-icons/m1verse.png"
+  },
+  {
+    "name": "MAECENAS",
+    "src": "/assets/images/icons/coins-icons/maecenas.png"
+  },
+  {
+    "name": "MAGIC",
+    "src": "/assets/images/icons/coins-icons/magic.png"
+  },
+  {
+    "name": "MAHA",
+    "src": "/assets/images/icons/coins-icons/maha.png"
+  },
+  {
+    "name": "MAIDSAFECOIN",
+    "src": "/assets/images/icons/coins-icons/maidsafecoin.png"
+  },
+  {
+    "name": "MAINFRAME",
+    "src": "/assets/images/icons/coins-icons/mainframe.png"
+  },
+  {
+    "name": "MAN",
+    "src": "/assets/images/icons/coins-icons/man.png"
+  },
+  {
+    "name": "MANA",
+    "src": "/assets/images/icons/coins-icons/mana.svg"
+  },
+  {
+    "name": "MANABEP20",
+    "src": "/assets/images/icons/coins-icons/manabep20.png"
+  },
+  {
+    "name": "MANTA",
+    "src": "/assets/images/icons/coins-icons/manta.svg"
+  },
+  {
+    "name": "MAP",
+    "src": "/assets/images/icons/coins-icons/map.png"
+  },
+  {
+    "name": "MARS4",
+    "src": "/assets/images/icons/coins-icons/mars4.png"
+  },
+  {
+    "name": "MARSH",
+    "src": "/assets/images/icons/coins-icons/marsh.png"
+  },
+  {
+    "name": "MARVIN",
+    "src": "/assets/images/icons/coins-icons/marvin.png"
+  },
+  {
+    "name": "MASA",
+    "src": "/assets/images/icons/coins-icons/masa.png"
+  },
+  {
+    "name": "MASK",
+    "src": "/assets/images/icons/coins-icons/mask.svg"
+  },
+  {
+    "name": "MASKBEP20",
+    "src": "/assets/images/icons/coins-icons/maskbep20.png"
+  },
+  {
+    "name": "MASS",
+    "src": "/assets/images/icons/coins-icons/mass.png"
+  },
+  {
+    "name": "MATH",
+    "src": "/assets/images/icons/coins-icons/math.png"
+  },
+  {
+    "name": "MATIC",
+    "src": "/assets/images/icons/coins-icons/matic.svg"
+  },
+  {
+    "name": "MATICBEP20",
+    "src": "/assets/images/icons/coins-icons/maticbep20.png"
+  },
+  {
+    "name": "MATTER",
+    "src": "/assets/images/icons/coins-icons/matter.png"
+  },
+  {
+    "name": "MAVIA",
+    "src": "/assets/images/icons/coins-icons/mavia.png"
+  },
+  {
+    "name": "MAXERC20",
+    "src": "/assets/images/icons/coins-icons/maxerc20.png"
+  },
+  {
+    "name": "MBL",
+    "src": "/assets/images/icons/coins-icons/mbl.png"
+  },
+  {
+    "name": "MBOX",
+    "src": "/assets/images/icons/coins-icons/mbox.png"
+  },
+  {
+    "name": "MC",
+    "src": "/assets/images/icons/coins-icons/mc.png"
+  },
+  {
+    "name": "MCO",
+    "src": "/assets/images/icons/coins-icons/mco.svg"
+  },
+  {
+    "name": "MCRN",
+    "src": "/assets/images/icons/coins-icons/mcrn.png"
+  },
+  {
+    "name": "MCRNBEP20",
+    "src": "/assets/images/icons/coins-icons/mcrnbep20.png"
+  },
+  {
+    "name": "MDA",
+    "src": "/assets/images/icons/coins-icons/mda.svg"
+  },
+  {
+    "name": "MDS",
+    "src": "/assets/images/icons/coins-icons/mds.png"
+  },
+  {
+    "name": "MDT",
+    "src": "/assets/images/icons/coins-icons/mdt.svg"
+  },
+  {
+    "name": "MDTBEP20",
+    "src": "/assets/images/icons/coins-icons/mdtbep20.png"
+  },
+  {
+    "name": "MDX",
+    "src": "/assets/images/icons/coins-icons/mdx.png"
+  },
+  {
+    "name": "MEET",
+    "src": "/assets/images/icons/coins-icons/meet.png"
+  },
+  {
+    "name": "MELANIA",
+    "src": "/assets/images/icons/coins-icons/melania.png"
+  },
+  {
+    "name": "MELON",
+    "src": "/assets/images/icons/coins-icons/melon.png"
+  },
+  {
+    "name": "MELOS",
+    "src": "/assets/images/icons/coins-icons/melos.png"
+  },
+  {
+    "name": "MEME",
+    "src": "/assets/images/icons/coins-icons/meme.png"
+  },
+  {
+    "name": "MEMEERC20",
+    "src": "/assets/images/icons/coins-icons/memeerc20.png"
+  },
+  {
+    "name": "MERCURY",
+    "src": "/assets/images/icons/coins-icons/mercury.png"
+  },
+  {
+    "name": "METIS",
+    "src": "/assets/images/icons/coins-icons/metis.png"
+  },
+  {
+    "name": "METISERC20",
+    "src": "/assets/images/icons/coins-icons/metiserc20.png"
+  },
+  {
+    "name": "MEW",
+    "src": "/assets/images/icons/coins-icons/mew.png"
+  },
+  {
+    "name": "MICROMONEY",
+    "src": "/assets/images/icons/coins-icons/micromoney.png"
+  },
+  {
+    "name": "MIKOTO",
+    "src": "/assets/images/icons/coins-icons/mikoto.png"
+  },
+  {
+    "name": "MINA",
+    "src": "/assets/images/icons/coins-icons/mina.png"
+  },
+  {
+    "name": "MINEREUM",
+    "src": "/assets/images/icons/coins-icons/minereum.png"
+  },
+  {
+    "name": "MINT",
+    "src": "/assets/images/icons/coins-icons/mint.png"
+  },
+  {
+    "name": "MIR",
+    "src": "/assets/images/icons/coins-icons/mir.svg"
+  },
+  {
+    "name": "MIRBEP20",
+    "src": "/assets/images/icons/coins-icons/mirbep20.png"
+  },
+  {
+    "name": "MITH",
+    "src": "/assets/images/icons/coins-icons/mith.png"
+  },
+  {
+    "name": "MJT",
+    "src": "/assets/images/icons/coins-icons/mjt.png"
+  },
+  {
+    "name": "MKR",
+    "src": "/assets/images/icons/coins-icons/mkr.svg"
+  },
+  {
+    "name": "MKRBEP2",
+    "src": "/assets/images/icons/coins-icons/mkrbep2.png"
+  },
+  {
+    "name": "MKRBEP20",
+    "src": "/assets/images/icons/coins-icons/mkrbep20.png"
+  },
+  {
+    "name": "MLN",
+    "src": "/assets/images/icons/coins-icons/mln.png"
+  },
+  {
+    "name": "MLS",
+    "src": "/assets/images/icons/coins-icons/mls.png"
+  },
+  {
+    "name": "MLSBEP20",
+    "src": "/assets/images/icons/coins-icons/mlsbep20.png"
+  },
+  {
+    "name": "MLSMATIC",
+    "src": "/assets/images/icons/coins-icons/mlsmatic.png"
+  },
+  {
+    "name": "MLT",
+    "src": "/assets/images/icons/coins-icons/mlt.png"
+  },
+  {
+    "name": "MNG",
+    "src": "/assets/images/icons/coins-icons/mng.png"
+  },
+  {
+    "name": "MNTERC20",
+    "src": "/assets/images/icons/coins-icons/mnterc20.png"
+  },
+  {
+    "name": "MNW",
+    "src": "/assets/images/icons/coins-icons/mnw.png"
+  },
+  {
+    "name": "MOB",
+    "src": "/assets/images/icons/coins-icons/mob.png"
+  },
+  {
+    "name": "MOBILE",
+    "src": "/assets/images/icons/coins-icons/mobile.png"
+  },
+  {
+    "name": "MOBILEGO",
+    "src": "/assets/images/icons/coins-icons/mobilego.png"
+  },
+  {
+    "name": "MOCA",
+    "src": "/assets/images/icons/coins-icons/moca.png"
+  },
+  {
+    "name": "MOD",
+    "src": "/assets/images/icons/coins-icons/mod.png"
+  },
+  {
+    "name": "MOG",
+    "src": "/assets/images/icons/coins-icons/mog.png"
+  },
+  {
+    "name": "MOGBASE",
+    "src": "/assets/images/icons/coins-icons/mogbase.png"
+  },
+  {
+    "name": "MOMENTO",
+    "src": "/assets/images/icons/coins-icons/momento.png"
+  },
+  {
+    "name": "MONETARYUNIT",
+    "src": "/assets/images/icons/coins-icons/monetaryunit.png"
+  },
+  {
+    "name": "MONETHA",
+    "src": "/assets/images/icons/coins-icons/monetha.png"
+  },
+  {
+    "name": "MONG",
+    "src": "/assets/images/icons/coins-icons/mong.png"
+  },
+  {
+    "name": "MONI",
+    "src": "/assets/images/icons/coins-icons/moni.png"
+  },
+  {
+    "name": "MONONOKE",
+    "src": "/assets/images/icons/coins-icons/mononoke.png"
+  },
+  {
+    "name": "MOODENG",
+    "src": "/assets/images/icons/coins-icons/moodeng.png"
+  },
+  {
+    "name": "MOONSTAR",
+    "src": "/assets/images/icons/coins-icons/moonstar.png"
+  },
+  {
+    "name": "MOOV",
+    "src": "/assets/images/icons/coins-icons/moov.png"
+  },
+  {
+    "name": "MORPHO",
+    "src": "/assets/images/icons/coins-icons/morpho.png"
+  },
+  {
+    "name": "MOVE",
+    "src": "/assets/images/icons/coins-icons/move.svg"
+  },
+  {
+    "name": "MOVR",
+    "src": "/assets/images/icons/coins-icons/movr.png"
+  },
+  {
+    "name": "MPH",
+    "src": "/assets/images/icons/coins-icons/mph.svg"
+  },
+  {
+    "name": "MPL",
+    "src": "/assets/images/icons/coins-icons/mpl.png"
+  },
+  {
+    "name": "MRS",
+    "src": "/assets/images/icons/coins-icons/mrs.png"
+  },
+  {
+    "name": "MT",
+    "src": "/assets/images/icons/coins-icons/mt.png"
+  },
+  {
+    "name": "MTA",
+    "src": "/assets/images/icons/coins-icons/mta.png"
+  },
+  {
+    "name": "MTL",
+    "src": "/assets/images/icons/coins-icons/mtl.svg"
+  },
+  {
+    "name": "MTN",
+    "src": "/assets/images/icons/coins-icons/mtn.png"
+  },
+  {
+    "name": "MTRG",
+    "src": "/assets/images/icons/coins-icons/mtrg.png"
+  },
+  {
+    "name": "MTRGMETER",
+    "src": "/assets/images/icons/coins-icons/mtrgmeter.png"
+  },
+  {
+    "name": "MTV",
+    "src": "/assets/images/icons/coins-icons/mtv.png"
+  },
+  {
+    "name": "MTX",
+    "src": "/assets/images/icons/coins-icons/mtx.png"
+  },
+  {
+    "name": "MUBARAK",
+    "src": "/assets/images/icons/coins-icons/mubarak.png"
+  },
+  {
+    "name": "MULTI",
+    "src": "/assets/images/icons/coins-icons/multi.png"
+  },
+  {
+    "name": "MUSE",
+    "src": "/assets/images/icons/coins-icons/muse.png"
+  },
+  {
+    "name": "MV",
+    "src": "/assets/images/icons/coins-icons/mv.png"
+  },
+  {
+    "name": "MWG",
+    "src": "/assets/images/icons/coins-icons/mwg.png"
+  },
+  {
+    "name": "MX",
+    "src": "/assets/images/icons/coins-icons/mx.png"
+  },
+  {
+    "name": "MXC",
+    "src": "/assets/images/icons/coins-icons/mxc.png"
+  },
+  {
+    "name": "MYB",
+    "src": "/assets/images/icons/coins-icons/myb.png"
+  },
+  {
+    "name": "MYST",
+    "src": "/assets/images/icons/coins-icons/myst.png"
+  },
+  {
+    "name": "NABOX",
+    "src": "/assets/images/icons/coins-icons/nabox.png"
+  },
+  {
+    "name": "NAFT",
+    "src": "/assets/images/icons/coins-icons/naft.png"
+  },
+  {
+    "name": "NAGA",
+    "src": "/assets/images/icons/coins-icons/naga.png"
+  },
+  {
+    "name": "NAKA",
+    "src": "/assets/images/icons/coins-icons/naka.png"
+  },
+  {
+    "name": "NANO",
+    "src": "/assets/images/icons/coins-icons/nano.svg"
+  },
+  {
+    "name": "NAOS",
+    "src": "/assets/images/icons/coins-icons/naos.png"
+  },
+  {
+    "name": "NAS",
+    "src": "/assets/images/icons/coins-icons/nas.png"
+  },
+  {
+    "name": "NAV",
+    "src": "/assets/images/icons/coins-icons/nav.svg"
+  },
+  {
+    "name": "NAVI",
+    "src": "/assets/images/icons/coins-icons/navi.png"
+  },
+  {
+    "name": "NAX",
+    "src": "/assets/images/icons/coins-icons/nax.png"
+  },
+  {
+    "name": "NBS",
+    "src": "/assets/images/icons/coins-icons/nbs.png"
+  },
+  {
+    "name": "NC",
+    "src": "/assets/images/icons/coins-icons/nc.png"
+  },
+  {
+    "name": "NCT",
+    "src": "/assets/images/icons/coins-icons/nct.png"
+  },
+  {
+    "name": "NEAR",
+    "src": "/assets/images/icons/coins-icons/near.png"
+  },
+  {
+    "name": "NEARBEP2",
+    "src": "/assets/images/icons/coins-icons/nearbep2.png"
+  },
+  {
+    "name": "NEARBEP20",
+    "src": "/assets/images/icons/coins-icons/nearbep20.png"
+  },
+  {
+    "name": "NEBL",
+    "src": "/assets/images/icons/coins-icons/nebl.svg"
+  },
+  {
+    "name": "NEBLIO",
+    "src": "/assets/images/icons/coins-icons/neblio.png"
+  },
+  {
+    "name": "NEM",
+    "src": "/assets/images/icons/coins-icons/nem.png"
+  },
+  {
+    "name": "NEO",
+    "src": "/assets/images/icons/coins-icons/neo.svg"
+  },
+  {
+    "name": "NERIAN",
+    "src": "/assets/images/icons/coins-icons/nerian.png"
+  },
+  {
+    "name": "NEST",
+    "src": "/assets/images/icons/coins-icons/nest.png"
+  },
+  {
+    "name": "NETVR",
+    "src": "/assets/images/icons/coins-icons/netvr.png"
+  },
+  {
+    "name": "NEUROTOKEN",
+    "src": "/assets/images/icons/coins-icons/neurotoken.png"
+  },
+  {
+    "name": "NEW",
+    "src": "/assets/images/icons/coins-icons/new.png"
+  },
+  {
+    "name": "NEXO",
+    "src": "/assets/images/icons/coins-icons/nexo.svg"
+  },
+  {
+    "name": "NEXOMATIC",
+    "src": "/assets/images/icons/coins-icons/nexomatic.svg"
+  },
+  {
+    "name": "NEXUS",
+    "src": "/assets/images/icons/coins-icons/nexus.png"
+  },
+  {
+    "name": "NFAI",
+    "src": "/assets/images/icons/coins-icons/nfai.png"
+  },
+  {
+    "name": "NFP",
+    "src": "/assets/images/icons/coins-icons/nfp.png"
+  },
+  {
+    "name": "NFT",
+    "src": "/assets/images/icons/coins-icons/nft.png"
+  },
+  {
+    "name": "NFTB",
+    "src": "/assets/images/icons/coins-icons/nftb.png"
+  },
+  {
+    "name": "NFTTRC20",
+    "src": "/assets/images/icons/coins-icons/nfttrc20.png"
+  },
+  {
+    "name": "NGM",
+    "src": "/assets/images/icons/coins-icons/ngm.png"
+  },
+  {
+    "name": "NIBI",
+    "src": "/assets/images/icons/coins-icons/nibi.png"
+  },
+  {
+    "name": "NIM",
+    "src": "/assets/images/icons/coins-icons/nim.png"
+  },
+  {
+    "name": "NIX",
+    "src": "/assets/images/icons/coins-icons/nix.png"
+  },
+  {
+    "name": "NKN",
+    "src": "/assets/images/icons/coins-icons/nkn.png"
+  },
+  {
+    "name": "NMR",
+    "src": "/assets/images/icons/coins-icons/nmr.svg"
+  },
+  {
+    "name": "NODE",
+    "src": "/assets/images/icons/coins-icons/node.svg"
+  },
+  {
+    "name": "NOIA",
+    "src": "/assets/images/icons/coins-icons/noia.png"
+  },
+  {
+    "name": "NOK",
+    "src": "/assets/images/icons/coins-icons/nok.svg"
+  },
+  {
+    "name": "NOM",
+    "src": "/assets/images/icons/coins-icons/nom.png"
+  },
+  {
+    "name": "NORD",
+    "src": "/assets/images/icons/coins-icons/nord.png"
+  },
+  {
+    "name": "NOT",
+    "src": "/assets/images/icons/coins-icons/not.png"
+  },
+  {
+    "name": "NOW",
+    "src": "/assets/images/icons/coins-icons/now.svg"
+  },
+  {
+    "name": "NPXS",
+    "src": "/assets/images/icons/coins-icons/npxs.svg"
+  },
+  {
+    "name": "NRCH",
+    "src": "/assets/images/icons/coins-icons/nrch.png"
+  },
+  {
+    "name": "NSH",
+    "src": "/assets/images/icons/coins-icons/nsh.png"
+  },
+  {
+    "name": "NSURE",
+    "src": "/assets/images/icons/coins-icons/nsure.png"
+  },
+  {
+    "name": "NTVRK",
+    "src": "/assets/images/icons/coins-icons/ntvrk.png"
+  },
+  {
+    "name": "NU",
+    "src": "/assets/images/icons/coins-icons/nu.png"
+  },
+  {
+    "name": "NUCLEUS-VISION",
+    "src": "/assets/images/icons/coins-icons/nucleus-vision.png"
+  },
+  {
+    "name": "NULS",
+    "src": "/assets/images/icons/coins-icons/nuls.png"
+  },
+  {
+    "name": "NULSBEP20",
+    "src": "/assets/images/icons/coins-icons/nulsbep20.png"
+  },
+  {
+    "name": "NUM",
+    "src": "/assets/images/icons/coins-icons/num.png"
+  },
+  {
+    "name": "NVL",
+    "src": "/assets/images/icons/coins-icons/nvl.png"
+  },
+  {
+    "name": "NWC",
+    "src": "/assets/images/icons/coins-icons/nwc.png"
+  },
+  {
+    "name": "NWCXLM",
+    "src": "/assets/images/icons/coins-icons/nwcxlm.png"
+  },
+  {
+    "name": "NXT",
+    "src": "/assets/images/icons/coins-icons/nxt.png"
+  },
+  {
+    "name": "NYM",
+    "src": "/assets/images/icons/coins-icons/nym.png"
+  },
+  {
+    "name": "NYXT",
+    "src": "/assets/images/icons/coins-icons/nyxt.png"
+  },
+  {
+    "name": "NZD",
+    "src": "/assets/images/icons/coins-icons/nzd.svg"
+  },
+  {
+    "name": "O3",
+    "src": "/assets/images/icons/coins-icons/o3.png"
+  },
+  {
+    "name": "O3BEP20",
+    "src": "/assets/images/icons/coins-icons/o3bep20.png"
+  },
+  {
+    "name": "OAS",
+    "src": "/assets/images/icons/coins-icons/oas.png"
+  },
+  {
+    "name": "OAX",
+    "src": "/assets/images/icons/coins-icons/oax.png"
+  },
+  {
+    "name": "OBS",
+    "src": "/assets/images/icons/coins-icons/obs.png"
+  },
+  {
+    "name": "OCC",
+    "src": "/assets/images/icons/coins-icons/occ.png"
+  },
+  {
+    "name": "OCEAN",
+    "src": "/assets/images/icons/coins-icons/ocean.svg"
+  },
+  {
+    "name": "ODDZ",
+    "src": "/assets/images/icons/coins-icons/oddz.png"
+  },
+  {
+    "name": "ODDZERC20",
+    "src": "/assets/images/icons/coins-icons/oddzerc20.png"
+  },
+  {
+    "name": "ODYSSEY",
+    "src": "/assets/images/icons/coins-icons/odyssey.png"
+  },
+  {
+    "name": "OG",
+    "src": "/assets/images/icons/coins-icons/og.png"
+  },
+  {
+    "name": "OGBSC",
+    "src": "/assets/images/icons/coins-icons/ogbsc.png"
+  },
+  {
+    "name": "OGN",
+    "src": "/assets/images/icons/coins-icons/ogn.svg"
+  },
+  {
+    "name": "OGO",
+    "src": "/assets/images/icons/coins-icons/ogo.png"
+  },
+  {
+    "name": "OGV",
+    "src": "/assets/images/icons/coins-icons/ogv.png"
+  },
+  {
+    "name": "OHM",
+    "src": "/assets/images/icons/coins-icons/ohm.png"
+  },
+  {
+    "name": "OKB",
+    "src": "/assets/images/icons/coins-icons/okb.svg"
+  },
+  {
+    "name": "OKCASH",
+    "src": "/assets/images/icons/coins-icons/okcash.png"
+  },
+  {
+    "name": "OKT",
+    "src": "/assets/images/icons/coins-icons/okt.png"
+  },
+  {
+    "name": "OLT",
+    "src": "/assets/images/icons/coins-icons/olt.png"
+  },
+  {
+    "name": "OM",
+    "src": "/assets/images/icons/coins-icons/om.svg"
+  },
+  {
+    "name": "OMBSC",
+    "src": "/assets/images/icons/coins-icons/ombsc.png"
+  },
+  {
+    "name": "OMG",
+    "src": "/assets/images/icons/coins-icons/omg.svg"
+  },
+  {
+    "name": "ONDO",
+    "src": "/assets/images/icons/coins-icons/ondo.png"
+  },
+  {
+    "name": "ONE",
+    "src": "/assets/images/icons/coins-icons/one.svg"
+  },
+  {
+    "name": "ONG",
+    "src": "/assets/images/icons/coins-icons/ong.svg"
+  },
+  {
+    "name": "ONIGI",
+    "src": "/assets/images/icons/coins-icons/onigi.png"
+  },
+  {
+    "name": "ONIT",
+    "src": "/assets/images/icons/coins-icons/onit.png"
+  },
+  {
+    "name": "ONSTON",
+    "src": "/assets/images/icons/coins-icons/onston.png"
+  },
+  {
+    "name": "ONT",
+    "src": "/assets/images/icons/coins-icons/ont.svg"
+  },
+  {
+    "name": "ONTBEP20",
+    "src": "/assets/images/icons/coins-icons/ontbep20.png"
+  },
+  {
+    "name": "OOE",
+    "src": "/assets/images/icons/coins-icons/ooe.png"
+  },
+  {
+    "name": "OOEBEP20",
+    "src": "/assets/images/icons/coins-icons/ooebep20.png"
+  },
+  {
+    "name": "OOKI",
+    "src": "/assets/images/icons/coins-icons/ooki.png"
+  },
+  {
+    "name": "OP",
+    "src": "/assets/images/icons/coins-icons/op.png"
+  },
+  {
+    "name": "OP",
+    "src": "/assets/images/icons/coins-icons/op.svg"
+  },
+  {
+    "name": "OPCAT",
+    "src": "/assets/images/icons/coins-icons/opcat.png"
+  },
+  {
+    "name": "OPCT",
+    "src": "/assets/images/icons/coins-icons/opct.png"
+  },
+  {
+    "name": "OPEN",
+    "src": "/assets/images/icons/coins-icons/open.png"
+  },
+  {
+    "name": "OPTI",
+    "src": "/assets/images/icons/coins-icons/opti.png"
+  },
+  {
+    "name": "OPUL",
+    "src": "/assets/images/icons/coins-icons/opul.png"
+  },
+  {
+    "name": "OPULALGO",
+    "src": "/assets/images/icons/coins-icons/opulalgo.png"
+  },
+  {
+    "name": "OPULERC20",
+    "src": "/assets/images/icons/coins-icons/opulerc20.png"
+  },
+  {
+    "name": "OPUS",
+    "src": "/assets/images/icons/coins-icons/opus.png"
+  },
+  {
+    "name": "ORAI",
+    "src": "/assets/images/icons/coins-icons/orai.png"
+  },
+  {
+    "name": "ORBS",
+    "src": "/assets/images/icons/coins-icons/orbs.png"
+  },
+  {
+    "name": "ORBSERC20",
+    "src": "/assets/images/icons/coins-icons/orbserc20.png"
+  },
+  {
+    "name": "ORC",
+    "src": "/assets/images/icons/coins-icons/orc.png"
+  },
+  {
+    "name": "ORCA",
+    "src": "/assets/images/icons/coins-icons/orca.png"
+  },
+  {
+    "name": "ORDER",
+    "src": "/assets/images/icons/coins-icons/order.png"
+  },
+  {
+    "name": "ORDI",
+    "src": "/assets/images/icons/coins-icons/ordi.png"
+  },
+  {
+    "name": "ORMEUS-COIN",
+    "src": "/assets/images/icons/coins-icons/ormeus-coin.png"
+  },
+  {
+    "name": "ORN",
+    "src": "/assets/images/icons/coins-icons/orn.png"
+  },
+  {
+    "name": "ORO",
+    "src": "/assets/images/icons/coins-icons/oro.svg"
+  },
+  {
+    "name": "OSMO",
+    "src": "/assets/images/icons/coins-icons/osmo.png"
+  },
+  {
+    "name": "OST",
+    "src": "/assets/images/icons/coins-icons/ost.png"
+  },
+  {
+    "name": "OUSD",
+    "src": "/assets/images/icons/coins-icons/ousd.png"
+  },
+  {
+    "name": "OVR",
+    "src": "/assets/images/icons/coins-icons/ovr.png"
+  },
+  {
+    "name": "OXT",
+    "src": "/assets/images/icons/coins-icons/oxt.svg"
+  },
+  {
+    "name": "OXTERC20",
+    "src": "/assets/images/icons/coins-icons/oxterc20.png"
+  },
+  {
+    "name": "PACK",
+    "src": "/assets/images/icons/coins-icons/pack.png"
+  },
+  {
+    "name": "PAI",
+    "src": "/assets/images/icons/coins-icons/pai.png"
+  },
+  {
+    "name": "PANDORA",
+    "src": "/assets/images/icons/coins-icons/pandora.png"
+  },
+  {
+    "name": "PAPEL",
+    "src": "/assets/images/icons/coins-icons/papel.png"
+  },
+  {
+    "name": "PAPER",
+    "src": "/assets/images/icons/coins-icons/paper.png"
+  },
+  {
+    "name": "PARTI",
+    "src": "/assets/images/icons/coins-icons/parti.png"
+  },
+  {
+    "name": "PARTIBASE",
+    "src": "/assets/images/icons/coins-icons/partibase.png"
+  },
+  {
+    "name": "PATIENTORY",
+    "src": "/assets/images/icons/coins-icons/patientory.png"
+  },
+  {
+    "name": "PATRON",
+    "src": "/assets/images/icons/coins-icons/patron.png"
+  },
+  {
+    "name": "PAW",
+    "src": "/assets/images/icons/coins-icons/paw.png"
+  },
+  {
+    "name": "PAX",
+    "src": "/assets/images/icons/coins-icons/pax.svg"
+  },
+  {
+    "name": "PAXG",
+    "src": "/assets/images/icons/coins-icons/paxg.svg"
+  },
+  {
+    "name": "PAY",
+    "src": "/assets/images/icons/coins-icons/pay.svg"
+  },
+  {
+    "name": "PAYPIE",
+    "src": "/assets/images/icons/coins-icons/paypie.png"
+  },
+  {
+    "name": "PBR",
+    "src": "/assets/images/icons/coins-icons/pbr.png"
+  },
+  {
+    "name": "PBX",
+    "src": "/assets/images/icons/coins-icons/pbx.png"
+  },
+  {
+    "name": "PCX",
+    "src": "/assets/images/icons/coins-icons/pcx.png"
+  },
+  {
+    "name": "PDEX",
+    "src": "/assets/images/icons/coins-icons/pdex.png"
+  },
+  {
+    "name": "PEAK",
+    "src": "/assets/images/icons/coins-icons/peak.png"
+  },
+  {
+    "name": "PEARL",
+    "src": "/assets/images/icons/coins-icons/pearl.png"
+  },
+  {
+    "name": "PECULIUM",
+    "src": "/assets/images/icons/coins-icons/peculium.png"
+  },
+  {
+    "name": "PEERCOIN",
+    "src": "/assets/images/icons/coins-icons/peercoin.png"
+  },
+  {
+    "name": "PEIPEI",
+    "src": "/assets/images/icons/coins-icons/peipei.png"
+  },
+  {
+    "name": "PENDLE",
+    "src": "/assets/images/icons/coins-icons/pendle.png"
+  },
+  {
+    "name": "PENGU",
+    "src": "/assets/images/icons/coins-icons/pengu.png"
+  },
+  {
+    "name": "PEOPLE",
+    "src": "/assets/images/icons/coins-icons/people.png"
+  },
+  {
+    "name": "PEOPLEBEP20",
+    "src": "/assets/images/icons/coins-icons/peoplebep20.png"
+  },
+  {
+    "name": "PEPE",
+    "src": "/assets/images/icons/coins-icons/pepe.png"
+  },
+  {
+    "name": "PERL",
+    "src": "/assets/images/icons/coins-icons/perl.svg"
+  },
+  {
+    "name": "PERP",
+    "src": "/assets/images/icons/coins-icons/perp.png"
+  },
+  {
+    "name": "PERPBEP20",
+    "src": "/assets/images/icons/coins-icons/perpbep20.png"
+  },
+  {
+    "name": "PET",
+    "src": "/assets/images/icons/coins-icons/pet.png"
+  },
+  {
+    "name": "PETG",
+    "src": "/assets/images/icons/coins-icons/petg.png"
+  },
+  {
+    "name": "PHA",
+    "src": "/assets/images/icons/coins-icons/pha.png"
+  },
+  {
+    "name": "PHABEP20",
+    "src": "/assets/images/icons/coins-icons/phabep20.png"
+  },
+  {
+    "name": "PHB",
+    "src": "/assets/images/icons/coins-icons/phb.png"
+  },
+  {
+    "name": "PHNX",
+    "src": "/assets/images/icons/coins-icons/phnx.png"
+  },
+  {
+    "name": "PI",
+    "src": "/assets/images/icons/coins-icons/pi.png"
+  },
+  {
+    "name": "PIG",
+    "src": "/assets/images/icons/coins-icons/pig.png"
+  },
+  {
+    "name": "PIKA",
+    "src": "/assets/images/icons/coins-icons/pika.png"
+  },
+  {
+    "name": "PILLAR",
+    "src": "/assets/images/icons/coins-icons/pillar.png"
+  },
+  {
+    "name": "PIPLCOIN",
+    "src": "/assets/images/icons/coins-icons/piplcoin.png"
+  },
+  {
+    "name": "PIPPIN",
+    "src": "/assets/images/icons/coins-icons/pippin.png"
+  },
+  {
+    "name": "PIT",
+    "src": "/assets/images/icons/coins-icons/pit.png"
+  },
+  {
+    "name": "PIVX",
+    "src": "/assets/images/icons/coins-icons/pivx.png"
+  },
+  {
+    "name": "PIX",
+    "src": "/assets/images/icons/coins-icons/pix.png"
+  },
+  {
+    "name": "PIXEL",
+    "src": "/assets/images/icons/coins-icons/pixel.png"
+  },
+  {
+    "name": "PIXELRON",
+    "src": "/assets/images/icons/coins-icons/pixelron.png"
+  },
+  {
+    "name": "PKF",
+    "src": "/assets/images/icons/coins-icons/pkf.png"
+  },
+  {
+    "name": "PLA",
+    "src": "/assets/images/icons/coins-icons/pla.png"
+  },
+  {
+    "name": "PLATO",
+    "src": "/assets/images/icons/coins-icons/plato.png"
+  },
+  {
+    "name": "PLAY",
+    "src": "/assets/images/icons/coins-icons/play.png"
+  },
+  {
+    "name": "PLAYKEY",
+    "src": "/assets/images/icons/coins-icons/playkey.png"
+  },
+  {
+    "name": "PLN",
+    "src": "/assets/images/icons/coins-icons/pln.svg"
+  },
+  {
+    "name": "PLS",
+    "src": "/assets/images/icons/coins-icons/pls.png"
+  },
+  {
+    "name": "PLU",
+    "src": "/assets/images/icons/coins-icons/plu.png"
+  },
+  {
+    "name": "PMON",
+    "src": "/assets/images/icons/coins-icons/pmon.png"
+  },
+  {
+    "name": "PNG",
+    "src": "/assets/images/icons/coins-icons/png.png"
+  },
+  {
+    "name": "PNK",
+    "src": "/assets/images/icons/coins-icons/pnk.svg"
+  },
+  {
+    "name": "PNT",
+    "src": "/assets/images/icons/coins-icons/pnt.png"
+  },
+  {
+    "name": "PNUT",
+    "src": "/assets/images/icons/coins-icons/pnut.svg"
+  },
+  {
+    "name": "POA-NETWORK",
+    "src": "/assets/images/icons/coins-icons/poa-network.png"
+  },
+  {
+    "name": "POET",
+    "src": "/assets/images/icons/coins-icons/poet.png"
+  },
+  {
+    "name": "POL",
+    "src": "/assets/images/icons/coins-icons/pol.png"
+  },
+  {
+    "name": "POLC",
+    "src": "/assets/images/icons/coins-icons/polc.png"
+  },
+  {
+    "name": "POLCBEP20",
+    "src": "/assets/images/icons/coins-icons/polcbep20.png"
+  },
+  {
+    "name": "POLCERC20",
+    "src": "/assets/images/icons/coins-icons/polcerc20.png"
+  },
+  {
+    "name": "POLERC20",
+    "src": "/assets/images/icons/coins-icons/polerc20.png"
+  },
+  {
+    "name": "POLK",
+    "src": "/assets/images/icons/coins-icons/polk.png"
+  },
+  {
+    "name": "POLKERC20",
+    "src": "/assets/images/icons/coins-icons/polkerc20.png"
+  },
+  {
+    "name": "POLS",
+    "src": "/assets/images/icons/coins-icons/pols.svg"
+  },
+  {
+    "name": "POLSBEP20",
+    "src": "/assets/images/icons/coins-icons/polsbep20.png"
+  },
+  {
+    "name": "POLX",
+    "src": "/assets/images/icons/coins-icons/polx.png"
+  },
+  {
+    "name": "POLY",
+    "src": "/assets/images/icons/coins-icons/poly.svg"
+  },
+  {
+    "name": "POLYBIUS",
+    "src": "/assets/images/icons/coins-icons/polybius.png"
+  },
+  {
+    "name": "POLYX",
+    "src": "/assets/images/icons/coins-icons/polyx.png"
+  },
+  {
+    "name": "POND",
+    "src": "/assets/images/icons/coins-icons/pond.png"
+  },
+  {
+    "name": "PONDBEP20",
+    "src": "/assets/images/icons/coins-icons/pondbep20.png"
+  },
+  {
+    "name": "PONKE",
+    "src": "/assets/images/icons/coins-icons/ponke.png"
+  },
+  {
+    "name": "POODL",
+    "src": "/assets/images/icons/coins-icons/poodl.png"
+  },
+  {
+    "name": "POOF",
+    "src": "/assets/images/icons/coins-icons/poof.png"
+  },
+  {
+    "name": "POOLX",
+    "src": "/assets/images/icons/coins-icons/poolx.png"
+  },
+  {
+    "name": "POPCAT",
+    "src": "/assets/images/icons/coins-icons/popcat.png"
+  },
+  {
+    "name": "PORTAL",
+    "src": "/assets/images/icons/coins-icons/portal.png"
+  },
+  {
+    "name": "PORTO",
+    "src": "/assets/images/icons/coins-icons/porto.png"
+  },
+  {
+    "name": "POSI",
+    "src": "/assets/images/icons/coins-icons/posi.png"
+  },
+  {
+    "name": "POTS",
+    "src": "/assets/images/icons/coins-icons/pots.png"
+  },
+  {
+    "name": "POWR",
+    "src": "/assets/images/icons/coins-icons/powr.svg"
+  },
+  {
+    "name": "PPM",
+    "src": "/assets/images/icons/coins-icons/ppm.png"
+  },
+  {
+    "name": "PPT",
+    "src": "/assets/images/icons/coins-icons/ppt.svg"
+  },
+  {
+    "name": "PRCY",
+    "src": "/assets/images/icons/coins-icons/prcy.png"
+  },
+  {
+    "name": "PRE",
+    "src": "/assets/images/icons/coins-icons/pre.png"
+  },
+  {
+    "name": "PRIMAS",
+    "src": "/assets/images/icons/coins-icons/primas.png"
+  },
+  {
+    "name": "PRIME",
+    "src": "/assets/images/icons/coins-icons/prime.png"
+  },
+  {
+    "name": "PRIMO",
+    "src": "/assets/images/icons/coins-icons/primo.png"
+  },
+  {
+    "name": "PRIVATIX",
+    "src": "/assets/images/icons/coins-icons/privatix.png"
+  },
+  {
+    "name": "PRO",
+    "src": "/assets/images/icons/coins-icons/pro.png"
+  },
+  {
+    "name": "PROM",
+    "src": "/assets/images/icons/coins-icons/prom.png"
+  },
+  {
+    "name": "PROMBEP20",
+    "src": "/assets/images/icons/coins-icons/prombep20.png"
+  },
+  {
+    "name": "PROS",
+    "src": "/assets/images/icons/coins-icons/pros.png"
+  },
+  {
+    "name": "PROSBEP20",
+    "src": "/assets/images/icons/coins-icons/prosbep20.png"
+  },
+  {
+    "name": "PRQ",
+    "src": "/assets/images/icons/coins-icons/prq.png"
+  },
+  {
+    "name": "PSG",
+    "src": "/assets/images/icons/coins-icons/psg.png"
+  },
+  {
+    "name": "PSL",
+    "src": "/assets/images/icons/coins-icons/psl.png"
+  },
+  {
+    "name": "PSTAKEERC20",
+    "src": "/assets/images/icons/coins-icons/pstakeerc20.png"
+  },
+  {
+    "name": "PSYOP",
+    "src": "/assets/images/icons/coins-icons/psyop.png"
+  },
+  {
+    "name": "PSYOPERC20",
+    "src": "/assets/images/icons/coins-icons/psyoperc20.png"
+  },
+  {
+    "name": "PULI",
+    "src": "/assets/images/icons/coins-icons/puli.png"
+  },
+  {
+    "name": "PUMAPAY",
+    "src": "/assets/images/icons/coins-icons/pumapay.png"
+  },
+  {
+    "name": "PUMP",
+    "src": "/assets/images/icons/coins-icons/pump.png"
+  },
+  {
+    "name": "PUNDIX",
+    "src": "/assets/images/icons/coins-icons/pundix.png"
+  },
+  {
+    "name": "PUSH",
+    "src": "/assets/images/icons/coins-icons/push.png"
+  },
+  {
+    "name": "PVU",
+    "src": "/assets/images/icons/coins-icons/pvu.png"
+  },
+  {
+    "name": "PYR",
+    "src": "/assets/images/icons/coins-icons/pyr.png"
+  },
+  {
+    "name": "PYRERC20",
+    "src": "/assets/images/icons/coins-icons/pyrerc20.svg"
+  },
+  {
+    "name": "PYRMATIC",
+    "src": "/assets/images/icons/coins-icons/pyrmatic.png"
+  },
+  {
+    "name": "PYTH",
+    "src": "/assets/images/icons/coins-icons/pyth.png"
+  },
+  {
+    "name": "PYUSD",
+    "src": "/assets/images/icons/coins-icons/pyusd.png"
+  },
+  {
+    "name": "QASH",
+    "src": "/assets/images/icons/coins-icons/qash.png"
+  },
+  {
+    "name": "QI",
+    "src": "/assets/images/icons/coins-icons/qi.png"
+  },
+  {
+    "name": "QIBSC",
+    "src": "/assets/images/icons/coins-icons/qibsc.png"
+  },
+  {
+    "name": "QKC",
+    "src": "/assets/images/icons/coins-icons/qkc.png"
+  },
+  {
+    "name": "QKCBEP20",
+    "src": "/assets/images/icons/coins-icons/qkcbep20.png"
+  },
+  {
+    "name": "QLC",
+    "src": "/assets/images/icons/coins-icons/qlc.png"
+  },
+  {
+    "name": "QNT",
+    "src": "/assets/images/icons/coins-icons/qnt.svg"
+  },
+  {
+    "name": "QOM",
+    "src": "/assets/images/icons/coins-icons/qom.png"
+  },
+  {
+    "name": "QRDO",
+    "src": "/assets/images/icons/coins-icons/qrdo.png"
+  },
+  {
+    "name": "QSP",
+    "src": "/assets/images/icons/coins-icons/qsp.svg"
+  },
+  {
+    "name": "QTUM",
+    "src": "/assets/images/icons/coins-icons/qtum.svg"
+  },
+  {
+    "name": "QUACK",
+    "src": "/assets/images/icons/coins-icons/quack.png"
+  },
+  {
+    "name": "QUANTUM-RESISTANT-LEDGER",
+    "src": "/assets/images/icons/coins-icons/quantum-resistant-ledger.png"
+  },
+  {
+    "name": "QUICK",
+    "src": "/assets/images/icons/coins-icons/quick.png"
+  },
+  {
+    "name": "QUICKERC20",
+    "src": "/assets/images/icons/coins-icons/quickerc20.png"
+  },
+  {
+    "name": "RACA",
+    "src": "/assets/images/icons/coins-icons/raca.png"
+  },
+  {
+    "name": "RACAERC20",
+    "src": "/assets/images/icons/coins-icons/racaerc20.png"
+  },
+  {
+    "name": "RAD",
+    "src": "/assets/images/icons/coins-icons/rad.png"
+  },
+  {
+    "name": "RADAR",
+    "src": "/assets/images/icons/coins-icons/radar.png"
+  },
+  {
+    "name": "RADIUM",
+    "src": "/assets/images/icons/coins-icons/radium.png"
+  },
+  {
+    "name": "RAINBOW",
+    "src": "/assets/images/icons/coins-icons/rainbow.png"
+  },
+  {
+    "name": "RAMP",
+    "src": "/assets/images/icons/coins-icons/ramp.png"
+  },
+  {
+    "name": "RANKER",
+    "src": "/assets/images/icons/coins-icons/ranker.png"
+  },
+  {
+    "name": "RARE",
+    "src": "/assets/images/icons/coins-icons/rare.png"
+  },
+  {
+    "name": "RARI",
+    "src": "/assets/images/icons/coins-icons/rari.png"
+  },
+  {
+    "name": "RAY",
+    "src": "/assets/images/icons/coins-icons/ray.png"
+  },
+  {
+    "name": "RBIF",
+    "src": "/assets/images/icons/coins-icons/rbif.png"
+  },
+  {
+    "name": "RBN",
+    "src": "/assets/images/icons/coins-icons/rbn.png"
+  },
+  {
+    "name": "RBTC",
+    "src": "/assets/images/icons/coins-icons/rbtc.png"
+  },
+  {
+    "name": "RBTC1",
+    "src": "/assets/images/icons/coins-icons/rbtc1.png"
+  },
+  {
+    "name": "RCN",
+    "src": "/assets/images/icons/coins-icons/rcn.svg"
+  },
+  {
+    "name": "RDN",
+    "src": "/assets/images/icons/coins-icons/rdn.svg"
+  },
+  {
+    "name": "RDNT",
+    "src": "/assets/images/icons/coins-icons/rdnt.svg"
+  },
+  {
+    "name": "RDNTBEP20",
+    "src": "/assets/images/icons/coins-icons/rdntbep20.png"
+  },
+  {
+    "name": "REACT",
+    "src": "/assets/images/icons/coins-icons/react.png"
+  },
+  {
+    "name": "RED",
+    "src": "/assets/images/icons/coins-icons/red.png"
+  },
+  {
+    "name": "REDDCOIN",
+    "src": "/assets/images/icons/coins-icons/reddcoin.png"
+  },
+  {
+    "name": "REEF",
+    "src": "/assets/images/icons/coins-icons/reef.png"
+  },
+  {
+    "name": "REEFERC20",
+    "src": "/assets/images/icons/coins-icons/reeferc20.png"
+  },
+  {
+    "name": "REFEREUM",
+    "src": "/assets/images/icons/coins-icons/refereum.png"
+  },
+  {
+    "name": "REI",
+    "src": "/assets/images/icons/coins-icons/rei.png"
+  },
+  {
+    "name": "REN",
+    "src": "/assets/images/icons/coins-icons/ren.svg"
+  },
+  {
+    "name": "RENDER",
+    "src": "/assets/images/icons/coins-icons/render.png"
+  },
+  {
+    "name": "REP",
+    "src": "/assets/images/icons/coins-icons/rep.svg"
+  },
+  {
+    "name": "REQ",
+    "src": "/assets/images/icons/coins-icons/req.png"
+  },
+  {
+    "name": "RESET",
+    "src": "/assets/images/icons/coins-icons/reset.png"
+  },
+  {
+    "name": "REV",
+    "src": "/assets/images/icons/coins-icons/rev.png"
+  },
+  {
+    "name": "REV3L",
+    "src": "/assets/images/icons/coins-icons/rev3l.png"
+  },
+  {
+    "name": "REVV",
+    "src": "/assets/images/icons/coins-icons/revv.png"
+  },
+  {
+    "name": "REVVERC20",
+    "src": "/assets/images/icons/coins-icons/revverc20.png"
+  },
+  {
+    "name": "REZ",
+    "src": "/assets/images/icons/coins-icons/rez.png"
+  },
+  {
+    "name": "RFOX",
+    "src": "/assets/images/icons/coins-icons/rfox.png"
+  },
+  {
+    "name": "RFUEL",
+    "src": "/assets/images/icons/coins-icons/rfuel.png"
+  },
+  {
+    "name": "RGT",
+    "src": "/assets/images/icons/coins-icons/rgt.png"
+  },
+  {
+    "name": "RIF",
+    "src": "/assets/images/icons/coins-icons/rif.png"
+  },
+  {
+    "name": "RISE",
+    "src": "/assets/images/icons/coins-icons/rise.png"
+  },
+  {
+    "name": "RJV",
+    "src": "/assets/images/icons/coins-icons/rjv.png"
+  },
+  {
+    "name": "RJVBEP20",
+    "src": "/assets/images/icons/coins-icons/rjvbep20.png"
+  },
+  {
+    "name": "RLC",
+    "src": "/assets/images/icons/coins-icons/rlc.svg"
+  },
+  {
+    "name": "RLY",
+    "src": "/assets/images/icons/coins-icons/rly.png"
+  },
+  {
+    "name": "RMRK",
+    "src": "/assets/images/icons/coins-icons/rmrk.png"
+  },
+  {
+    "name": "RNDR",
+    "src": "/assets/images/icons/coins-icons/rndr.png"
+  },
+  {
+    "name": "ROAM",
+    "src": "/assets/images/icons/coins-icons/roam.png"
+  },
+  {
+    "name": "ROAR",
+    "src": "/assets/images/icons/coins-icons/roar.png"
+  },
+  {
+    "name": "ROCK",
+    "src": "/assets/images/icons/coins-icons/rock.png"
+  },
+  {
+    "name": "ROOBEE",
+    "src": "/assets/images/icons/coins-icons/roobee.png"
+  },
+  {
+    "name": "ROOK",
+    "src": "/assets/images/icons/coins-icons/rook.svg"
+  },
+  {
+    "name": "ROSE",
+    "src": "/assets/images/icons/coins-icons/rose.png"
+  },
+  {
+    "name": "ROUTE",
+    "src": "/assets/images/icons/coins-icons/route.png"
+  },
+  {
+    "name": "RPL",
+    "src": "/assets/images/icons/coins-icons/rpl.svg"
+  },
+  {
+    "name": "RSR",
+    "src": "/assets/images/icons/coins-icons/rsr.png"
+  },
+  {
+    "name": "RSS3",
+    "src": "/assets/images/icons/coins-icons/rss3.png"
+  },
+  {
+    "name": "RTE",
+    "src": "/assets/images/icons/coins-icons/rte.png"
+  },
+  {
+    "name": "RUB",
+    "src": "/assets/images/icons/coins-icons/rub.svg"
+  },
+  {
+    "name": "RUBLIX",
+    "src": "/assets/images/icons/coins-icons/rublix.png"
+  },
+  {
+    "name": "RUNE",
+    "src": "/assets/images/icons/coins-icons/rune.png"
+  },
+  {
+    "name": "RVN",
+    "src": "/assets/images/icons/coins-icons/rvn.svg"
+  },
+  {
+    "name": "RXCG",
+    "src": "/assets/images/icons/coins-icons/rxcg.png"
+  },
+  {
+    "name": "S",
+    "src": "/assets/images/icons/coins-icons/s.png"
+  },
+  {
+    "name": "SAFE",
+    "src": "/assets/images/icons/coins-icons/safe.png"
+  },
+  {
+    "name": "SAFEMARS",
+    "src": "/assets/images/icons/coins-icons/safemars.png"
+  },
+  {
+    "name": "SAI",
+    "src": "/assets/images/icons/coins-icons/sai.png"
+  },
+  {
+    "name": "SAITAMA",
+    "src": "/assets/images/icons/coins-icons/saitama.png"
+  },
+  {
+    "name": "SALE",
+    "src": "/assets/images/icons/coins-icons/sale.png"
+  },
+  {
+    "name": "SALT",
+    "src": "/assets/images/icons/coins-icons/salt.png"
+  },
+  {
+    "name": "SALUS",
+    "src": "/assets/images/icons/coins-icons/salus.png"
+  },
+  {
+    "name": "SAN",
+    "src": "/assets/images/icons/coins-icons/san.png"
+  },
+  {
+    "name": "SAND",
+    "src": "/assets/images/icons/coins-icons/sand.svg"
+  },
+  {
+    "name": "SANDBEP20",
+    "src": "/assets/images/icons/coins-icons/sandbep20.png"
+  },
+  {
+    "name": "SANDMATIC",
+    "src": "/assets/images/icons/coins-icons/sandmatic.png"
+  },
+  {
+    "name": "SANSHU",
+    "src": "/assets/images/icons/coins-icons/sanshu.png"
+  },
+  {
+    "name": "SANTOS",
+    "src": "/assets/images/icons/coins-icons/santos.png"
+  },
+  {
+    "name": "SBANK",
+    "src": "/assets/images/icons/coins-icons/sbank.png"
+  },
+  {
+    "name": "SC",
+    "src": "/assets/images/icons/coins-icons/sc.svg"
+  },
+  {
+    "name": "SCRT",
+    "src": "/assets/images/icons/coins-icons/scrt.svg"
+  },
+  {
+    "name": "SCRTBEP20",
+    "src": "/assets/images/icons/coins-icons/scrtbep20.png"
+  },
+  {
+    "name": "SDAO",
+    "src": "/assets/images/icons/coins-icons/sdao.png"
+  },
+  {
+    "name": "SDL",
+    "src": "/assets/images/icons/coins-icons/sdl.png"
+  },
+  {
+    "name": "SDN",
+    "src": "/assets/images/icons/coins-icons/sdn.png"
+  },
+  {
+    "name": "SEELE",
+    "src": "/assets/images/icons/coins-icons/seele.png"
+  },
+  {
+    "name": "SEI",
+    "src": "/assets/images/icons/coins-icons/sei.png"
+  },
+  {
+    "name": "SEK",
+    "src": "/assets/images/icons/coins-icons/sek.svg"
+  },
+  {
+    "name": "SENTINEL",
+    "src": "/assets/images/icons/coins-icons/sentinel.png"
+  },
+  {
+    "name": "SFI",
+    "src": "/assets/images/icons/coins-icons/sfi.png"
+  },
+  {
+    "name": "SFM",
+    "src": "/assets/images/icons/coins-icons/sfm.png"
+  },
+  {
+    "name": "SFMBEP20",
+    "src": "/assets/images/icons/coins-icons/sfmbep20.png"
+  },
+  {
+    "name": "SFP",
+    "src": "/assets/images/icons/coins-icons/sfp.png"
+  },
+  {
+    "name": "SFUEL",
+    "src": "/assets/images/icons/coins-icons/sfuel.png"
+  },
+  {
+    "name": "SFUND",
+    "src": "/assets/images/icons/coins-icons/sfund.png"
+  },
+  {
+    "name": "SHARD",
+    "src": "/assets/images/icons/coins-icons/shard.png"
+  },
+  {
+    "name": "SHARPEI",
+    "src": "/assets/images/icons/coins-icons/sharpei.png"
+  },
+  {
+    "name": "SHE",
+    "src": "/assets/images/icons/coins-icons/she.png"
+  },
+  {
+    "name": "SHELLERC20",
+    "src": "/assets/images/icons/coins-icons/shellerc20.png"
+  },
+  {
+    "name": "SHFT",
+    "src": "/assets/images/icons/coins-icons/shft.png"
+  },
+  {
+    "name": "SHIB",
+    "src": "/assets/images/icons/coins-icons/shib.svg"
+  },
+  {
+    "name": "SHIBBEP20",
+    "src": "/assets/images/icons/coins-icons/shibbep20.png"
+  },
+  {
+    "name": "SHIDO",
+    "src": "/assets/images/icons/coins-icons/shido.png"
+  },
+  {
+    "name": "SHILL",
+    "src": "/assets/images/icons/coins-icons/shill.png"
+  },
+  {
+    "name": "SHINJA",
+    "src": "/assets/images/icons/coins-icons/shinja.png"
+  },
+  {
+    "name": "SHIPCHAIN",
+    "src": "/assets/images/icons/coins-icons/shipchain.png"
+  },
+  {
+    "name": "SHIRO",
+    "src": "/assets/images/icons/coins-icons/shiro.png"
+  },
+  {
+    "name": "SHR",
+    "src": "/assets/images/icons/coins-icons/shr.svg"
+  },
+  {
+    "name": "SHRAP",
+    "src": "/assets/images/icons/coins-icons/shrap.png"
+  },
+  {
+    "name": "SIN",
+    "src": "/assets/images/icons/coins-icons/sin.png"
+  },
+  {
+    "name": "SIREN",
+    "src": "/assets/images/icons/coins-icons/siren.png"
+  },
+  {
+    "name": "SIS",
+    "src": "/assets/images/icons/coins-icons/sis.png"
+  },
+  {
+    "name": "SKEY",
+    "src": "/assets/images/icons/coins-icons/skey.png"
+  },
+  {
+    "name": "SKEYERC20",
+    "src": "/assets/images/icons/coins-icons/skeyerc20.png"
+  },
+  {
+    "name": "SKI",
+    "src": "/assets/images/icons/coins-icons/ski.png"
+  },
+  {
+    "name": "SKILL",
+    "src": "/assets/images/icons/coins-icons/skill.png"
+  },
+  {
+    "name": "SKINCOIN",
+    "src": "/assets/images/icons/coins-icons/skincoin.png"
+  },
+  {
+    "name": "SKL",
+    "src": "/assets/images/icons/coins-icons/skl.png"
+  },
+  {
+    "name": "SKM",
+    "src": "/assets/images/icons/coins-icons/skm.png"
+  },
+  {
+    "name": "SKYCOIN",
+    "src": "/assets/images/icons/coins-icons/skycoin.png"
+  },
+  {
+    "name": "SLIM",
+    "src": "/assets/images/icons/coins-icons/slim.png"
+  },
+  {
+    "name": "SLIMSOL",
+    "src": "/assets/images/icons/coins-icons/slimsol.png"
+  },
+  {
+    "name": "SLP",
+    "src": "/assets/images/icons/coins-icons/slp.png"
+  },
+  {
+    "name": "SLPBEP20",
+    "src": "/assets/images/icons/coins-icons/slpbep20.png"
+  },
+  {
+    "name": "SMART",
+    "src": "/assets/images/icons/coins-icons/smart.png"
+  },
+  {
+    "name": "SMT",
+    "src": "/assets/images/icons/coins-icons/smt.png"
+  },
+  {
+    "name": "SNC",
+    "src": "/assets/images/icons/coins-icons/snc.png"
+  },
+  {
+    "name": "SNEK",
+    "src": "/assets/images/icons/coins-icons/snek.png"
+  },
+  {
+    "name": "SNGLS",
+    "src": "/assets/images/icons/coins-icons/sngls.svg"
+  },
+  {
+    "name": "SNM",
+    "src": "/assets/images/icons/coins-icons/snm.svg"
+  },
+  {
+    "name": "SNMBEP20",
+    "src": "/assets/images/icons/coins-icons/snmbep20.png"
+  },
+  {
+    "name": "SNT",
+    "src": "/assets/images/icons/coins-icons/snt.svg"
+  },
+  {
+    "name": "SNX",
+    "src": "/assets/images/icons/coins-icons/snx.svg"
+  },
+  {
+    "name": "SNXBEP20",
+    "src": "/assets/images/icons/coins-icons/snxbep20.png"
+  },
+  {
+    "name": "SNXOP",
+    "src": "/assets/images/icons/coins-icons/snxop.png"
+  },
+  {
+    "name": "SOC",
+    "src": "/assets/images/icons/coins-icons/soc.svg"
+  },
+  {
+    "name": "SOL",
+    "src": "/assets/images/icons/coins-icons/sol.svg"
+  },
+  {
+    "name": "SOLBEP20",
+    "src": "/assets/images/icons/coins-icons/solbep20.png"
+  },
+  {
+    "name": "SOLR",
+    "src": "/assets/images/icons/coins-icons/solr.png"
+  },
+  {
+    "name": "SOLVE",
+    "src": "/assets/images/icons/coins-icons/solve.svg"
+  },
+  {
+    "name": "SON",
+    "src": "/assets/images/icons/coins-icons/son.png"
+  },
+  {
+    "name": "SOS",
+    "src": "/assets/images/icons/coins-icons/sos.png"
+  },
+  {
+    "name": "SOUL",
+    "src": "/assets/images/icons/coins-icons/soul.png"
+  },
+  {
+    "name": "SPA",
+    "src": "/assets/images/icons/coins-icons/spa.png"
+  },
+  {
+    "name": "SPAARBITRUM",
+    "src": "/assets/images/icons/coins-icons/spaarbitrum.png"
+  },
+  {
+    "name": "SPACEPI",
+    "src": "/assets/images/icons/coins-icons/spacepi.png"
+  },
+  {
+    "name": "SPANK",
+    "src": "/assets/images/icons/coins-icons/spank.png"
+  },
+  {
+    "name": "SPARTA",
+    "src": "/assets/images/icons/coins-icons/sparta.png"
+  },
+  {
+    "name": "SPELL",
+    "src": "/assets/images/icons/coins-icons/spell.png"
+  },
+  {
+    "name": "SPELLAVAXC",
+    "src": "/assets/images/icons/coins-icons/spellavaxc.png"
+  },
+  {
+    "name": "SPI",
+    "src": "/assets/images/icons/coins-icons/spi.png"
+  },
+  {
+    "name": "SPICE",
+    "src": "/assets/images/icons/coins-icons/spice.png"
+  },
+  {
+    "name": "SPO",
+    "src": "/assets/images/icons/coins-icons/spo.png"
+  },
+  {
+    "name": "SPOBEP20",
+    "src": "/assets/images/icons/coins-icons/spobep20.png"
+  },
+  {
+    "name": "SPS",
+    "src": "/assets/images/icons/coins-icons/sps.png"
+  },
+  {
+    "name": "SPSERC20",
+    "src": "/assets/images/icons/coins-icons/spserc20.png"
+  },
+  {
+    "name": "SPX",
+    "src": "/assets/images/icons/coins-icons/spx.png"
+  },
+  {
+    "name": "SRBS",
+    "src": "/assets/images/icons/coins-icons/srbs.png"
+  },
+  {
+    "name": "SRK",
+    "src": "/assets/images/icons/coins-icons/srk.svg"
+  },
+  {
+    "name": "SRM",
+    "src": "/assets/images/icons/coins-icons/srm.svg"
+  },
+  {
+    "name": "SRMSOL",
+    "src": "/assets/images/icons/coins-icons/srmsol.png"
+  },
+  {
+    "name": "SRN",
+    "src": "/assets/images/icons/coins-icons/srn.svg"
+  },
+  {
+    "name": "SSP",
+    "src": "/assets/images/icons/coins-icons/ssp.png"
+  },
+  {
+    "name": "SSV",
+    "src": "/assets/images/icons/coins-icons/ssv.png"
+  },
+  {
+    "name": "STAK",
+    "src": "/assets/images/icons/coins-icons/stak.png"
+  },
+  {
+    "name": "STAKE",
+    "src": "/assets/images/icons/coins-icons/stake.png"
+  },
+  {
+    "name": "STARL",
+    "src": "/assets/images/icons/coins-icons/starl.png"
+  },
+  {
+    "name": "STARSHIP",
+    "src": "/assets/images/icons/coins-icons/starship.png"
+  },
+  {
+    "name": "STARTERCOIN",
+    "src": "/assets/images/icons/coins-icons/startercoin.png"
+  },
+  {
+    "name": "STC",
+    "src": "/assets/images/icons/coins-icons/stc.png"
+  },
+  {
+    "name": "STCERC20",
+    "src": "/assets/images/icons/coins-icons/stcerc20.png"
+  },
+  {
+    "name": "STEEM-DOLLARS",
+    "src": "/assets/images/icons/coins-icons/steem-dollars.png"
+  },
+  {
+    "name": "STEEM",
+    "src": "/assets/images/icons/coins-icons/steem.svg"
+  },
+  {
+    "name": "STELLAR",
+    "src": "/assets/images/icons/coins-icons/stellar.png"
+  },
+  {
+    "name": "STETH",
+    "src": "/assets/images/icons/coins-icons/steth.svg"
+  },
+  {
+    "name": "STF",
+    "src": "/assets/images/icons/coins-icons/stf.png"
+  },
+  {
+    "name": "STFIRO",
+    "src": "/assets/images/icons/coins-icons/stfiro.svg"
+  },
+  {
+    "name": "STG",
+    "src": "/assets/images/icons/coins-icons/stg.png"
+  },
+  {
+    "name": "STGARBITRUM",
+    "src": "/assets/images/icons/coins-icons/stgarbitrum.png"
+  },
+  {
+    "name": "STGAVAXC",
+    "src": "/assets/images/icons/coins-icons/stgavaxc.png"
+  },
+  {
+    "name": "STGBEP20",
+    "src": "/assets/images/icons/coins-icons/stgbep20.png"
+  },
+  {
+    "name": "STGFTM",
+    "src": "/assets/images/icons/coins-icons/stgftm.svg"
+  },
+  {
+    "name": "STGMATIC",
+    "src": "/assets/images/icons/coins-icons/stgmatic.svg"
+  },
+  {
+    "name": "STIK",
+    "src": "/assets/images/icons/coins-icons/stik.png"
+  },
+  {
+    "name": "STKK",
+    "src": "/assets/images/icons/coins-icons/stkk.png"
+  },
+  {
+    "name": "STMX",
+    "src": "/assets/images/icons/coins-icons/stmx.svg"
+  },
+  {
+    "name": "STN",
+    "src": "/assets/images/icons/coins-icons/stn.png"
+  },
+  {
+    "name": "STND",
+    "src": "/assets/images/icons/coins-icons/stnd.png"
+  },
+  {
+    "name": "STORE",
+    "src": "/assets/images/icons/coins-icons/store.png"
+  },
+  {
+    "name": "STORIQA",
+    "src": "/assets/images/icons/coins-icons/storiqa.png"
+  },
+  {
+    "name": "STORJ",
+    "src": "/assets/images/icons/coins-icons/storj.svg"
+  },
+  {
+    "name": "STOX",
+    "src": "/assets/images/icons/coins-icons/stox.png"
+  },
+  {
+    "name": "STPT",
+    "src": "/assets/images/icons/coins-icons/stpt.svg"
+  },
+  {
+    "name": "STRAX",
+    "src": "/assets/images/icons/coins-icons/strax.svg"
+  },
+  {
+    "name": "STREAMER",
+    "src": "/assets/images/icons/coins-icons/streamer.png"
+  },
+  {
+    "name": "STREAMR-DATACOIN",
+    "src": "/assets/images/icons/coins-icons/streamr-datacoin.png"
+  },
+  {
+    "name": "STRK",
+    "src": "/assets/images/icons/coins-icons/strk.png"
+  },
+  {
+    "name": "STRKSTRK",
+    "src": "/assets/images/icons/coins-icons/strkstrk.png"
+  },
+  {
+    "name": "STRM",
+    "src": "/assets/images/icons/coins-icons/strm.png"
+  },
+  {
+    "name": "STRONG",
+    "src": "/assets/images/icons/coins-icons/strong.png"
+  },
+  {
+    "name": "STX",
+    "src": "/assets/images/icons/coins-icons/stx.png"
+  },
+  {
+    "name": "SUBSTRATUM",
+    "src": "/assets/images/icons/coins-icons/substratum.png"
+  },
+  {
+    "name": "SUI",
+    "src": "/assets/images/icons/coins-icons/sui.png"
+  },
+  {
+    "name": "SUKU",
+    "src": "/assets/images/icons/coins-icons/suku.png"
+  },
+  {
+    "name": "SUN",
+    "src": "/assets/images/icons/coins-icons/sun.svg"
+  },
+  {
+    "name": "SUNBEP20",
+    "src": "/assets/images/icons/coins-icons/sunbep20.png"
+  },
+  {
+    "name": "SUPA",
+    "src": "/assets/images/icons/coins-icons/supa.png"
+  },
+  {
+    "name": "SUPER",
+    "src": "/assets/images/icons/coins-icons/super.png"
+  },
+  {
+    "name": "SUPERBEP20",
+    "src": "/assets/images/icons/coins-icons/superbep20.png"
+  },
+  {
+    "name": "SUPRA",
+    "src": "/assets/images/icons/coins-icons/supra.png"
+  },
+  {
+    "name": "SUSD",
+    "src": "/assets/images/icons/coins-icons/susd.svg"
+  },
+  {
+    "name": "SUSDOP",
+    "src": "/assets/images/icons/coins-icons/susdop.png"
+  },
+  {
+    "name": "SUSHI",
+    "src": "/assets/images/icons/coins-icons/sushi.svg"
+  },
+  {
+    "name": "SUSHIBEP20",
+    "src": "/assets/images/icons/coins-icons/sushibep20.png"
+  },
+  {
+    "name": "SVX",
+    "src": "/assets/images/icons/coins-icons/svx.png"
+  },
+  {
+    "name": "SWAP",
+    "src": "/assets/images/icons/coins-icons/swap.png"
+  },
+  {
+    "name": "SWAPBEP20",
+    "src": "/assets/images/icons/coins-icons/swapbep20.png"
+  },
+  {
+    "name": "SWARM-CITY",
+    "src": "/assets/images/icons/coins-icons/swarm-city.png"
+  },
+  {
+    "name": "SWARMS",
+    "src": "/assets/images/icons/coins-icons/swarms.png"
+  },
+  {
+    "name": "SWASH",
+    "src": "/assets/images/icons/coins-icons/swash.png"
+  },
+  {
+    "name": "SWEAT",
+    "src": "/assets/images/icons/coins-icons/sweat.png"
+  },
+  {
+    "name": "SWELL",
+    "src": "/assets/images/icons/coins-icons/swell.svg"
+  },
+  {
+    "name": "SWFTC",
+    "src": "/assets/images/icons/coins-icons/swftc.svg"
+  },
+  {
+    "name": "SWINGBY",
+    "src": "/assets/images/icons/coins-icons/swingby.png"
+  },
+  {
+    "name": "SWRV",
+    "src": "/assets/images/icons/coins-icons/swrv.png"
+  },
+  {
+    "name": "SXP",
+    "src": "/assets/images/icons/coins-icons/sxp.svg"
+  },
+  {
+    "name": "SXPBEP2",
+    "src": "/assets/images/icons/coins-icons/sxpbep2.png"
+  },
+  {
+    "name": "SXPBEP20",
+    "src": "/assets/images/icons/coins-icons/sxpbep20.png"
+  },
+  {
+    "name": "SXPERC20",
+    "src": "/assets/images/icons/coins-icons/sxperc20.png"
+  },
+  {
+    "name": "SXPMAINNET",
+    "src": "/assets/images/icons/coins-icons/sxpmainnet.png"
+  },
+  {
+    "name": "SYLO",
+    "src": "/assets/images/icons/coins-icons/sylo.png"
+  },
+  {
+    "name": "SYN",
+    "src": "/assets/images/icons/coins-icons/syn.png"
+  },
+  {
+    "name": "SYNAVAXC",
+    "src": "/assets/images/icons/coins-icons/synavaxc.png"
+  },
+  {
+    "name": "SYNBEP20",
+    "src": "/assets/images/icons/coins-icons/synbep20.png"
+  },
+  {
+    "name": "SYNFTM",
+    "src": "/assets/images/icons/coins-icons/synftm.png"
+  },
+  {
+    "name": "SYNMATIC",
+    "src": "/assets/images/icons/coins-icons/synmatic.png"
+  },
+  {
+    "name": "SYNT",
+    "src": "/assets/images/icons/coins-icons/synt.png"
+  },
+  {
+    "name": "SYS",
+    "src": "/assets/images/icons/coins-icons/sys.svg"
+  },
+  {
+    "name": "T",
+    "src": "/assets/images/icons/coins-icons/t.png"
+  },
+  {
+    "name": "TAMA",
+    "src": "/assets/images/icons/coins-icons/tama.png"
+  },
+  {
+    "name": "TAO",
+    "src": "/assets/images/icons/coins-icons/tao.png"
+  },
+  {
+    "name": "TARA",
+    "src": "/assets/images/icons/coins-icons/tara.png"
+  },
+  {
+    "name": "TBTC",
+    "src": "/assets/images/icons/coins-icons/tbtc.png"
+  },
+  {
+    "name": "TDROP",
+    "src": "/assets/images/icons/coins-icons/tdrop.png"
+  },
+  {
+    "name": "TEL",
+    "src": "/assets/images/icons/coins-icons/tel.png"
+  },
+  {
+    "name": "TELMATIC",
+    "src": "/assets/images/icons/coins-icons/telmatic.png"
+  },
+  {
+    "name": "TENFI",
+    "src": "/assets/images/icons/coins-icons/tenfi.png"
+  },
+  {
+    "name": "TENSHI",
+    "src": "/assets/images/icons/coins-icons/tenshi.png"
+  },
+  {
+    "name": "TERC20",
+    "src": "/assets/images/icons/coins-icons/terc20.png"
+  },
+  {
+    "name": "TET",
+    "src": "/assets/images/icons/coins-icons/tet.png"
+  },
+  {
+    "name": "TETHER",
+    "src": "/assets/images/icons/coins-icons/tether.png"
+  },
+  {
+    "name": "TFUEL",
+    "src": "/assets/images/icons/coins-icons/tfuel.png"
+  },
+  {
+    "name": "THC",
+    "src": "/assets/images/icons/coins-icons/thc.png"
+  },
+  {
+    "name": "THETA",
+    "src": "/assets/images/icons/coins-icons/theta.svg"
+  },
+  {
+    "name": "TIA",
+    "src": "/assets/images/icons/coins-icons/tia.png"
+  },
+  {
+    "name": "TIDAL",
+    "src": "/assets/images/icons/coins-icons/tidal.png"
+  },
+  {
+    "name": "TIDALERC20",
+    "src": "/assets/images/icons/coins-icons/tidalerc20.png"
+  },
+  {
+    "name": "TIME",
+    "src": "/assets/images/icons/coins-icons/time.png"
+  },
+  {
+    "name": "TIMEBEP20",
+    "src": "/assets/images/icons/coins-icons/timebep20.png"
+  },
+  {
+    "name": "TIPSY",
+    "src": "/assets/images/icons/coins-icons/tipsy.png"
+  },
+  {
+    "name": "TITAN",
+    "src": "/assets/images/icons/coins-icons/titan.png"
+  },
+  {
+    "name": "TITANO",
+    "src": "/assets/images/icons/coins-icons/titano.png"
+  },
+  {
+    "name": "TKING",
+    "src": "/assets/images/icons/coins-icons/tking.png"
+  },
+  {
+    "name": "TKO",
+    "src": "/assets/images/icons/coins-icons/tko.png"
+  },
+  {
+    "name": "TLM",
+    "src": "/assets/images/icons/coins-icons/tlm.png"
+  },
+  {
+    "name": "TLMERC20",
+    "src": "/assets/images/icons/coins-icons/tlmerc20.png"
+  },
+  {
+    "name": "TLOS",
+    "src": "/assets/images/icons/coins-icons/tlos.png"
+  },
+  {
+    "name": "TLOSERC20",
+    "src": "/assets/images/icons/coins-icons/tloserc20.svg"
+  },
+  {
+    "name": "TNB",
+    "src": "/assets/images/icons/coins-icons/tnb.png"
+  },
+  {
+    "name": "TNT",
+    "src": "/assets/images/icons/coins-icons/tnt.svg"
+  },
+  {
+    "name": "TOKENCARD",
+    "src": "/assets/images/icons/coins-icons/tokencard.png"
+  },
+  {
+    "name": "TOKENCLUB",
+    "src": "/assets/images/icons/coins-icons/tokenclub.png"
+  },
+  {
+    "name": "TOKO",
+    "src": "/assets/images/icons/coins-icons/toko.png"
+  },
+  {
+    "name": "TOKOBEP20",
+    "src": "/assets/images/icons/coins-icons/tokobep20.png"
+  },
+  {
+    "name": "TOKOERC20",
+    "src": "/assets/images/icons/coins-icons/tokoerc20.png"
+  },
+  {
+    "name": "TOMI",
+    "src": "/assets/images/icons/coins-icons/tomi.png"
+  },
+  {
+    "name": "TOMOCHAIN",
+    "src": "/assets/images/icons/coins-icons/tomochain.png"
+  },
+  {
+    "name": "TON",
+    "src": "/assets/images/icons/coins-icons/ton.png"
+  },
+  {
+    "name": "TONBEP20",
+    "src": "/assets/images/icons/coins-icons/tonbep20.png"
+  },
+  {
+    "name": "TONE",
+    "src": "/assets/images/icons/coins-icons/tone.png"
+  },
+  {
+    "name": "TOPC",
+    "src": "/assets/images/icons/coins-icons/topc.png"
+  },
+  {
+    "name": "TOR",
+    "src": "/assets/images/icons/coins-icons/tor.png"
+  },
+  {
+    "name": "TORN",
+    "src": "/assets/images/icons/coins-icons/torn.png"
+  },
+  {
+    "name": "TOSHI",
+    "src": "/assets/images/icons/coins-icons/toshi.png"
+  },
+  {
+    "name": "TOWER",
+    "src": "/assets/images/icons/coins-icons/tower.png"
+  },
+  {
+    "name": "TOWERERC20",
+    "src": "/assets/images/icons/coins-icons/towererc20.png"
+  },
+  {
+    "name": "TPT",
+    "src": "/assets/images/icons/coins-icons/tpt.png"
+  },
+  {
+    "name": "TPTBEP20",
+    "src": "/assets/images/icons/coins-icons/tptbep20.png"
+  },
+  {
+    "name": "TRAC",
+    "src": "/assets/images/icons/coins-icons/trac.png"
+  },
+  {
+    "name": "TRADE",
+    "src": "/assets/images/icons/coins-icons/trade.png"
+  },
+  {
+    "name": "TRAVALA",
+    "src": "/assets/images/icons/coins-icons/travala.png"
+  },
+  {
+    "name": "TRB",
+    "src": "/assets/images/icons/coins-icons/trb.png"
+  },
+  {
+    "name": "TREAT",
+    "src": "/assets/images/icons/coins-icons/treat.png"
+  },
+  {
+    "name": "TRIAS",
+    "src": "/assets/images/icons/coins-icons/trias.png"
+  },
+  {
+    "name": "TRIBE",
+    "src": "/assets/images/icons/coins-icons/tribe.png"
+  },
+  {
+    "name": "TRIPIO",
+    "src": "/assets/images/icons/coins-icons/tripio.png"
+  },
+  {
+    "name": "TRONPAD",
+    "src": "/assets/images/icons/coins-icons/tronpad.png"
+  },
+  {
+    "name": "TROY",
+    "src": "/assets/images/icons/coins-icons/troy.png"
+  },
+  {
+    "name": "TRU",
+    "src": "/assets/images/icons/coins-icons/tru.png"
+  },
+  {
+    "name": "TRUBEP20",
+    "src": "/assets/images/icons/coins-icons/trubep20.png"
+  },
+  {
+    "name": "TRUEFLIP",
+    "src": "/assets/images/icons/coins-icons/trueflip.png"
+  },
+  {
+    "name": "TRUMP",
+    "src": "/assets/images/icons/coins-icons/trump.svg"
+  },
+  {
+    "name": "TRUMPERC20",
+    "src": "/assets/images/icons/coins-icons/trumperc20.svg"
+  },
+  {
+    "name": "TRVL",
+    "src": "/assets/images/icons/coins-icons/trvl.png"
+  },
+  {
+    "name": "TRX",
+    "src": "/assets/images/icons/coins-icons/trx.svg"
+  },
+  {
+    "name": "TRXBEP2",
+    "src": "/assets/images/icons/coins-icons/trxbep2.png"
+  },
+  {
+    "name": "TRXBEP20",
+    "src": "/assets/images/icons/coins-icons/trxbep20.png"
+  },
+  {
+    "name": "TRY",
+    "src": "/assets/images/icons/coins-icons/try.svg"
+  },
+  {
+    "name": "TSUKA",
+    "src": "/assets/images/icons/coins-icons/tsuka.png"
+  },
+  {
+    "name": "TT",
+    "src": "/assets/images/icons/coins-icons/tt.png"
+  },
+  {
+    "name": "TTC",
+    "src": "/assets/images/icons/coins-icons/ttc.png"
+  },
+  {
+    "name": "TUP",
+    "src": "/assets/images/icons/coins-icons/tup.png"
+  },
+  {
+    "name": "TURBO",
+    "src": "/assets/images/icons/coins-icons/turbo.png"
+  },
+  {
+    "name": "TURTLECOIN",
+    "src": "/assets/images/icons/coins-icons/turtlecoin.png"
+  },
+  {
+    "name": "TUSD",
+    "src": "/assets/images/icons/coins-icons/tusd.svg"
+  },
+  {
+    "name": "TUSDAVAXC",
+    "src": "/assets/images/icons/coins-icons/tusdavaxc.png"
+  },
+  {
+    "name": "TUSDBEP20",
+    "src": "/assets/images/icons/coins-icons/tusdbep20.png"
+  },
+  {
+    "name": "TUSDTRC20",
+    "src": "/assets/images/icons/coins-icons/tusdtrc20.png"
+  },
+  {
+    "name": "TUT",
+    "src": "/assets/images/icons/coins-icons/tut.png"
+  },
+  {
+    "name": "TVK",
+    "src": "/assets/images/icons/coins-icons/tvk.png"
+  },
+  {
+    "name": "TWT",
+    "src": "/assets/images/icons/coins-icons/twt.png"
+  },
+  {
+    "name": "TWTBEP2",
+    "src": "/assets/images/icons/coins-icons/twtbep2.png"
+  },
+  {
+    "name": "TXA",
+    "src": "/assets/images/icons/coins-icons/txa.png"
+  },
+  {
+    "name": "TXS",
+    "src": "/assets/images/icons/coins-icons/txs.png"
+  },
+  {
+    "name": "UAH",
+    "src": "/assets/images/icons/coins-icons/uah.png"
+  },
+  {
+    "name": "UBIQ",
+    "src": "/assets/images/icons/coins-icons/ubiq.png"
+  },
+  {
+    "name": "UBT",
+    "src": "/assets/images/icons/coins-icons/ubt.svg"
+  },
+  {
+    "name": "UBXT",
+    "src": "/assets/images/icons/coins-icons/ubxt.png"
+  },
+  {
+    "name": "UFO",
+    "src": "/assets/images/icons/coins-icons/ufo.png"
+  },
+  {
+    "name": "UFT",
+    "src": "/assets/images/icons/coins-icons/uft.png"
+  },
+  {
+    "name": "UFTBEP20",
+    "src": "/assets/images/icons/coins-icons/uftbep20.png"
+  },
+  {
+    "name": "UFTMATIC",
+    "src": "/assets/images/icons/coins-icons/uftmatic.png"
+  },
+  {
+    "name": "UGAS",
+    "src": "/assets/images/icons/coins-icons/ugas.png"
+  },
+  {
+    "name": "UIP",
+    "src": "/assets/images/icons/coins-icons/uip.png"
+  },
+  {
+    "name": "UMA",
+    "src": "/assets/images/icons/coins-icons/uma.svg"
+  },
+  {
+    "name": "UMB",
+    "src": "/assets/images/icons/coins-icons/umb.png"
+  },
+  {
+    "name": "UNFI",
+    "src": "/assets/images/icons/coins-icons/unfi.svg"
+  },
+  {
+    "name": "UNFIERC20",
+    "src": "/assets/images/icons/coins-icons/unfierc20.png"
+  },
+  {
+    "name": "UNI",
+    "src": "/assets/images/icons/coins-icons/uni.svg"
+  },
+  {
+    "name": "UNIARB",
+    "src": "/assets/images/icons/coins-icons/uniarb.png"
+  },
+  {
+    "name": "UNIBEP2",
+    "src": "/assets/images/icons/coins-icons/unibep2.png"
+  },
+  {
+    "name": "UNIBEP20",
+    "src": "/assets/images/icons/coins-icons/unibep20.png"
+  },
+  {
+    "name": "UNIBOT",
+    "src": "/assets/images/icons/coins-icons/unibot.png"
+  },
+  {
+    "name": "UNIKOIN-GOLD",
+    "src": "/assets/images/icons/coins-icons/unikoin-gold.png"
+  },
+  {
+    "name": "UNO",
+    "src": "/assets/images/icons/coins-icons/uno.png"
+  },
+  {
+    "name": "UNOERC20",
+    "src": "/assets/images/icons/coins-icons/unoerc20.png"
+  },
+  {
+    "name": "UOS",
+    "src": "/assets/images/icons/coins-icons/uos.svg"
+  },
+  {
+    "name": "UPO",
+    "src": "/assets/images/icons/coins-icons/upo.png"
+  },
+  {
+    "name": "UQC",
+    "src": "/assets/images/icons/coins-icons/uqc.png"
+  },
+  {
+    "name": "UQCERC20",
+    "src": "/assets/images/icons/coins-icons/uqcerc20.png"
+  },
+  {
+    "name": "URAC",
+    "src": "/assets/images/icons/coins-icons/urac.png"
+  },
+  {
+    "name": "URUS",
+    "src": "/assets/images/icons/coins-icons/urus.svg"
+  },
+  {
+    "name": "USD",
+    "src": "/assets/images/icons/coins-icons/usd.svg"
+  },
+  {
+    "name": "USDC",
+    "src": "/assets/images/icons/coins-icons/usdc.svg"
+  },
+  {
+    "name": "USDCALGO",
+    "src": "/assets/images/icons/coins-icons/usdcalgo.png"
+  },
+  {
+    "name": "USDCARB",
+    "src": "/assets/images/icons/coins-icons/usdcarb.png"
+  },
+  {
+    "name": "USDCAVAXC",
+    "src": "/assets/images/icons/coins-icons/usdcavaxc.png"
+  },
+  {
+    "name": "USDCBASE",
+    "src": "/assets/images/icons/coins-icons/usdcbase.png"
+  },
+  {
+    "name": "USDCBEP2",
+    "src": "/assets/images/icons/coins-icons/usdcbep2.png"
+  },
+  {
+    "name": "USDCBEP20",
+    "src": "/assets/images/icons/coins-icons/usdcbep20.png"
+  },
+  {
+    "name": "USDCDOT",
+    "src": "/assets/images/icons/coins-icons/usdcdot.png"
+  },
+  {
+    "name": "USDCEMATIC",
+    "src": "/assets/images/icons/coins-icons/usdcematic.png"
+  },
+  {
+    "name": "USDCEOP",
+    "src": "/assets/images/icons/coins-icons/usdceop.png"
+  },
+  {
+    "name": "USDCHECO",
+    "src": "/assets/images/icons/coins-icons/usdcheco.png"
+  },
+  {
+    "name": "USDCKCC",
+    "src": "/assets/images/icons/coins-icons/usdckcc.png"
+  },
+  {
+    "name": "USDCMATIC",
+    "src": "/assets/images/icons/coins-icons/usdcmatic.png"
+  },
+  {
+    "name": "USDCOP",
+    "src": "/assets/images/icons/coins-icons/usdcop.png"
+  },
+  {
+    "name": "USDCRON",
+    "src": "/assets/images/icons/coins-icons/usdcron.png"
+  },
+  {
+    "name": "USDCSOL",
+    "src": "/assets/images/icons/coins-icons/usdcsol.png"
+  },
+  {
+    "name": "USDCTRC20",
+    "src": "/assets/images/icons/coins-icons/usdctrc20.svg"
+  },
+  {
+    "name": "USDCXLM",
+    "src": "/assets/images/icons/coins-icons/usdcxlm.png"
+  },
+  {
+    "name": "USDD",
+    "src": "/assets/images/icons/coins-icons/usdd.svg"
+  },
+  {
+    "name": "USDDBEP20",
+    "src": "/assets/images/icons/coins-icons/usddbep20.png"
+  },
+  {
+    "name": "USDDERC20",
+    "src": "/assets/images/icons/coins-icons/usdderc20.svg"
+  },
+  {
+    "name": "USDDTRC20",
+    "src": "/assets/images/icons/coins-icons/usddtrc20.png"
+  },
+  {
+    "name": "USDE",
+    "src": "/assets/images/icons/coins-icons/usde.png"
+  },
+  {
+    "name": "USDJ",
+    "src": "/assets/images/icons/coins-icons/usdj.png"
+  },
+  {
+    "name": "USDK",
+    "src": "/assets/images/icons/coins-icons/usdk.png"
+  },
+  {
+    "name": "USDP",
+    "src": "/assets/images/icons/coins-icons/usdp.svg"
+  },
+  {
+    "name": "USDPBEP20",
+    "src": "/assets/images/icons/coins-icons/usdpbep20.png"
+  },
+  {
+    "name": "USDT",
+    "src": "/assets/images/icons/coins-icons/usdt.svg"
+  },
+  {
+    "name": "USDTALGO",
+    "src": "/assets/images/icons/coins-icons/usdtalgo.png"
+  },
+  {
+    "name": "USDTARB",
+    "src": "/assets/images/icons/coins-icons/usdtarb.png"
+  },
+  {
+    "name": "USDTAVAXC",
+    "src": "/assets/images/icons/coins-icons/usdtavaxc.png"
+  },
+  {
+    "name": "USDTBEP2",
+    "src": "/assets/images/icons/coins-icons/usdtbep2.png"
+  },
+  {
+    "name": "USDTBEP20",
+    "src": "/assets/images/icons/coins-icons/usdtbep20.png"
+  },
+  {
+    "name": "USDTDOT",
+    "src": "/assets/images/icons/coins-icons/usdtdot.png"
+  },
+  {
+    "name": "USDTEOS",
+    "src": "/assets/images/icons/coins-icons/usdteos.png"
+  },
+  {
+    "name": "USDTERC20",
+    "src": "/assets/images/icons/coins-icons/usdterc20.png"
+  },
+  {
+    "name": "USDTHECO",
+    "src": "/assets/images/icons/coins-icons/usdtheco.png"
+  },
+  {
+    "name": "USDTKCC",
+    "src": "/assets/images/icons/coins-icons/usdtkcc.png"
+  },
+  {
+    "name": "USDTMATIC",
+    "src": "/assets/images/icons/coins-icons/usdtmatic.png"
+  },
+  {
+    "name": "USDTNEAR",
+    "src": "/assets/images/icons/coins-icons/usdtnear.png"
+  },
+  {
+    "name": "USDTOMNI",
+    "src": "/assets/images/icons/coins-icons/usdtomni.png"
+  },
+  {
+    "name": "USDTOP",
+    "src": "/assets/images/icons/coins-icons/usdtop.png"
+  },
+  {
+    "name": "USDTSOL",
+    "src": "/assets/images/icons/coins-icons/usdtsol.png"
+  },
+  {
+    "name": "USDTTON",
+    "src": "/assets/images/icons/coins-icons/usdtton.png"
+  },
+  {
+    "name": "USDTXTZ",
+    "src": "/assets/images/icons/coins-icons/usdtxtz.png"
+  },
+  {
+    "name": "UST",
+    "src": "/assets/images/icons/coins-icons/ust.png"
+  },
+  {
+    "name": "USTBEP20",
+    "src": "/assets/images/icons/coins-icons/ustbep20.png"
+  },
+  {
+    "name": "USTC",
+    "src": "/assets/images/icons/coins-icons/ustc.png"
+  },
+  {
+    "name": "USUAL",
+    "src": "/assets/images/icons/coins-icons/usual.svg"
+  },
+  {
+    "name": "UTK",
+    "src": "/assets/images/icons/coins-icons/utk.svg"
+  },
+  {
+    "name": "UTKEGLD",
+    "src": "/assets/images/icons/coins-icons/utkegld.png"
+  },
+  {
+    "name": "UUU",
+    "src": "/assets/images/icons/coins-icons/uuu.png"
+  },
+  {
+    "name": "UXLINK",
+    "src": "/assets/images/icons/coins-icons/uxlink.svg"
+  },
+  {
+    "name": "VAI",
+    "src": "/assets/images/icons/coins-icons/vai.png"
+  },
+  {
+    "name": "VBETH",
+    "src": "/assets/images/icons/coins-icons/vbeth.png"
+  },
+  {
+    "name": "VBETHBEP20",
+    "src": "/assets/images/icons/coins-icons/vbethbep20.png"
+  },
+  {
+    "name": "VBSWAP",
+    "src": "/assets/images/icons/coins-icons/vbswap.png"
+  },
+  {
+    "name": "VBSWAPBEP20",
+    "src": "/assets/images/icons/coins-icons/vbswapbep20.png"
+  },
+  {
+    "name": "VBTC",
+    "src": "/assets/images/icons/coins-icons/vbtc.png"
+  },
+  {
+    "name": "VBTCBEP20",
+    "src": "/assets/images/icons/coins-icons/vbtcbep20.png"
+  },
+  {
+    "name": "VDX",
+    "src": "/assets/images/icons/coins-icons/vdx.png"
+  },
+  {
+    "name": "VEE",
+    "src": "/assets/images/icons/coins-icons/vee.png"
+  },
+  {
+    "name": "VELA",
+    "src": "/assets/images/icons/coins-icons/vela.png"
+  },
+  {
+    "name": "VELO",
+    "src": "/assets/images/icons/coins-icons/velo.png"
+  },
+  {
+    "name": "VELOXLM",
+    "src": "/assets/images/icons/coins-icons/veloxlm.svg"
+  },
+  {
+    "name": "VEMP",
+    "src": "/assets/images/icons/coins-icons/vemp.png"
+  },
+  {
+    "name": "VERITASEUM",
+    "src": "/assets/images/icons/coins-icons/veritaseum.png"
+  },
+  {
+    "name": "VEROS",
+    "src": "/assets/images/icons/coins-icons/veros.png"
+  },
+  {
+    "name": "VERSE",
+    "src": "/assets/images/icons/coins-icons/verse.png"
+  },
+  {
+    "name": "VERTCOIN",
+    "src": "/assets/images/icons/coins-icons/vertcoin.png"
+  },
+  {
+    "name": "VET",
+    "src": "/assets/images/icons/coins-icons/vet.svg"
+  },
+  {
+    "name": "VETBEP20",
+    "src": "/assets/images/icons/coins-icons/vetbep20.png"
+  },
+  {
+    "name": "VETHBEP20",
+    "src": "/assets/images/icons/coins-icons/vethbep20.png"
+  },
+  {
+    "name": "VGO",
+    "src": "/assets/images/icons/coins-icons/vgo.png"
+  },
+  {
+    "name": "VGX",
+    "src": "/assets/images/icons/coins-icons/vgx.png"
+  },
+  {
+    "name": "VIACOIN",
+    "src": "/assets/images/icons/coins-icons/viacoin.png"
+  },
+  {
+    "name": "VIB",
+    "src": "/assets/images/icons/coins-icons/vib.svg"
+  },
+  {
+    "name": "VIBE",
+    "src": "/assets/images/icons/coins-icons/vibe.png"
+  },
+  {
+    "name": "VID",
+    "src": "/assets/images/icons/coins-icons/vid.png"
+  },
+  {
+    "name": "VIDT",
+    "src": "/assets/images/icons/coins-icons/vidt.png"
+  },
+  {
+    "name": "VIDTBEP20",
+    "src": "/assets/images/icons/coins-icons/vidtbep20.png"
+  },
+  {
+    "name": "VIDY",
+    "src": "/assets/images/icons/coins-icons/vidy.png"
+  },
+  {
+    "name": "VINE",
+    "src": "/assets/images/icons/coins-icons/vine.png"
+  },
+  {
+    "name": "VINU",
+    "src": "/assets/images/icons/coins-icons/vinu.png"
+  },
+  {
+    "name": "VIRTUAL",
+    "src": "/assets/images/icons/coins-icons/virtual.png"
+  },
+  {
+    "name": "VISION",
+    "src": "/assets/images/icons/coins-icons/vision.png"
+  },
+  {
+    "name": "VITE",
+    "src": "/assets/images/icons/coins-icons/vite.png"
+  },
+  {
+    "name": "VITEBEP20",
+    "src": "/assets/images/icons/coins-icons/vitebep20.png"
+  },
+  {
+    "name": "VLX",
+    "src": "/assets/images/icons/coins-icons/vlx.png"
+  },
+  {
+    "name": "VLXBEP20",
+    "src": "/assets/images/icons/coins-icons/vlxbep20.png"
+  },
+  {
+    "name": "VOLT",
+    "src": "/assets/images/icons/coins-icons/volt.png"
+  },
+  {
+    "name": "VOLTERC20",
+    "src": "/assets/images/icons/coins-icons/volterc20.png"
+  },
+  {
+    "name": "VOLTV3",
+    "src": "/assets/images/icons/coins-icons/voltv3.png"
+  },
+  {
+    "name": "VOLTV3ERC20",
+    "src": "/assets/images/icons/coins-icons/voltv3erc20.png"
+  },
+  {
+    "name": "VOXEL",
+    "src": "/assets/images/icons/coins-icons/voxel.png"
+  },
+  {
+    "name": "VR",
+    "src": "/assets/images/icons/coins-icons/vr.png"
+  },
+  {
+    "name": "VRA",
+    "src": "/assets/images/icons/coins-icons/vra.png"
+  },
+  {
+    "name": "VRT",
+    "src": "/assets/images/icons/coins-icons/vrt.png"
+  },
+  {
+    "name": "VSYS",
+    "src": "/assets/images/icons/coins-icons/vsys.png"
+  },
+  {
+    "name": "VTHO",
+    "src": "/assets/images/icons/coins-icons/vtho.png"
+  },
+  {
+    "name": "VVS",
+    "src": "/assets/images/icons/coins-icons/vvs.png"
+  },
+  {
+    "name": "VVV",
+    "src": "/assets/images/icons/coins-icons/vvv.png"
+  },
+  {
+    "name": "VXV",
+    "src": "/assets/images/icons/coins-icons/vxv.png"
+  },
+  {
+    "name": "VYBE",
+    "src": "/assets/images/icons/coins-icons/vybe.svg"
+  },
+  {
+    "name": "W",
+    "src": "/assets/images/icons/coins-icons/w.png"
+  },
+  {
+    "name": "WABI",
+    "src": "/assets/images/icons/coins-icons/wabi.svg"
+  },
+  {
+    "name": "WAL",
+    "src": "/assets/images/icons/coins-icons/wal.png"
+  },
+  {
+    "name": "WALSUI",
+    "src": "/assets/images/icons/coins-icons/walsui.png"
+  },
+  {
+    "name": "WALV",
+    "src": "/assets/images/icons/coins-icons/walv.png"
+  },
+  {
+    "name": "WAN",
+    "src": "/assets/images/icons/coins-icons/wan.png"
+  },
+  {
+    "name": "WATTON",
+    "src": "/assets/images/icons/coins-icons/watton.png"
+  },
+  {
+    "name": "WAVES",
+    "src": "/assets/images/icons/coins-icons/waves.svg"
+  },
+  {
+    "name": "WAVESERC20",
+    "src": "/assets/images/icons/coins-icons/waveserc20.png"
+  },
+  {
+    "name": "WAX",
+    "src": "/assets/images/icons/coins-icons/wax.png"
+  },
+  {
+    "name": "WAXE",
+    "src": "/assets/images/icons/coins-icons/waxe.png"
+  },
+  {
+    "name": "WAXP",
+    "src": "/assets/images/icons/coins-icons/waxp.svg"
+  },
+  {
+    "name": "WBNB",
+    "src": "/assets/images/icons/coins-icons/wbnb.png"
+  },
+  {
+    "name": "WBT",
+    "src": "/assets/images/icons/coins-icons/wbt.png"
+  },
+  {
+    "name": "WBTC",
+    "src": "/assets/images/icons/coins-icons/wbtc.svg"
+  },
+  {
+    "name": "WBTCARB",
+    "src": "/assets/images/icons/coins-icons/wbtcarb.png"
+  },
+  {
+    "name": "WBTCMATIC",
+    "src": "/assets/images/icons/coins-icons/wbtcmatic.png"
+  },
+  {
+    "name": "WELLGLMR",
+    "src": "/assets/images/icons/coins-icons/wellglmr.png"
+  },
+  {
+    "name": "WELT",
+    "src": "/assets/images/icons/coins-icons/welt.png"
+  },
+  {
+    "name": "WEMIX",
+    "src": "/assets/images/icons/coins-icons/wemix.png"
+  },
+  {
+    "name": "WEN",
+    "src": "/assets/images/icons/coins-icons/wen.png"
+  },
+  {
+    "name": "WEPOWER",
+    "src": "/assets/images/icons/coins-icons/wepower.png"
+  },
+  {
+    "name": "WERC20",
+    "src": "/assets/images/icons/coins-icons/werc20.png"
+  },
+  {
+    "name": "WETH",
+    "src": "/assets/images/icons/coins-icons/weth.png"
+  },
+  {
+    "name": "WEX",
+    "src": "/assets/images/icons/coins-icons/wex.png"
+  },
+  {
+    "name": "WEXBEP20",
+    "src": "/assets/images/icons/coins-icons/wexbep20.svg"
+  },
+  {
+    "name": "WHALE",
+    "src": "/assets/images/icons/coins-icons/whale.png"
+  },
+  {
+    "name": "WHITE",
+    "src": "/assets/images/icons/coins-icons/white.png"
+  },
+  {
+    "name": "WICC",
+    "src": "/assets/images/icons/coins-icons/wicc.png"
+  },
+  {
+    "name": "WIF",
+    "src": "/assets/images/icons/coins-icons/wif.png"
+  },
+  {
+    "name": "WIN",
+    "src": "/assets/images/icons/coins-icons/win.png"
+  },
+  {
+    "name": "WING",
+    "src": "/assets/images/icons/coins-icons/wing.png"
+  },
+  {
+    "name": "WINTRC20",
+    "src": "/assets/images/icons/coins-icons/wintrc20.png"
+  },
+  {
+    "name": "WISE",
+    "src": "/assets/images/icons/coins-icons/wise.png"
+  },
+  {
+    "name": "WIT",
+    "src": "/assets/images/icons/coins-icons/wit.png"
+  },
+  {
+    "name": "WLD",
+    "src": "/assets/images/icons/coins-icons/wld.svg"
+  },
+  {
+    "name": "WLDOP",
+    "src": "/assets/images/icons/coins-icons/wldop.png"
+  },
+  {
+    "name": "WMT",
+    "src": "/assets/images/icons/coins-icons/wmt.png"
+  },
+  {
+    "name": "WNXM",
+    "src": "/assets/images/icons/coins-icons/wnxm.png"
+  },
+  {
+    "name": "WOJAK",
+    "src": "/assets/images/icons/coins-icons/wojak.png"
+  },
+  {
+    "name": "WOLFERC20",
+    "src": "/assets/images/icons/coins-icons/wolferc20.png"
+  },
+  {
+    "name": "WOM",
+    "src": "/assets/images/icons/coins-icons/wom.png"
+  },
+  {
+    "name": "WOMBAT",
+    "src": "/assets/images/icons/coins-icons/wombat.png"
+  },
+  {
+    "name": "WOMBATERC20",
+    "src": "/assets/images/icons/coins-icons/wombaterc20.png"
+  },
+  {
+    "name": "WOMBATMATIC",
+    "src": "/assets/images/icons/coins-icons/wombatmatic.png"
+  },
+  {
+    "name": "WOO",
+    "src": "/assets/images/icons/coins-icons/woo.png"
+  },
+  {
+    "name": "WOOARB",
+    "src": "/assets/images/icons/coins-icons/wooarb.png"
+  },
+  {
+    "name": "WOOERC20",
+    "src": "/assets/images/icons/coins-icons/wooerc20.png"
+  },
+  {
+    "name": "WOOP",
+    "src": "/assets/images/icons/coins-icons/woop.png"
+  },
+  {
+    "name": "WORLD",
+    "src": "/assets/images/icons/coins-icons/world.png"
+  },
+  {
+    "name": "WORLDCORE",
+    "src": "/assets/images/icons/coins-icons/worldcore.png"
+  },
+  {
+    "name": "WOW",
+    "src": "/assets/images/icons/coins-icons/wow.png"
+  },
+  {
+    "name": "WOWBEP20",
+    "src": "/assets/images/icons/coins-icons/wowbep20.png"
+  },
+  {
+    "name": "WRX",
+    "src": "/assets/images/icons/coins-icons/wrx.png"
+  },
+  {
+    "name": "WRXBEP20",
+    "src": "/assets/images/icons/coins-icons/wrxbep20.png"
+  },
+  {
+    "name": "WRXERC20",
+    "src": "/assets/images/icons/coins-icons/wrxerc20.png"
+  },
+  {
+    "name": "WSM",
+    "src": "/assets/images/icons/coins-icons/wsm.png"
+  },
+  {
+    "name": "WSOL",
+    "src": "/assets/images/icons/coins-icons/wsol.png"
+  },
+  {
+    "name": "WSPP",
+    "src": "/assets/images/icons/coins-icons/wspp.png"
+  },
+  {
+    "name": "WTC",
+    "src": "/assets/images/icons/coins-icons/wtc.svg"
+  },
+  {
+    "name": "WWY",
+    "src": "/assets/images/icons/coins-icons/wwy.png"
+  },
+  {
+    "name": "WXT",
+    "src": "/assets/images/icons/coins-icons/wxt.png"
+  },
+  {
+    "name": "X",
+    "src": "/assets/images/icons/coins-icons/x.png"
+  },
+  {
+    "name": "XAI",
+    "src": "/assets/images/icons/coins-icons/xai.svg"
+  },
+  {
+    "name": "XAURUM",
+    "src": "/assets/images/icons/coins-icons/xaurum.png"
+  },
+  {
+    "name": "XAUT",
+    "src": "/assets/images/icons/coins-icons/xaut.svg"
+  },
+  {
+    "name": "XAUTERC20",
+    "src": "/assets/images/icons/coins-icons/xauterc20.png"
+  },
+  {
+    "name": "XCAD",
+    "src": "/assets/images/icons/coins-icons/xcad.png"
+  },
+  {
+    "name": "XCH",
+    "src": "/assets/images/icons/coins-icons/xch.png"
+  },
+  {
+    "name": "XCHF",
+    "src": "/assets/images/icons/coins-icons/xchf.svg"
+  },
+  {
+    "name": "XCNBASE",
+    "src": "/assets/images/icons/coins-icons/xcnbase.png"
+  },
+  {
+    "name": "XCNBEP20",
+    "src": "/assets/images/icons/coins-icons/xcnbep20.png"
+  },
+  {
+    "name": "XCNERC20",
+    "src": "/assets/images/icons/coins-icons/xcnerc20.png"
+  },
+  {
+    "name": "XCUR",
+    "src": "/assets/images/icons/coins-icons/xcur.svg"
+  },
+  {
+    "name": "XCURBEP20",
+    "src": "/assets/images/icons/coins-icons/xcurbep20.png"
+  },
+  {
+    "name": "XDB",
+    "src": "/assets/images/icons/coins-icons/xdb.png"
+  },
+  {
+    "name": "XDC",
+    "src": "/assets/images/icons/coins-icons/xdc.png"
+  },
+  {
+    "name": "XDEFI",
+    "src": "/assets/images/icons/coins-icons/xdefi.png"
+  },
+  {
+    "name": "XEC",
+    "src": "/assets/images/icons/coins-icons/xec.png"
+  },
+  {
+    "name": "XED",
+    "src": "/assets/images/icons/coins-icons/xed.png"
+  },
+  {
+    "name": "XEM",
+    "src": "/assets/images/icons/coins-icons/xem.svg"
+  },
+  {
+    "name": "XETA",
+    "src": "/assets/images/icons/coins-icons/xeta.png"
+  },
+  {
+    "name": "XHV",
+    "src": "/assets/images/icons/coins-icons/xhv.png"
+  },
+  {
+    "name": "XIO",
+    "src": "/assets/images/icons/coins-icons/xio.svg"
+  },
+  {
+    "name": "XLM",
+    "src": "/assets/images/icons/coins-icons/xlm.svg"
+  },
+  {
+    "name": "XLMBEP20",
+    "src": "/assets/images/icons/coins-icons/xlmbep20.png"
+  },
+  {
+    "name": "XMAX",
+    "src": "/assets/images/icons/coins-icons/xmax.png"
+  },
+  {
+    "name": "XMR",
+    "src": "/assets/images/icons/coins-icons/xmr.svg"
+  },
+  {
+    "name": "XMS",
+    "src": "/assets/images/icons/coins-icons/xms.png"
+  },
+  {
+    "name": "XNL",
+    "src": "/assets/images/icons/coins-icons/xnl.png"
+  },
+  {
+    "name": "XNO",
+    "src": "/assets/images/icons/coins-icons/xno.png"
+  },
+  {
+    "name": "XOR",
+    "src": "/assets/images/icons/coins-icons/xor.svg"
+  },
+  {
+    "name": "XPAT",
+    "src": "/assets/images/icons/coins-icons/xpat.png"
+  },
+  {
+    "name": "XPR",
+    "src": "/assets/images/icons/coins-icons/xpr.png"
+  },
+  {
+    "name": "XPRT",
+    "src": "/assets/images/icons/coins-icons/xprt.png"
+  },
+  {
+    "name": "XRD",
+    "src": "/assets/images/icons/coins-icons/xrd.png"
+  },
+  {
+    "name": "XRDOGE",
+    "src": "/assets/images/icons/coins-icons/xrdoge.png"
+  },
+  {
+    "name": "XRP",
+    "src": "/assets/images/icons/coins-icons/xrp.svg"
+  },
+  {
+    "name": "XRPBEP2",
+    "src": "/assets/images/icons/coins-icons/xrpbep2.png"
+  },
+  {
+    "name": "XRPBEP20",
+    "src": "/assets/images/icons/coins-icons/xrpbep20.png"
+  },
+  {
+    "name": "XRPERC20",
+    "src": "/assets/images/icons/coins-icons/xrperc20.png"
+  },
+  {
+    "name": "XRSHIB",
+    "src": "/assets/images/icons/coins-icons/xrshib.png"
+  },
+  {
+    "name": "XRT",
+    "src": "/assets/images/icons/coins-icons/xrt.png"
+  },
+  {
+    "name": "XSD",
+    "src": "/assets/images/icons/coins-icons/xsd.png"
+  },
+  {
+    "name": "XSPECTAR",
+    "src": "/assets/images/icons/coins-icons/xspectar.png"
+  },
+  {
+    "name": "XTAG",
+    "src": "/assets/images/icons/coins-icons/xtag.png"
+  },
+  {
+    "name": "XTAGSOL",
+    "src": "/assets/images/icons/coins-icons/xtagsol.png"
+  },
+  {
+    "name": "XTM",
+    "src": "/assets/images/icons/coins-icons/xtm.png"
+  },
+  {
+    "name": "XTZ",
+    "src": "/assets/images/icons/coins-icons/xtz.svg"
+  },
+  {
+    "name": "XTZBEP2",
+    "src": "/assets/images/icons/coins-icons/xtzbep2.png"
+  },
+  {
+    "name": "XTZBEP20",
+    "src": "/assets/images/icons/coins-icons/xtzbep20.png"
+  },
+  {
+    "name": "XUSD",
+    "src": "/assets/images/icons/coins-icons/xusd.png"
+  },
+  {
+    "name": "XVG",
+    "src": "/assets/images/icons/coins-icons/xvg.svg"
+  },
+  {
+    "name": "XVS",
+    "src": "/assets/images/icons/coins-icons/xvs.png"
+  },
+  {
+    "name": "XWG",
+    "src": "/assets/images/icons/coins-icons/xwg.png"
+  },
+  {
+    "name": "XWM",
+    "src": "/assets/images/icons/coins-icons/xwm.png"
+  },
+  {
+    "name": "XYM",
+    "src": "/assets/images/icons/coins-icons/xym.png"
+  },
+  {
+    "name": "XYO",
+    "src": "/assets/images/icons/coins-icons/xyo.png"
+  },
+  {
+    "name": "YCC",
+    "src": "/assets/images/icons/coins-icons/ycc.png"
+  },
+  {
+    "name": "YEE",
+    "src": "/assets/images/icons/coins-icons/yee.png"
+  },
+  {
+    "name": "YFI",
+    "src": "/assets/images/icons/coins-icons/yfi.svg"
+  },
+  {
+    "name": "YFIBEP2",
+    "src": "/assets/images/icons/coins-icons/yfibep2.png"
+  },
+  {
+    "name": "YFIBEP20",
+    "src": "/assets/images/icons/coins-icons/yfibep20.png"
+  },
+  {
+    "name": "YFII",
+    "src": "/assets/images/icons/coins-icons/yfii.svg"
+  },
+  {
+    "name": "YFIIBEP20",
+    "src": "/assets/images/icons/coins-icons/yfiibep20.png"
+  },
+  {
+    "name": "YFL",
+    "src": "/assets/images/icons/coins-icons/yfl.svg"
+  },
+  {
+    "name": "YFO",
+    "src": "/assets/images/icons/coins-icons/yfo.png"
+  },
+  {
+    "name": "YGG",
+    "src": "/assets/images/icons/coins-icons/ygg.png"
+  },
+  {
+    "name": "YGGBEP20",
+    "src": "/assets/images/icons/coins-icons/yggbep20.png"
+  },
+  {
+    "name": "YLD",
+    "src": "/assets/images/icons/coins-icons/yld.png"
+  },
+  {
+    "name": "YOOSHI",
+    "src": "/assets/images/icons/coins-icons/yooshi.png"
+  },
+  {
+    "name": "ZAP",
+    "src": "/assets/images/icons/coins-icons/zap.png"
+  },
+  {
+    "name": "ZAR",
+    "src": "/assets/images/icons/coins-icons/zar.svg"
+  },
+  {
+    "name": "ZAX",
+    "src": "/assets/images/icons/coins-icons/zax.png"
+  },
+  {
+    "name": "ZBC",
+    "src": "/assets/images/icons/coins-icons/zbc.png"
+  },
+  {
+    "name": "ZBCNSOL",
+    "src": "/assets/images/icons/coins-icons/zbcnsol.png"
+  },
+  {
+    "name": "ZBU",
+    "src": "/assets/images/icons/coins-icons/zbu.png"
+  },
+  {
+    "name": "ZCLASSIC",
+    "src": "/assets/images/icons/coins-icons/zclassic.png"
+  },
+  {
+    "name": "ZCX",
+    "src": "/assets/images/icons/coins-icons/zcx.png"
+  },
+  {
+    "name": "ZEC",
+    "src": "/assets/images/icons/coins-icons/zec.svg"
+  },
+  {
+    "name": "ZECBEP2",
+    "src": "/assets/images/icons/coins-icons/zecbep2.png"
+  },
+  {
+    "name": "ZECBEP20",
+    "src": "/assets/images/icons/coins-icons/zecbep20.png"
+  },
+  {
+    "name": "ZEE",
+    "src": "/assets/images/icons/coins-icons/zee.png"
+  },
+  {
+    "name": "ZEEERC20",
+    "src": "/assets/images/icons/coins-icons/zeeerc20.png"
+  },
+  {
+    "name": "ZEN",
+    "src": "/assets/images/icons/coins-icons/zen.svg"
+  },
+  {
+    "name": "ZEREBRO",
+    "src": "/assets/images/icons/coins-icons/zerebro.svg"
+  },
+  {
+    "name": "ZETA",
+    "src": "/assets/images/icons/coins-icons/zeta.png"
+  },
+  {
+    "name": "ZETAMAIN",
+    "src": "/assets/images/icons/coins-icons/zetamain.png"
+  },
+  {
+    "name": "ZEUS",
+    "src": "/assets/images/icons/coins-icons/zeus.png"
+  },
+  {
+    "name": "ZIG",
+    "src": "/assets/images/icons/coins-icons/zig.png"
+  },
+  {
+    "name": "ZIL",
+    "src": "/assets/images/icons/coins-icons/zil.svg"
+  },
+  {
+    "name": "ZILBEP20",
+    "src": "/assets/images/icons/coins-icons/zilbep20.png"
+  },
+  {
+    "name": "ZILERC20",
+    "src": "/assets/images/icons/coins-icons/zilerc20.png"
+  },
+  {
+    "name": "ZINU",
+    "src": "/assets/images/icons/coins-icons/zinu.png"
+  },
+  {
+    "name": "ZKBERC20",
+    "src": "/assets/images/icons/coins-icons/zkberc20.png"
+  },
+  {
+    "name": "ZKJERC20",
+    "src": "/assets/images/icons/coins-icons/zkjerc20.png"
+  },
+  {
+    "name": "ZKS",
+    "src": "/assets/images/icons/coins-icons/zks.png"
+  },
+  {
+    "name": "ZKSYNC",
+    "src": "/assets/images/icons/coins-icons/zksync.png"
+  },
+  {
+    "name": "ZKSYNC",
+    "src": "/assets/images/icons/coins-icons/zksync.svg"
+  },
+  {
+    "name": "ZOON",
+    "src": "/assets/images/icons/coins-icons/zoon.png"
+  },
+  {
+    "name": "ZRC",
+    "src": "/assets/images/icons/coins-icons/zrc.svg"
+  },
+  {
+    "name": "ZRO",
+    "src": "/assets/images/icons/coins-icons/zro.svg"
+  },
+  {
+    "name": "ZROARB",
+    "src": "/assets/images/icons/coins-icons/zroarb.png"
+  },
+  {
+    "name": "ZROAVAXC",
+    "src": "/assets/images/icons/coins-icons/zroavaxc.png"
+  },
+  {
+    "name": "ZROBASE",
+    "src": "/assets/images/icons/coins-icons/zrobase.png"
+  },
+  {
+    "name": "ZROBEP20",
+    "src": "/assets/images/icons/coins-icons/zrobep20.png"
+  },
+  {
+    "name": "ZROERC20",
+    "src": "/assets/images/icons/coins-icons/zroerc20.png"
+  },
+  {
+    "name": "ZROMATIC",
+    "src": "/assets/images/icons/coins-icons/zromatic.png"
+  },
+  {
+    "name": "ZROOP",
+    "src": "/assets/images/icons/coins-icons/zroop.png"
+  },
+  {
+    "name": "ZRX",
+    "src": "/assets/images/icons/coins-icons/zrx.svg"
+  }
+]

@@ -1,0 +1,41 @@
+@import '@styles/_variables.scss';
+
+.button {
+  width: min-content;
+  height: 100%;
+  padding: 8px 30px;
+  border: none;
+  border-radius: 10px;
+  background-color: var(--main-blue);
+  cursor: pointer;
+  white-space: nowrap;
+  box-sizing: border-box;
+  @include inter('semi');
+  font-size: 14px;
+  color: var(--color-white);
+  line-height: 150%;
+  transition: 0.3s;
+
+  &.white {
+    position: relative;
+    background-color: var(--color-white);
+    color: var(--dark-blue);
+  }
+
+  &:hover {
+    opacity: 0.9;
+    transition: 0.3s;
+  }
+  &:disabled {
+    background-color: var(--offer-stroke2);
+    cursor: default;
+  }
+}
+
+@include desktop {
+  .button {
+    &.white {
+      padding: 15px 40px;
+    }
+  }
+}

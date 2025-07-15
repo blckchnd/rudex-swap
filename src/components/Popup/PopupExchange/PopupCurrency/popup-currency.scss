@@ -1,0 +1,60 @@
+@import '@styles/_variables';
+
+.popup-currency {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  justify-content: space-between;
+  padding: 0 10px;
+
+  &:first-of-type {
+    border-bottom: 1px solid var(--color-white);
+    padding: 0 10px 10px;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  &__method {
+    @include inter('light');
+    line-height: normal;
+    font-size: 14px;
+    color: var(--color-white);
+  }
+
+  &__amount {
+    @include inter('semi');
+    color: var(--color-white);
+
+    overflow: hidden;
+    text-wrap: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+  }
+
+  &__type {
+    @include inter('semi');
+    color: var(--color-white);
+    text-transform: uppercase;
+    font-size: 20px;
+    position: relative;
+
+    &::after {
+      content: attr(data-network);
+      @include inter('light');
+      position: absolute;
+      top: 0;
+      left: -10px;
+      transform: translateX(-100%);
+      font-size: 12px;
+      padding: 0 4px;
+      border-radius: 5px;
+      background-color: rgba(227, 235, 249, 0.2);
+      color: var(--color-white);
+      height: max-content;
+    }
+  }
+}

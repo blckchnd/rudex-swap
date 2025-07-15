@@ -1,0 +1,88 @@
+@import '@styles/_variables';
+
+.htw {
+  @include container;
+  align-items: center;
+  padding: 0 20px;
+  transition: 0.5s;
+
+  &__wrapper {
+    @include container;
+    max-width: $max-width;
+    gap: 40px;
+    align-items: center;
+  }
+
+  &__title {
+    @include playfair(36px);
+    text-align: center;
+    max-width: 1100px;
+  }
+
+  &__container {
+    @include container;
+
+    gap: 25px;
+    z-index: -1;
+
+    & .swiper,
+    & .swiper-wrapper,
+    & .swiper-slide {
+      height: 100% !important;
+    }
+  }
+
+  &__slide {
+    max-height: max-content;
+  }
+
+  & .swiper {
+    padding-bottom: 50px;
+  }
+
+  & .swiper-pagination-bullet {
+    background: var(--color-text4);
+
+    &-active {
+      background: var(--main-blue);
+    }
+  }
+}
+
+@keyframes fill {
+  from {
+    background-size: 0% 100%;
+  }
+  to {
+    background-size: 100% 100%;
+  }
+}
+
+@include tablet {
+  .htw {
+    padding: 0 50px;
+
+    &__container {
+      flex-direction: row;
+      gap: 30px;
+      z-index: 0;
+    }
+    &__title {
+      @include playfair(40px);
+    }
+  }
+}
+
+@include desktop {
+  .htw {
+    padding: 0 150px;
+
+    &__container {
+      gap: 100px;
+    }
+
+    &__title {
+      @include playfair(64px);
+    }
+  }
+}

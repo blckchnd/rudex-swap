@@ -1,0 +1,28 @@
+@import '@styles/_variables';
+
+.status-section {
+  @include container;
+  gap: 20px;
+
+  &__title {
+    @include playfair(32px);
+    transition: 0.5s;
+    text-align: center;
+  }
+}
+
+@include tablet {
+  .status-section {
+    &__title {
+      @include playfair(40px);
+    }
+  }
+}
+
+@include desktop {
+  .status-section {
+    &__title {
+      @include playfair(64px);
+    }
+  }
+}

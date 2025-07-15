@@ -1,0 +1,123 @@
+@import '@styles/_variables.scss';
+
+.swap-currencies {
+  @include container;
+  gap: 20px;
+
+  &__wrapper {
+    @include container;
+    padding: 10px 10px 20px;
+    background-color: var(--widget-background);
+    border-radius: 30px;
+    gap: 10px;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    gap: 10px;
+    flex-grow: 1;
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      width: 60px;
+      height: 60px;
+      background-color: var(--widget-background);
+      border-radius: 50%;
+    }
+  }
+
+  &__title {
+    @include playfair(22px);
+    color: var(--color-white);
+    margin: 0 10px;
+  }
+
+  &__offers {
+    @include container;
+
+    align-items: center;
+    text-align: center;
+    padding: 0 10px;
+
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+    gap: 15px;
+
+    &-title {
+      @include playfair(24px);
+      line-height: 100%;
+      max-width: 500px;
+    }
+
+    &-description {
+      @include inter('light');
+      font-size: 14px;
+      color: var(--color-text4);
+      width: 100%;
+      max-width: 400px;
+    }
+  }
+}
+
+@include tablet {
+  .swap-currencies {
+    &__container {
+      flex-direction: row;
+
+      &::after {
+        display: none;
+      }
+    }
+    &__title {
+      font-size: 24px;
+      height: 46px;
+    }
+    &__offers {
+      align-self: center;
+
+      &-title {
+        font-size: 30px;
+      }
+
+      &-description {
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+@include custom-media-min($middle-desk-min) {
+  .swap-currencies {
+    flex-direction: row;
+    align-items: center;
+
+    &__static {
+      align-items: flex-start;
+    }
+
+    &__wrapper {
+      max-width: 500px;
+      padding: 10px 20px 20px;
+      position: sticky;
+      top: 20px;
+    }
+    &__container {
+      flex-direction: column;
+
+      &::after {
+        display: flex;
+      }
+    }
+    &__offers {
+      justify-content: center;
+    }
+  }
+}

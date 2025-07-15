@@ -1,0 +1,12 @@
+.link {
+  color: var(--color-white);
+  text-decoration: none;
+  width: min-content;
+  height: min-content;
+  transition: 0.3s;
+
+  &:hover {
+    color: var(--main-blue);
+    transition: 0.3s;
+  }
+}

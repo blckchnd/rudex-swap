@@ -1,0 +1,162 @@
+@import '@styles/_variables';
+
+.status-image {
+  @include container;
+
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+
+  background-image: url(@images/status/status_mobile.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  padding: 0 10px;
+
+  min-height: 100px;
+  height: max-content;
+  transition: 0.5s;
+  grid-area: status;
+
+  &__item {
+    @include container;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    transition: 0.5s;
+    color: var(--color-white);
+    font-size: 16px;
+    text-wrap: nowrap;
+    text-align: center;
+    box-sizing: border-box;
+
+    &:not(:last-of-type)::after {
+      content: '';
+      position: absolute;
+      box-sizing: border-box;
+      right: 0;
+      transform: translateX(50%);
+      top: 10px;
+      margin: 0 0 0 40px;
+      width: calc(100% - 80px);
+      max-width: 150px;
+      height: 2px;
+      border-radius: 50%;
+      background-color: var(--color-white);
+    }
+
+    &.active {
+      transition: 0.5s;
+      @include inter('med');
+    }
+
+    &.completed {
+      transition: 0.5s;
+
+      &::before {
+        content: '';
+        position: relative;
+        width: 20px;
+        height: 20px;
+        background-image: url(@images/check.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    }
+
+    &.upcoming {
+      transition: 0.5s;
+
+      &::before {
+        content: '';
+        position: relative;
+        width: 20px;
+        height: 20px;
+        border: 1px solid var(--color-white);
+        border-radius: 50%;
+        box-sizing: border-box;
+      }
+
+      &:not(:last-of-type)::after {
+        opacity: 0.3;
+      }
+    }
+    &.hidden {
+      width: 0;
+      overflow: hidden;
+      transition: 0.5s;
+    }
+  }
+}
+
+@include tablet {
+  .status-image {
+    background-image: url(@images/status/status_tablet.png);
+    transition: 0.5s;
+
+    &__item {
+      font-size: 12px;
+
+      &:not(:last-of-type)::after {
+        max-width: 78px;
+      }
+      &.upcoming {
+        transition: 0.5s;
+
+        &:not(:last-of-type)::after {
+          content: '';
+          max-width: 78px;
+        }
+      }
+    }
+  }
+}
+
+@include desktop {
+  .status-image {
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px;
+    min-width: 250px;
+    height: 413px;
+    padding: 40px;
+    border-radius: 20px;
+    background-image: url(@images/status/status_desktop.png);
+
+    &__item {
+      flex-direction: row;
+      justify-content: flex-start;
+      gap: 10px;
+      text-wrap: nowrap;
+      height: max-content;
+
+      &:not(:last-of-type)::after {
+        content: '';
+        position: absolute;
+        box-sizing: border-box;
+        right: unset;
+        left: 8px;
+        top: unset;
+        bottom: -40px;
+
+        width: 2px;
+        max-width: 100%;
+        height: 30px;
+        margin: 0;
+        border-radius: 50%;
+        background-color: var(--color-white);
+      }
+
+      &.upcoming {
+        &:not(:last-of-type)::after {
+          opacity: 0.3;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+.close-button {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  background-color: unset;
+  overflow: hidden;
+  border: none;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity 0.5s;
+  margin: 5px;
+
+  &:hover {
+    opacity: 0.7;
+    transition: 0.5s;
+  }
+
+  &:before,
+  &:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 24px;
+    height: 3px;
+    border-radius: 3px;
+    background: var(--color-white);
+  }
+  &::after {
+    webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  &::before {
+    webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+}

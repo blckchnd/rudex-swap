@@ -1,0 +1,45 @@
+@import '@styles/_variables';
+
+.questions {
+  @include container;
+  align-items: center;
+  padding: 0 20px;
+  transition: 0.5s;
+
+  &__wrapper {
+    @include container;
+    align-items: center;
+    max-width: $max-width;
+    gap: 40px;
+  }
+
+  &__title {
+    @include playfair(30px);
+  }
+
+  &__items {
+    @include container;
+  }
+}
+
+@include tablet {
+  .questions {
+    padding: 0 50px;
+    background-size: 100%;
+    transition: 0.5s;
+
+    &__title {
+      @include playfair(35px);
+    }
+  }
+}
+
+@include desktop {
+  .questions {
+    padding: 0 150px;
+
+    &__title {
+      @include playfair(50px);
+    }
+  }
+}

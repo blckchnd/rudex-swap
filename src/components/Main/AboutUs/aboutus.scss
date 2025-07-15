@@ -1,0 +1,92 @@
+@import '@styles/_variables';
+
+.aboutus {
+  @include container;
+  align-items: center;
+  padding: 100px 20px;
+  background-image: url(@images/about/background_mobile.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: var(--color-white);
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: -50px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(@images/about/coins.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top center;
+    z-index: -1;
+  }
+
+  &__wrapper {
+    @include container;
+    gap: 15px;
+    justify-content: flex-end;
+    max-width: $max-width;
+  }
+
+  &__title {
+    @include playfair(40px);
+  }
+
+  &__description {
+    @include inter('light');
+  }
+}
+
+@include tablet {
+  .aboutus {
+    padding: 70px 50px;
+    background-image: url(@images/about/background_desktop.svg);
+    background-position: left top;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: unset;
+      right: 0;
+      width: 35%;
+      background-position: bottom right;
+      background-size: cover;
+    }
+
+    &__wrapper {
+      justify-content: flex-start;
+    }
+
+    &__title {
+      @include playfair(40px);
+    }
+
+    &__description {
+      max-width: 70%;
+    }
+  }
+}
+
+@include desktop {
+  .aboutus {
+    padding: 100px 150px;
+
+    &__wrapper {
+      gap: 20px;
+    }
+
+    &__title {
+      @include playfair(64px);
+    }
+
+    &__description {
+      font-size: 18px;
+    }
+  }
+}

@@ -1,0 +1,134 @@
+@import '@styles/_variables';
+
+.products {
+  @include container;
+  align-items: center;
+  padding: 0 20px;
+  gap: 30px;
+  transition: 0.5s;
+
+  &__title {
+    @include playfair(40px);
+  }
+
+  &__swapper {
+    @include container;
+    max-width: $max-width;
+
+    & .swiper-wrapper {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
+
+.swiper-scrollbar.scroll-bar {
+  position: relative;
+  margin-top: 30px;
+  background: var(--progress-stroke);
+}
+
+.swiper-scrollbar-drag {
+  background: var(--main-blue);
+}
+
+.swiper-button-next {
+  display: none;
+}
+
+.swiper-button-prev {
+  display: none;
+}
+
+@include tablet {
+  .products {
+    padding: 0 50px;
+    gap: 40px;
+
+    &__swapper {
+      padding-bottom: 110px;
+    }
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: block;
+    top: unset;
+    bottom: 0;
+    left: 50%;
+    width: 62px;
+    height: 62px;
+    border: 1px solid var(--widget-stroke);
+    border-radius: 50%;
+    transition: 0.5s;
+
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      width: 24px;
+      height: 20px;
+      background-color: var(--widget-stroke);
+      background-size: cover;
+      mask: url(@images/arrow_left_prd.svg) no-repeat center;
+      -webkit-mask: url(@images/arrow_left_prd.svg) no-repeat center;
+      transition: 0.5s;
+    }
+
+    &:hover {
+      border: 1px solid var(--color-white);
+
+      &::before {
+        background-color: var(--color-white);
+      }
+    }
+  }
+
+  .swiper-button-next {
+    transform: translateX(calc(-50% + 50px));
+
+    &::before {
+      transform: rotate(180deg) translateX(50%) translateY(50%);
+    }
+
+    &::after {
+      display: none;
+    }
+  }
+
+  .swiper-button-prev {
+    transform: translateX(calc(-50% - 50px));
+
+    &::after {
+      display: none;
+    }
+  }
+}
+
+@include desktop {
+  .products {
+    padding: 0 150px;
+    gap: 60px;
+
+    &__title {
+      @include playfair(64px);
+    }
+  }
+
+  .swiper-scrollbar.scroll-bar {
+    margin-top: 40px;
+  }
+}
+
+@include custom-media-min($max-width) {
+  .swiper-button-next {
+    display: none;
+  }
+
+  .swiper-button-prev {
+    display: none;
+  }
+}

@@ -1,0 +1,71 @@
+@import '@styles/_variables';
+
+.features {
+  @include container;
+  align-items: center;
+  padding: 0 20px;
+
+  &__wrapper {
+    @include container;
+    align-items: center;
+    gap: 40px;
+    max-width: $max-width;
+  }
+
+  &__title {
+    @include playfair(36px);
+    text-align: center;
+  }
+
+  &__cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(6, 1fr);
+    row-gap: 20px;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@include tablet {
+  .features {
+    padding: 0 50px;
+
+    &__title {
+      @include playfair(40px);
+    }
+
+    &__cards {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      row-gap: 20px;
+      column-gap: 20px;
+    }
+  }
+}
+
+@include desktop {
+  .features {
+    padding: 0 150px;
+
+    &__wrapper {
+      gap: 60px;
+    }
+
+    &__title {
+      @include playfair(64px);
+    }
+  }
+}
+
+@include custom-media-min(1200px) {
+  .features {
+    &__cards {
+      row-gap: 30px;
+      column-gap: 30px;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+    }
+  }
+}

@@ -1,0 +1,76 @@
+@import '@styles/_variables';
+
+.status-transaction {
+  gap: 50px;
+
+  @include container;
+  @include container-padding;
+
+  &__title {
+    @include playfair(32px);
+    transition: 0.5s;
+    text-align: center;
+  }
+
+  &__subtitle {
+    @include container;
+    gap: 10px;
+  }
+
+  &__container {
+    @include container;
+    gap: 30px;
+  }
+
+  &__block {
+    @include container;
+    gap: 30px;
+  }
+
+  &__header {
+    @include container;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--popup-stroke);
+    padding-bottom: 15px;
+    gap: 20px;
+
+    &-title.status-title {
+      @include inter('semi');
+      font-size: 18px;
+      color: unset;
+      text-align: center;
+    }
+  }
+}
+
+@include tablet {
+  .status-transaction {
+    &__title {
+      @include playfair(40px);
+    }
+  }
+}
+
+@include desktop {
+  .status-transaction {
+    flex-direction: column;
+    align-items: center;
+
+    &__title {
+      @include playfair(64px);
+    }
+
+    &__container {
+      @include container;
+      flex-direction: row;
+    }
+
+    &__header {
+      &-title.status-title {
+        font-size: 22px;
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+@import '@styles/_variables';
+
+.status-info {
+  @include container;
+
+  gap: 20px;
+  grid-area: info;
+
+  &__block {
+    @include container;
+    gap: 20px;
+  }
+
+  &__container {
+    @include container;
+    gap: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--popup-stroke);
+    overflow: hidden;
+
+    &.no-border {
+      border: none;
+      padding: 0;
+    }
+  }
+
+  &__timer {
+    color: var(--color-attention);
+    @include inter('semi');
+  }
+}
+
+@include tablet {
+  .status-info {
+    flex-direction: row;
+    align-items: center;
+
+    &__block {
+      @include container;
+      gap: 15px;
+      height: max-content;
+    }
+
+    &__container {
+      flex-direction: row;
+      height: min-content;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+
+      &.timer {
+        border: none;
+        padding: 0;
+      }
+    }
+  }
+}

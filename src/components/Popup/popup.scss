@@ -1,0 +1,92 @@
+@import '@styles/_variables';
+
+.popup {
+  @include container;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: var(--popup-background);
+  opacity: 0;
+  transition: 0.5s;
+  z-index: -10000;
+  padding: 20px 10px;
+  align-items: center;
+  justify-content: center;
+
+  &.active {
+    overflow: hidden;
+    z-index: 100000;
+    transition: 0.5s;
+    opacity: 1;
+  }
+
+  &__wrapper {
+    @include container;
+
+    position: relative;
+    max-width: $max-width;
+    height: max-content;
+    min-height: 300px;
+    padding: 10px 10px 30px;
+    background-color: var(--color-background);
+    border-radius: 30px;
+    border: 1px solid var(--widget-stroke);
+    gap: 10px;
+
+    &-status {
+      max-width: 734px;
+    }
+  }
+
+  &__loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: var(--popup-loader);
+    border-radius: 30px;
+    z-index: 10;
+  }
+
+  &-text__bold {
+    text-transform: uppercase;
+  }
+}
+
+@include tablet {
+  .popup {
+    padding: 20px 50px;
+    &__wrapper {
+      &-tab {
+        max-width: 734px;
+      }
+    }
+  }
+}
+
+@include desktop {
+  .popup {
+    &__wrapper:not(.popup__wrapper-tab) {
+      display: grid;
+      grid-template-areas: 'status header' 'status info' 'status footer';
+      padding: 10px;
+      grid-template-columns: min-content 1fr;
+      column-gap: 20px;
+      row-gap: 0;
+    }
+    &__wrapper-tab {
+      display: flex;
+      grid-template-columns: unset;
+      grid-template-areas: none;
+      column-gap: unset;
+      row-gap: unset;
+      padding: 10px 10px 30px;
+    }
+  }
+}

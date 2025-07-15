@@ -1,0 +1,88 @@
+@import '@styles/_variables';
+
+.footer {
+  @include container;
+  flex-shrink: 0;
+  align-items: center;
+  padding: 50px 20px;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    transition: 0.5s;
+  }
+
+  &.active::before {
+    background-color: var(--color-blur);
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  &__wrapper {
+    @include container;
+    align-items: center;
+    max-width: $max-width;
+    gap: 40px;
+  }
+
+  &__links {
+    @include container;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+  }
+
+  &__info {
+    @include container;
+    align-items: center;
+    gap: 40px;
+  }
+
+  &__link {
+    color: var(--color-text);
+    text-align: center;
+    width: 100%;
+  }
+
+  &__copy {
+    text-align: center;
+    font-size: 14px;
+  }
+}
+
+@include tablet {
+  .footer {
+    padding: 50px;
+
+    justify-content: space-between;
+
+    &__links {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    &__link {
+      width: max-content;
+    }
+
+    &__info {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+}
+
+@include desktop {
+  .footer {
+    padding: 50px 150px;
+
+    &__link {
+      font-size: 18px;
+    }
+  }
+}

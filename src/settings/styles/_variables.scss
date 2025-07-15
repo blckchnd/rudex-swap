@@ -1,0 +1,91 @@
+// Text
+
+@mixin playfair($font) {
+  font-family: Playfair, Verdana, Geneva, sans-serif;
+  font-size: $font;
+}
+
+@mixin inter($type) {
+  @if $type == light {
+    font-family: Inter-Light, Verdana, Geneva, sans-serif;
+  } @else if ($type == med) {
+    font-family: Inter-Medium, Verdana, Geneva, sans-serif;
+  } @else if ($type == semi) {
+    font-family: Inter-SemiBold, Verdana, Geneva, sans-serif;
+  } @else if ($type == bold) {
+    font-family: Inter-Bold, Verdana, Geneva, sans-serif;
+  } @else {
+    font-family: Inter-Regular, Verdana, Geneva, sans-serif;
+  }
+}
+
+// Media
+
+@mixin custom-media-min($min) {
+  @media only screen and (min-width: $min) {
+    @content;
+  }
+}
+
+@mixin custom-media-min-max($min, $max) {
+  @media only screen and (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media only screen and (min-width: $tab-min) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media only screen and (min-width: $desk-min) {
+    @content;
+  }
+}
+
+@mixin container {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: min-content;
+}
+
+@mixin container-padding {
+  padding: 0 20px;
+
+  @include tablet {
+    padding: 0 50px;
+  }
+
+  @include desktop {
+    padding: 0 150px;
+  }
+}
+
+@mixin responsive-padding($mobile, $tablet, $desktop) {
+  padding: $mobile;
+
+  @include tablet {
+    padding: $tablet;
+  }
+
+  @include desktop {
+    padding: $desktop;
+  }
+}
+
+$mob-min: 320px;
+$tab-min: 768px;
+$desk-min: 1024px;
+$middle-desk-min: 1200px;
+
+$mob-max: 319px;
+$tab-max: 767px;
+$desk-max: 1023;
+
+$max-width: 1440px;

@@ -1,0 +1,33 @@
+@import '@styles/_variables';
+
+.check-status-text {
+  @include container;
+  gap: 5px;
+  overflow: hidden;
+
+  &__type {
+    @include inter('light');
+    font-size: 14px;
+    color: var(--color-text4);
+  }
+
+  &__result {
+    width: 100%;
+    @include inter('semi');
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: var(--color-black);
+  }
+}
+
+@include tablet {
+  .check-status-text {
+    flex-direction: row;
+    gap: 20px;
+
+    &__type {
+      text-wrap: nowrap;
+    }
+  }
+}
