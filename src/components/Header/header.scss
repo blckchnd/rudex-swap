@@ -3,9 +3,13 @@
 .header {
   @include container;
   align-items: center;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
   height: 70px;
   padding: 0 20px;
+  z-index: 50;
+  filter: drop-shadow(0 0 1rem var(--color-background));
 
   background-image: url(@images/header/header_mobile.png);
   background-repeat: no-repeat;
@@ -39,6 +43,9 @@
     @include playfair(40px);
     color: var(--color-white);
     display: none;
+    text-align: center;
+    padding: 0 40px;
+    transition: 0.5s;
   }
 }
 

@@ -6,6 +6,7 @@ import { SwitchLanguageProvider } from './components/utils/provider/SwitchLangua
 import { BrowserRouter } from 'react-router-dom';
 import { InfoProvider } from '@components/utils/provider/InfoProvider.jsx';
 import App from '@components/App';
+import { HelmetProvider } from 'react-helmet-async';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -13,7 +14,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <SwitchThemeProvider>
         <SwitchLanguageProvider>
           <InfoProvider>
-            <App />
+            <HelmetProvider>
+              <App />
+            </HelmetProvider>
           </InfoProvider>
         </SwitchLanguageProvider>
       </SwitchThemeProvider>

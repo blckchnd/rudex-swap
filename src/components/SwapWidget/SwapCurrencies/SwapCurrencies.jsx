@@ -8,6 +8,7 @@ import SwapRates from './SwapRates/SwapRates';
 import { InfoContext } from '@components/utils/provider/InfoProvider';
 import { localiztionHelper } from '@components/utils/utils';
 import classNames from 'classnames';
+import { Loader } from '@components/shared/Loader/Loader';
 
 const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
   const controllerRef = useRef();
@@ -192,7 +193,11 @@ const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
         </div>
       </div>
 
-      {amountResiveCurrency ? (
+      {loading ? (
+        <div className="loader_container">
+          <Loader size="l" />
+        </div>
+      ) : amountResiveCurrency ? (
         <SwapRates
           ratePartners={ratePartners}
           locales={locales}

@@ -40,7 +40,7 @@ const SwapRate = ({ partner, locales, best, currencies }) => {
     <article className="swap-rate">
       <div
         style={{
-          '--partner-img': `url(/assets/images//partners/${partnerIcon}.svg)`,
+          '--partner-img': `url(/assets/images/partners/${partnerIcon}.svg)`,
         }}
         className={classNames('swap-rate__title-container', partnerIcon)}
       >

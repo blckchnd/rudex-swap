@@ -2,7 +2,7 @@
   "MENU_BAR": [
     {
       "TITLE": "RUDEX swap",
-      "LINK": "/",
+      "LINK": "/more-rates",
       "TARGET": "_self"
     },
     {
@@ -18,14 +18,14 @@
       "LINK": "https://github.com/graphene-blockchain/DEXBot"
     }
   ],
-  "HEADER": "Intercambiar criptomonedas",
+  "HEADER": "Intercambio cripto",
   "SWAP_BUTTON": "CRYPTO SWAP",
   "SWAP_WIDGET": {
-    "TITLE": "Intercambio de criptomonedas",
+    "TITLE": "Intercambio cripto",
     "SEND": "Enviar",
     "RECIVE": "Recibir",
     "NO_RATE": "Sin tasa",
-    "START_OFFERS_TITLE": "Intercambiar criptomonedas",
+    "START_OFFERS_TITLE": "Intercambio cripto",
     "START_OFFERS_DESCRIPTION": "Seleccione una moneda e ingrese cuánto desea intercambiar",
     "CHANGE_OFFERS_TITLE": "No hay ofertas que coincidan con su búsqueda, pruebe con otra",
     "CHANGE_OFFERS_DESCRIPTION": "Cambie el par de intercambio y continúe",

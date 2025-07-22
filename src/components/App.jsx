@@ -8,7 +8,7 @@ import MainPage from '@components/Pages/MainPage';
 import MoreRatesPage from '@components/Pages/MoreRatesPage';
 import NoPage from '@components/Pages/NoPage';
 import StatusPage from './Pages/StatusPage';
-import { Helmet } from 'react-helmet';
+import { Helmet } from 'react-helmet-async';
 
 function App() {
   const { language } = useContext(LanguageContext);
