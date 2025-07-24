@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import PopupCurrency from './PopupCurrency/PopupCurrency';
 import Button from '@components/shared/Buttons/Button/Button';
 import axiosRequest from '@components/utils/hooks/axiosRequestHook';
-import { localiztionHelper } from '@components/utils/utils';
+import { localizationHelper } from '@components/utils/utils';
 import Input from '@components/shared/Input/Input';
 import PopupHeader from '../PopupHeader/PopupHeader';
 import PopupDescriptionTitle from '../common/PopupDescriptionTitle/PopupDescriptionTitle';
@@ -161,7 +161,7 @@ const PopupExchange = ({
           network={exchange?.fromNetwork}
         />
         <PopupCurrency
-          method={locales.POPUP_EXCHANGE.RECIVE}
+          method={locales.POPUP_EXCHANGE.RECEIVE}
           amountFrom={exchange?.amountTo}
           ticker={typeResiveCurrency?.label}
           network={exchange?.toNetwork}
@@ -170,15 +170,16 @@ const PopupExchange = ({
 
       <form id="exchange-form" className="popup-exchange__inputs">
         <Input
-          idName={'recive'}
+          idName={'receive'}
           label={locales.POPUP_EXCHANGE.INPUT_ADRESS_LABEL}
           handleInput={handleInputAdress}
           input={inputAdress}
-          placeholder={localiztionHelper({
+          placeholder={localizationHelper({
             str: locales.POPUP_EXCHANGE.INPUT_ADRESS_DESCRIPTION,
             params: {
-              recive: exchange?.to?.toUpperCase(),
+              receive: exchange?.to?.toUpperCase(),
             },
+            plainText: true,
           })}
           required
         />
@@ -197,13 +198,14 @@ const PopupExchange = ({
               label={locales.POPUP_EXCHANGE.INPUT_REFUND_LABEL}
               handleInput={handleInputRefund}
               input={inputRefund}
-              placeholder={localiztionHelper({
+              placeholder={localizationHelper({
                 str: refundPartner
                   ? locales.POPUP_EXCHANGE.INPUT_REFUND_DESCRIPTION_REQ
                   : locales.POPUP_EXCHANGE.INPUT_REFUND_DESCRIPTION,
                 params: {
                   refund: exchange?.from?.toUpperCase(),
                 },
+                plainText: true,
               })}
               required={refundPartner}
             />
@@ -254,13 +256,14 @@ const PopupExchange = ({
                 label={locales.POPUP_EXCHANGE.INPUT_REFUND_LABEL}
                 handleInput={handleInputRefund}
                 input={inputRefund}
-                placeholder={localiztionHelper({
+                placeholder={localizationHelper({
                   str: refundPartner
                     ? locales.POPUP_EXCHANGE.INPUT_REFUND_DESCRIPTION_REQ
                     : locales.POPUP_EXCHANGE.INPUT_REFUND_DESCRIPTION,
                   params: {
                     refund: exchange?.from?.toUpperCase(),
                   },
+                  plainText: true,
                 })}
                 required={refundPartner}
               />

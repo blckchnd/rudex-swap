@@ -23,7 +23,7 @@
   "SWAP_WIDGET": {
     "TITLE": "Intercambio cripto",
     "SEND": "Enviar",
-    "RECIVE": "Recibir",
+    "RECEIVE": "Recibir",
     "NO_RATE": "Sin tasa",
     "START_OFFERS_TITLE": "Intercambio cripto",
     "START_OFFERS_DESCRIPTION": "Seleccione una moneda e ingrese cuánto desea intercambiar",
@@ -45,7 +45,7 @@
   "POPUP_EXCHANGE": {
     "TITLE": "Introducir los datos",
     "SEND": "Enviar",
-    "RECIVE": "Recibir",
+    "RECEIVE": "Recibir",
     "INPUT_ADRESS_LABEL": "Billetera del destinatario",
     "INPUT_ADRESS_DESCRIPTION": "Introduzca la dirección para recibir (obligatorio)",
     "INPUT_DESTINATION_LABEL": "Nota",
@@ -90,7 +90,7 @@
   },
   "STATUS_SUCCESS": {
     "HEADER_TITLE": "¡Éxito!",
-    "SWAP_INFO": "Su intercambio de {send} a {recive} se ha completado",
+    "SWAP_INFO": "Su intercambio de {send} a {receive} se ha completado",
     "AMOUNT_EXPECTED": "Cantidad esperada",
     "AMOUNT_RECEIVED": "Cantidad recibida",
     "TIME_SPENT": "Tiempo invertido",

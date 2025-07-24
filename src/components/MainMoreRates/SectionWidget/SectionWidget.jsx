@@ -1,7 +1,7 @@
 import { useContext, useEffect } from 'react';
 import './section-widget.scss';
 import SwapCurrencies from '@components/SwapWidget/SwapCurrencies/SwapCurrencies';
-import { localiztionHelper } from '@components/utils/utils';
+import { localizationHelper } from '@components/utils/utils';
 import { InfoContext } from '@components/utils/provider/InfoProvider';
 
 const SectionWidget = (props) => {
@@ -14,7 +14,7 @@ const SectionWidget = (props) => {
     <section className="section-widget">
       <div className="section-widget__wrapper">
         <h2 className="section-widget__title">
-          {localiztionHelper({
+          {localizationHelper({
             str: locales?.MORE_RATES_WIDGET_TITLE,
             params: {
               deposit: depositCur?.label,

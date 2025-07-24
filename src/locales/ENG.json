@@ -23,7 +23,7 @@
   "SWAP_WIDGET": {
     "TITLE": "Exchange crypto",
     "SEND": "You send",
-    "RECIVE": "You recive",
+    "RECEIVE": "You receive",
     "NO_RATE": "No rate",
     "START_OFFERS_TITLE": "Exchange crypto",
     "START_OFFERS_DESCRIPTION": "Select a currency and enter how much you want to exchange",
@@ -45,9 +45,9 @@
   "POPUP_EXCHANGE": {
     "TITLE": "Enter details",
     "SEND": "You send",
-    "RECIVE": "You recive",
+    "RECEIVE": "You receive",
     "INPUT_ADRESS_LABEL": "Recipient wallet",
-    "INPUT_ADRESS_DESCRIPTION": "Enter address to receive {recive} (required)",
+    "INPUT_ADRESS_DESCRIPTION": "Enter address to receive {receive} (required)",
     "INPUT_DESTINATION_LABEL": "Memo",
     "INPUT_DESTINATION_DESCRIPTION": "Enter memo(optional)",
     "INPUT_REFUND_LABEL": "Refund wallet",
@@ -90,7 +90,7 @@
   },
   "STATUS_SUCCESS": {
     "HEADER_TITLE": "Success!",
-    "SWAP_INFO": "Your {send} to {recive} swap has finished",
+    "SWAP_INFO": "Your {send} to {receive} swap has finished",
     "AMOUNT_EXPECTED": "Amount expected",
     "AMOUNT_RECEIVED": "Amount received",
     "TIME_SPENT": "Time spent",
@@ -241,8 +241,8 @@
       "CREATED_TIME": "Created",
       "DEPOSIT": "Awaiting deposit",
       "DEPOSITED": "You sent",
-      "RECIEVE": "You will recive",
-      "RECIEVED": "You recived",
+      "RECIEVE": "You will receive",
+      "RECIEVED": "You received",
       "ADRESS_DEPOSIT": "Deposit wallet",
       "ADRESS_RECEIVE": "Receive wallet"
     },
@@ -283,7 +283,7 @@
         "ITEM": "Transfer your {deposit} {depositNetwork} to the given address."
       },
       {
-        "ITEM": "Once the transaction is confirmed, you’ll get your XMR into your crypto wallet."
+        "ITEM": "Once the transaction is confirmed, you’ll get your {receive} {receiveNetwork} into your crypto wallet."
       }
     ],
     "BUTTON": "Exchange crypto"

@@ -12,10 +12,15 @@ export const scrollToPosition = (position) => {
   window.scrollTo(0, position);
 };
 
-export const localiztionHelper = ({ str, params, className = '' }) => {
+export const localizationHelper = ({
+  str,
+  params,
+  className = '',
+  plainText = false,
+}) => {
   const parts = str.split(/({\w+})/g);
 
-  return parts.map((part, index) => {
+  const returnList = parts.map((part, index) => {
     const match = part.match(/{(\w+)}/);
     if (!match) return part;
 
@@ -25,12 +30,18 @@ export const localiztionHelper = ({ str, params, className = '' }) => {
     const appliedClass =
       typeof param === 'object' ? param.className || className : className;
 
-    return (
-      <span key={index} className={appliedClass}>
-        {value}
-      </span>
-    );
+    if (plainText) {
+      return String(value);
+    } else {
+      return (
+        <span key={index} className={appliedClass}>
+          {value}
+        </span>
+      );
+    }
   });
+
+  return plainText ? returnList.join('').replace(/,/g, '') : returnList;
 };
 
 export const fixTime = (time) => {

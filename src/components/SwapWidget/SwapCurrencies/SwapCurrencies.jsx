@@ -6,7 +6,7 @@ import SwapCurrency from './SwapCurrency/SwapCurrency';
 import SwapCurrencyButton from './SwapCurrencyButton/SwapCurrencyButton';
 import SwapRates from './SwapRates/SwapRates';
 import { InfoContext } from '@components/utils/provider/InfoProvider';
-import { localiztionHelper } from '@components/utils/utils';
+import { localizationHelper } from '@components/utils/utils';
 import classNames from 'classnames';
 import { Loader } from '@components/shared/Loader/Loader';
 
@@ -56,7 +56,7 @@ const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
     setAmountSendCurrency(ticker?.defaultAmount);
   };
 
-  const changeReciveCurrency = (evt) => {
+  const changeReceiveCurrency = (evt) => {
     setTypeResiveCurrency({
       value: evt?.value,
       label: evt?.label,
@@ -89,7 +89,7 @@ const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
     }
   };
 
-  const changeAmountReciveCurrency = (data) => {
+  const changeAmountReceiveCurrency = (data) => {
     setLoading(false);
     setRatePartners(data);
 
@@ -131,7 +131,7 @@ const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
           rateType: 'all',
         },
         signal: controller.signal,
-        callback: changeAmountReciveCurrency,
+        callback: changeAmountReceiveCurrency,
       });
 
       return () => {
@@ -178,10 +178,10 @@ const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
           />
           <SwapCurrency
             currencies={currencies}
-            method={locales.SWAP_WIDGET.RECIVE}
+            method={locales.SWAP_WIDGET.RECEIVE}
             id={'currencyResive'}
             currencyState={typeResiveCurrency}
-            changeCurrencySelect={changeReciveCurrency}
+            changeCurrencySelect={changeReceiveCurrency}
             disabledInput={true}
             amountCurrency={amountResiveCurrency}
             handleCurrencyInput={() => null}
@@ -217,7 +217,7 @@ const SwapCurrencies = ({ locales, currencies, sectionWidget = false }) => {
           </span>
           <span className="swap-currencies__offers-description">
             {amountResiveCurrency === '' && error
-              ? localiztionHelper({
+              ? localizationHelper({
                   str: locales?.SWAP_WIDGET.CHANGE_OFFERS_DESCRIPTION_MIN,
                   params: {
                     amount: error,

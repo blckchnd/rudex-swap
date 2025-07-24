@@ -2,7 +2,7 @@ import { Fragment } from 'react';
 import StatusText from '../shared/StatusText/StatusText';
 import StatusTitle from '../shared/StatusTitle/StatusTitle';
 import './status-success.scss';
-import { getTime, localiztionHelper } from '@components/utils/utils';
+import { getTime, localizationHelper } from '@components/utils/utils';
 
 const StatusSuccess = (props) => {
   const { locales, exchangeProcess, toCur, fromCur } = props;
@@ -23,7 +23,7 @@ const StatusSuccess = (props) => {
             {locales?.STATUS_SUCCESS?.HEADER_TITLE}
           </h3>
           <span className="status-success__subtitle">
-            {localiztionHelper({
+            {localizationHelper({
               str: locales?.STATUS_SUCCESS?.SWAP_INFO,
               params: {
                 send: fromCur?.label,
@@ -31,8 +31,8 @@ const StatusSuccess = (props) => {
                   value: fromCur?.network,
                   className: 'status-success__network',
                 },
-                recive: toCur?.label,
-                reciveNetwork: {
+                receive: toCur?.label,
+                receiveNetwork: {
                   value: toCur?.network,
                   className: 'status-success__network',
                 },

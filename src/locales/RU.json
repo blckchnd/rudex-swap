@@ -23,7 +23,7 @@
   "SWAP_WIDGET": {
     "TITLE": "Обмен криптовалюты",
     "SEND": "Отправить",
-    "RECIVE": "Получить",
+    "RECEIVE": "Получить",
     "NO_RATE": "No rate",
     "START_OFFERS_TITLE": "Начать обмен",
     "START_OFFERS_DESCRIPTION": "Выберите валюту и введите сумму, которую хотите обменять",
@@ -45,7 +45,7 @@
   "POPUP_EXCHANGE": {
     "TITLE": "Введите данные",
     "SEND": "Отправить",
-    "RECIVE": "Получить",
+    "RECEIVE": "Получить",
     "INPUT_ADRESS_LABEL": "Кошелек получателя",
     "INPUT_ADRESS_DESCRIPTION": "Введите адрес для получения (обязательно)",
     "INPUT_DESTINATION_LABEL": "Примечание",
@@ -90,7 +90,7 @@
   },
   "STATUS_SUCCESS": {
     "HEADER_TITLE": "Успешно!",
-    "SWAP_INFO": "Ваш обмен {send} {sendNetwork} на {recive} {reciveNetwork} завершен",
+    "SWAP_INFO": "Ваш обмен {send} {sendNetwork} на {receive} {receiveNetwork} завершен",
     "AMOUNT_EXPECTED": "Ожидаемая сумма",
     "AMOUNT_RECEIVED": "Полученная сумма",
     "TIME_SPENT": "Время затрачено",

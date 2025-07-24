@@ -1,6 +1,6 @@
 import Link from '@components/shared/Link/Link';
 import './footer.scss';
-import { localiztionHelper } from '@components/utils/utils';
+import { localizationHelper } from '@components/utils/utils';
 import classNames from 'classnames';
 
 const Footer = ({ locales, swapButton }) => {
@@ -33,7 +33,7 @@ const Footer = ({ locales, swapButton }) => {
             name={locales?.FOOTER?.AGREEMENT?.TEXT}
           />
           <span className="footer__copy">
-            {localiztionHelper({
+            {localizationHelper({
               str: locales?.FOOTER?.COPY,
               params: {
                 year: date.getFullYear(),

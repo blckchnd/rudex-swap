@@ -1,6 +1,6 @@
 import Button from '@components/shared/Buttons/Button/Button';
 import './hts.scss';
-import { localiztionHelper, scrollTop } from '@components/utils/utils';
+import { localizationHelper, scrollTop } from '@components/utils/utils';
 
 const HowToSwap = (props) => {
   const { locales, recieveCur, depositCur } = props;
@@ -13,7 +13,7 @@ const HowToSwap = (props) => {
     <section className="hts">
       <div className="hts__wrapper">
         <h2 className="hts__title">
-          {localiztionHelper({
+          {localizationHelper({
             str: locales?.HOW_TO_SWAP?.TITLE,
             params: {
               deposit: depositCur?.label,
@@ -24,7 +24,7 @@ const HowToSwap = (props) => {
           })}
         </h2>
         <span className="hts__subtitle">
-          {localiztionHelper({
+          {localizationHelper({
             str: locales?.HOW_TO_SWAP?.SUBTITLE.FIRST,
             params: {
               deposit: depositCur?.label,
@@ -48,7 +48,7 @@ const HowToSwap = (props) => {
             return (
               <li key={`hts-item${index}`} className="hts__item">
                 {index + 1 + '. '}
-                {localiztionHelper({
+                {localizationHelper({
                   str: item?.ITEM,
                   params: {
                     deposit: depositCur?.label,
